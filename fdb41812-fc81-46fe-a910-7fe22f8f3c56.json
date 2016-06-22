@@ -8,9 +8,14 @@
   "Telefono": "0362/623613",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJsdnAiqa-hkcRss8s0KJHUiY",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO"
+  "Latitude": "45.604828",
+  "Longitude": "9.215456",
+  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO",
+  "formatted_address": "Via Einaudi Luigi, Italy",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ]
 }

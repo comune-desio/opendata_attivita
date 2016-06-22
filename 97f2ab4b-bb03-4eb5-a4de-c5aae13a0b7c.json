@@ -8,9 +8,16 @@
   "Telefono": "Negozio:362/305126\nUfficio: 0362/305135",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJhejr-yC8hkcRbkaaxLk234s",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Latitude": "45.611542",
+  "Longitude": "9.204702",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "formatted_address": "Via Giuseppe Garibaldi, 206, Italy",
+  "types": [
+    "store",
+    "car_repair",
+    "point_of_interest",
+    "establishment"
+  ]
 }

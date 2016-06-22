@@ -3,13 +3,20 @@
   "Categoria": "",
   "Ragione Sociale": "IMPRESA EDILE MICELI GIUSEPPE & C. SNC",
   "Indirizzo": "VIA DON LUIGI STURZO N.8",
+  "Sito": null,
   "e-mail": " info@impresamiceli.it",
   "Telefono": "0362/629196",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJXV652LmVERMR9M_gDuQIRvg",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Latitude": "36.7800557",
+  "Longitude": "14.6962037",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "formatted_address": "Contrada Zagarone, Scicli RG, Italy",
+  "types": [
+    "general_contractor",
+    "point_of_interest",
+    "establishment"
+  ]
 }

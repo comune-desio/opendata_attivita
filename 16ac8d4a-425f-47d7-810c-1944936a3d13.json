@@ -8,9 +8,16 @@
   "Telefono": "0362/627078",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJhad2vxW8hkcRBS9_00QrgdQ",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Latitude": "45.6289548",
+  "Longitude": "9.2134309",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "formatted_address": "Via Lavoratori Autobianchi, 1/B, 20832, Desio, MB, Italia, Italy",
+  "types": [
+    "hardware_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ]
 }

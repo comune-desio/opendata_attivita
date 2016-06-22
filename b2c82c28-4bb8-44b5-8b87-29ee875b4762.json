@@ -4,12 +4,18 @@
   "Ragione Sociale": "OBIETTIVO SICUREZZA SRL",
   "Indirizzo": "VIA VOLTA N.1/C",
   "Sito": "www.obiettivosicurezzasrl.it",
+  "e-mail": null,
   "Telefono": "0362/306608",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJowW2ZBe8hkcRZYBsrDo35tA",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Latitude": "45.617996",
+  "Longitude": "9.213951",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "formatted_address": "A. /C, Via Alessandro Volta, 1, 20832 Desio MB, Italy",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ]
 }

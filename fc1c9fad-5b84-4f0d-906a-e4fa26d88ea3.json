@@ -3,12 +3,20 @@
   "Categoria": "",
   "Ragione Sociale": "GASTRONOMICA MEDITERRANEA SRL",
   "Indirizzo": "VIA DEL GUADO N.57",
+  "Sito": null,
+  "e-mail": null,
   "Telefono": "0362/307059",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJXw_ShQK8hkcRLacNYmOlWIw",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Latitude": "45.6079125",
+  "Longitude": "9.2207338",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "formatted_address": "Via del Guado, 57, 20832 Desio MB, Italy",
+  "types": [
+    "food",
+    "point_of_interest",
+    "establishment"
+  ]
 }

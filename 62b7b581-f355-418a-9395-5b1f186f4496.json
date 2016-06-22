@@ -4,12 +4,19 @@
   "Ragione Sociale": "FORMEL SRL",
   "Indirizzo": "VIA MILANO N.143",
   "Sito": "www.formelsrl.com",
+  "e-mail": null,
   "Telefono": "0362/638085",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJ55sy98TGhkcRWEy-iYiOvjM",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)"
+  "Latitude": "45.4827921",
+  "Longitude": "9.2054559",
+  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)",
+  "formatted_address": "Via Vitruvio, 43, Milano MI, Italy",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ]
 }

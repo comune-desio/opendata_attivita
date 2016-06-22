@@ -4,12 +4,19 @@
   "Ragione Sociale": "INNOPHARMA SRL",
   "Indirizzo": "VIA LAVORATORI AUTOBIAN N.1",
   "Sito": "www.innopharma.it",
+  "e-mail": null,
   "Telefono": "0362/573128",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJhad2vxW8hkcRTZ8vpzI3brk",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Latitude": "45.6264038",
+  "Longitude": "9.2131412",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "formatted_address": "Via Lavoratori Autobianchi, 1, Desio MB, Italy",
+  "types": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ]
 }

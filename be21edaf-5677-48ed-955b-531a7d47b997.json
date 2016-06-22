@@ -4,12 +4,19 @@
   "Ragione Sociale": "WEALTH SRL",
   "Indirizzo": "VIA LAVORATORI AUTOBIANCHI N.1",
   "Sito": "www.wealth.it",
+  "e-mail": null,
   "Telefono": "0362/638070",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJ0cafew2_hkcR-PgbhDl4osM",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Latitude": "45.625993",
+  "Longitude": "9.213411",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "formatted_address": "Via Lavoratori Autobianchi, 1, 20832 Desio MB, Italy",
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ]
 }

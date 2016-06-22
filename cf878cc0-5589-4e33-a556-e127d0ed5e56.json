@@ -3,12 +3,20 @@
   "Categoria": "",
   "Ragione Sociale": "P.S. VALERA SCAVI SRL",
   "Indirizzo": "VIA FERRAVILLA N.53",
+  "Sito": null,
+  "e-mail": null,
   "Telefono": "0362/450569",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJh98GhC68hkcRE_DZEkDUyg4",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Latitude": "45.6167559",
+  "Longitude": "9.1925564",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "formatted_address": "Via Edoardo Ferravilla, 53, Desio MB, Italy",
+  "types": [
+    "general_contractor",
+    "point_of_interest",
+    "establishment"
+  ]
 }

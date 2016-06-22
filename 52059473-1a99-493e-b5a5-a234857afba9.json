@@ -8,9 +8,15 @@
   "Telefono": "0362/621583",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJS7xGXJm-hkcRmELXxBD5L_0",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Latitude": "45.6038817",
+  "Longitude": "9.2010277",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "formatted_address": "Via Algeria, 10, Desio MB, Italy",
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ]
 }

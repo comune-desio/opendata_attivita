@@ -8,9 +8,16 @@
   "Telefono": "0362/303850",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJ8Tb0uhm8hkcR0VpCKDw4hh8",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
+  "Latitude": "45.6159903",
+  "Longitude": "9.213392",
+  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO",
+  "formatted_address": "Via Roma, 25, 20832 Desio MB, Italy",
+  "types": [
+    "jewelry_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ]
 }

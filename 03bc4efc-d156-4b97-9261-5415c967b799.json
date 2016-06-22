@@ -4,12 +4,20 @@
   "Ragione Sociale": "C.P.O. DISTRIBUZIONE SRL",
   "Indirizzo": "VIA DEL COMMERCIO N.12",
   "Sito": "www.cpodistribuzione.it",
+  "e-mail": null,
   "Telefono": "0362/308769",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJh9PChAO8hkcRxm_R2VDU-HY",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 27 : ORTOFRUTTA-PESCHERIE-FIORI-PIZZA AL TAGLIO"
+  "Latitude": "45.6116722",
+  "Longitude": "9.2232173",
+  "Categoria catastale": "N Non Domestica 27 : ORTOFRUTTA-PESCHERIE-FIORI-PIZZA AL TAGLIO",
+  "formatted_address": "Nuova Valassina, Italy",
+  "types": [
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ]
 }

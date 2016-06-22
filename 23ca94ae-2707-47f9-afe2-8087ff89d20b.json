@@ -3,11 +3,19 @@
   "Categoria": "",
   "Ragione Sociale": "IMPRESA BONALUMI SAS",
   "Indirizzo": "VIA OSLAVIA",
+  "Sito": null,
+  "e-mail": null,
+  "Telefono": null,
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJDV9kRSa8hkcRaFz1X7Eo3tY",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Latitude": "45.6124128",
+  "Longitude": "9.1987127",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "formatted_address": "Via G.Agnesi, 37, 20033 Desio MB, Italy",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ]
 }
