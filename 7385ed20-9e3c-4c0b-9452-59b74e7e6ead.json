@@ -8,9 +8,14 @@
   "Telefono": "0362/302613",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJXw_ShQK8hkcRvUWttoE6d-8",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Latitude": "45.6078478",
+  "Longitude": "9.2205073",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "formatted_address": "Via del Guado, 40, 20033 Desio MB, Italy",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ]
 }

@@ -8,9 +8,14 @@
   "Telefono": "0362/622204",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJG9qICDy8hkcRj81quqXnpTQ",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO"
+  "Latitude": "45.6227638",
+  "Longitude": "9.1993034",
+  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO",
+  "formatted_address": "Via Gabellini Alberto, 105, Italy",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ]
 }

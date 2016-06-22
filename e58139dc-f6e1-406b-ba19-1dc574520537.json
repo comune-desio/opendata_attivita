@@ -8,9 +8,16 @@
   "Telefono": "0362/1793839",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJE7YfKT28hkcRhdkqiSXqduc",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 21 : ATT. ARTIGIANALI PRODUZIONE BENI SPECIFICI"
+  "Latitude": "45.6197094",
+  "Longitude": "9.2152146",
+  "Categoria catastale": "N Non Domestica 21 : ATT. ARTIGIANALI PRODUZIONE BENI SPECIFICI",
+  "formatted_address": "Via XXV Aprile, 11, 20832 Desio MB, Italy",
+  "types": [
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ]
 }

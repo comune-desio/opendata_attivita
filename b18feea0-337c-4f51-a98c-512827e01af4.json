@@ -3,12 +3,20 @@
   "Categoria": "",
   "Ragione Sociale": "P.R.S. ASSICURAZIONI SRL",
   "Indirizzo": "VIA GARIBALDI N.6",
+  "Sito": null,
+  "e-mail": null,
   "Telefono": "0362/302632",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJlYVLPCO8hkcRVN30iIrfr4M",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Latitude": "45.6171928",
+  "Longitude": "9.2061031",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "formatted_address": "Via Giacomo Matteotti, 18, 20832 Desio MB, Italy",
+  "types": [
+    "insurance_agency",
+    "point_of_interest",
+    "establishment"
+  ]
 }

@@ -8,9 +8,16 @@
   "Telefono": "0362/621728",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJcc7fgiS8hkcRH0Gcg-DTNIw",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)"
+  "Latitude": "45.6166539",
+  "Longitude": "9.2037237",
+  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)",
+  "formatted_address": "Via Giacomo Matteotti, 65, 20033 Desio MB, Italy",
+  "types": [
+    "hardware_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ]
 }

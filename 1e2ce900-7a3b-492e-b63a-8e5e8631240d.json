@@ -4,12 +4,21 @@
   "Ragione Sociale": "NUOVO CENTRO GIARDINAGGIO",
   "Indirizzo": "VIA BINZAGO N.50",
   "Sito": "www.gardenfriends.it",
+  "e-mail": null,
   "Telefono": "0362/621359",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJRVEZ7cy9hkcROUNYtbC0FW4",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 28 : IPERMERCATI DI GENERI MISTI"
+  "Latitude": "45.6236206",
+  "Longitude": "9.1868492",
+  "Categoria catastale": "N Non Domestica 28 : IPERMERCATI DI GENERI MISTI",
+  "formatted_address": "Via per Binzago, 50, 20832 Desio MB, Italy",
+  "types": [
+    "furniture_store",
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ]
 }

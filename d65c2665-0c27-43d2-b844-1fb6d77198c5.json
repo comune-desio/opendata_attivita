@@ -4,12 +4,21 @@
   "Ragione Sociale": "ESSELUNGA SPA",
   "Indirizzo": "VIA CARAVAGGIO N.3",
   "Sito": "www.esselunga.it",
+  "e-mail": null,
   "Telefono": "Numero verde: 800-666555",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJ35bRUJ--hkcR1DMsghSocLE",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI"
+  "Latitude": "45.6050851",
+  "Longitude": "9.2046923",
+  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI",
+  "formatted_address": "Via Caravaggio, 1, 20832 Desio MB, Italy",
+  "types": [
+    "grocery_or_supermarket",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ]
 }

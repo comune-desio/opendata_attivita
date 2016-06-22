@@ -8,9 +8,15 @@
   "Telefono": "0362/331866\n0362/308776",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJXw_ShQK8hkcResfeaU-Kg2I",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Latitude": "45.6077822",
+  "Longitude": "9.2202772",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "formatted_address": "Via del Guado, Desio MB, Italy",
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ]
 }

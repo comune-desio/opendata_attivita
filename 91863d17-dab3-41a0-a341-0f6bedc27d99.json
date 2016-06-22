@@ -8,9 +8,17 @@
   "Telefono": "0362/624003",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJTwdIQg68hkcR2z32h8eXLtI",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 06 : ESPOSIZIONI-AUTOSALONI"
+  "Latitude": "45.6163648",
+  "Longitude": "9.2244016",
+  "Categoria catastale": "N Non Domestica 06 : ESPOSIZIONI-AUTOSALONI",
+  "formatted_address": "Nuova Valassina, Italy",
+  "types": [
+    "furniture_store",
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ]
 }

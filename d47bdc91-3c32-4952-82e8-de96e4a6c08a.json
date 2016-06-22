@@ -8,9 +8,14 @@
   "Telefono": "362/304083",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJF-uSsS68hkcRfQAIekdANyc",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE"
+  "Latitude": "45.6146566",
+  "Longitude": "9.1948592",
+  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE",
+  "formatted_address": "Via Serao Matilde, 20832 Desio MB, Italy",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ]
 }

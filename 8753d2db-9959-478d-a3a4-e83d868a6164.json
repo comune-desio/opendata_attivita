@@ -8,9 +8,14 @@
   "Telefono": "0362/1795611",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJSxIUMz68hkcRlCq1p0aasg0",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO"
+  "Latitude": "45.624985",
+  "Longitude": "9.2114541",
+  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO",
+  "formatted_address": "Via Alessandro Volta, 114, 20832 Desio MB, Italy",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ]
 }

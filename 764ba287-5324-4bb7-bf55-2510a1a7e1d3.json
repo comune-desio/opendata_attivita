@@ -8,9 +8,15 @@
   "Telefono": "Telefono:0362/302653 - \n0362/302620",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJ75EjqwO8hkcRVKVb6Ozszzk",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Latitude": "45.6099657",
+  "Longitude": "9.2224644",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "formatted_address": "Via del Commercio, 8, 20033 Desio MB, Italy",
+  "types": [
+    "food",
+    "point_of_interest",
+    "establishment"
+  ]
 }

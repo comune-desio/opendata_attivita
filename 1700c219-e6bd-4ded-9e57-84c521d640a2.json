@@ -8,9 +8,16 @@
   "Telefono": "0362/1785503",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJ26HHMCy8hkcRlNhIFJNjgSw",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Latitude": "45.6072902",
+  "Longitude": "9.1771584",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "formatted_address": "Via Aldo Bozzi, 10, 20832 Desio MB, Italy",
+  "types": [
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ]
 }

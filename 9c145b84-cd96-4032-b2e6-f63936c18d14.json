@@ -8,9 +8,14 @@
   "Telefono": "0362/306868",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJHz91qQS8hkcRmn2FP_mi3Rk",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Latitude": "45.6130656",
+  "Longitude": "9.2204459",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "formatted_address": "Via Carlo Forlanini, 71, Desio MB, Italy",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ]
 }

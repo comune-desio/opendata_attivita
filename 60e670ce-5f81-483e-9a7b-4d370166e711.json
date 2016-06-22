@@ -3,12 +3,21 @@
   "Categoria": "",
   "Ragione Sociale": "M.B. CAR SNC",
   "Indirizzo": "VIA FERRAVILLA N.19",
+  "Sito": null,
+  "e-mail": null,
   "Telefono": "0362/337110",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJIclNpy-8hkcRpSFXZD61oQ8",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO"
+  "Latitude": "45.616762",
+  "Longitude": "9.196513",
+  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO",
+  "formatted_address": "Via Edoardo Ferravilla, 19, 20033 Desio MB, Italy",
+  "types": [
+    "car_dealer",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ]
 }

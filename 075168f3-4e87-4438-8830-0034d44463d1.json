@@ -8,9 +8,14 @@
   "Telefono": "Numero verde: 800-316387",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJBz2cMT68hkcRke5jorTuLsU",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI"
+  "Latitude": "45.6235303",
+  "Longitude": "9.2127258",
+  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI",
+  "formatted_address": "Via Alessandro Volta, 100, Desio MB, Italy",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ]
 }

@@ -3,12 +3,19 @@
   "Categoria": "",
   "Ragione Sociale": "PANETTERIA SENZA GLUTINE DI SANVITO MONICA",
   "Indirizzo": "VIA VERCESI N.14/T",
+  "Sito": null,
+  "e-mail": null,
   "Telefono": "0362/632882",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJmfBTaB-8hkcRyl_NIq61wio",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI"
+  "Latitude": "45.611937",
+  "Longitude": "9.209053",
+  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI",
+  "formatted_address": "Via Vercesi Galileo, 14, Italy",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ]
 }

@@ -8,9 +8,14 @@
   "Telefono": "0362/621043",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJJT6BbQy8hkcRdjgUGh04QDI",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 18 : ATTIVITA' ARTIGIANALI (BOTTEGHE:FALEGNAME-...)"
+  "Latitude": "45.6226182",
+  "Longitude": "9.2285202",
+  "Categoria catastale": "N Non Domestica 18 : ATTIVITA' ARTIGIANALI (BOTTEGHE:FALEGNAME-...)",
+  "formatted_address": "Via Umberto Tagliabue, 192, Desio MB, Italy",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ]
 }

@@ -3,11 +3,19 @@
   "Categoria": "",
   "Ragione Sociale": "FERRACCIAIO SRL",
   "Indirizzo": "VIA LEONCAVALLO N.4",
+  "Sito": null,
+  "e-mail": null,
+  "Telefono": null,
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJe5kAaSzEhkcR5-_Yt1wDVAU",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Latitude": "45.4496085",
+  "Longitude": "9.2217153",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "formatted_address": "Via Venosa, 6, 20137 Milano, Italy",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ]
 }

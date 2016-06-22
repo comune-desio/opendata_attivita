@@ -8,9 +8,16 @@
   "Telefono": "0362/308905",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
+  "Google Place ID": "ChIJEeZFfJi-hkcRJb68eJOEyW0",
   "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO"
+  "Latitude": "45.601635",
+  "Longitude": "9.20435",
+  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO",
+  "formatted_address": "Viale degli Artigiani, 36, Desio MB, Italy",
+  "types": [
+    "store",
+    "car_repair",
+    "point_of_interest",
+    "establishment"
+  ]
 }
