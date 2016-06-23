@@ -2,11 +2,11 @@
   "UUID": "25bf639d-efa7-4e3f-895f-e915ac8c036b",
   "Categoria": "",
   "CategorieGoogle": [
- +      "jewelry_store",
- +      "store",
- +      "point_of_interest",
- +      "establishment"
- +    ],
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+     "establishment"
+    ],
   "Ragione Sociale": "LA MINIERA DI PIO MARIANI SRL",
   "Nome visualizzato": "La Miniera",
   "Indirizzo": "Via Roma, 25, 20832 Desio MB, Italy",
@@ -20,7 +20,7 @@
   "Latitude": "45.6159903",
   "Longitude": "9.213392",
   "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
-    "Orario apertura": {
+  "Orario apertura": {
       "periods": [
         {
           "close": {
