@@ -1,16 +1,125 @@
 ﻿{
   "UUID": "25bf639d-efa7-4e3f-895f-e915ac8c036b",
   "Categoria": "",
+  "Categorie Google": [
+    "jewelry_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "LA MINIERA DI PIO MARIANI SRL",
-  "Indirizzo": "VIA ROMA",
-  "Sito": "www.la-miniera.it",
-  "e-mail": "info@la-miniera.it",
-  "Telefono": "0362/303850",
+  "Nome Visualizzato": "La Miniera",
+  "Indirizzo": "Via Roma, 25, 20832 Desio MB, Italy",
+  "Sito": "http://www.la-miniera.it/",
+  "E-mail": "info@la-miniera.it",
+  "Telefono": "+39 0362 303850",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
+  "Google Place ID": "ChIJ8Tb0uhm8hkcR0VpCKDw4hh8",
+  "Google Place URL": "https://maps.google.com/?cid=2271564893079624401",
+  "Latitude": "45.6159903",
+  "Longitude": "9.213392",
+  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0900"
+      },
+      "close": {
+        "day": 1,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "1400"
+      },
+      "close": {
+        "day": 1,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0900"
+      },
+      "close": {
+        "day": 2,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1400"
+      },
+      "close": {
+        "day": 2,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0900"
+      },
+      "close": {
+        "day": 4,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1400"
+      },
+      "close": {
+        "day": 4,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0900"
+      },
+      "close": {
+        "day": 5,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1400"
+      },
+      "close": {
+        "day": 5,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "0900"
+      },
+      "close": {
+        "day": 6,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "1400"
+      },
+      "close": {
+        "day": 6,
+        "time": "1900"
+      }
+    }
+  ]
 }
