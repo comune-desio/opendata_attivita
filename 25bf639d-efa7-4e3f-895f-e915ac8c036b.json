@@ -8,9 +8,143 @@
   "Telefono": "0362/303850",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
+  "Google Place ID": "ChIJ8Tb0uhm8hkcR0VpCKDw4hh8",
+  "Google Place URL": "https://maps.google.com/?cid=2271564893079624401",
+  "Latitude": "45.6159903",
+  "Longitude": "9.213392",
+  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO",
+  "GoogleAPI": {
+    "name": "La Miniera",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "geometry": {
+      "location": {
+        "lat": 45.6159903,
+        "lng": 9.2133919999999989
+      }
+    },
+    "url": "https://maps.google.com/?cid=2271564893079624401",
+    "formatted_address": "Via Roma, 25, 20832 Desio MB, Italy",
+    "formatted_phone_number": "0362 303850",
+    "international_phone_number": "+39 0362 303850",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "1400"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 12:00 PM, 2:00 – 7:00 PM",
+        "Tuesday: 9:00 AM – 12:00 PM, 2:00 – 7:00 PM",
+        "Wednesday: Closed",
+        "Thursday: 9:00 AM – 12:00 PM, 2:00 – 7:00 PM",
+        "Friday: 9:00 AM – 12:00 PM, 2:00 – 7:00 PM",
+        "Saturday: 9:00 AM – 12:00 PM, 2:00 – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "website": "http://www.la-miniera.it/"
+  }
 }
