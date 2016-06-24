@@ -1,16 +1,24 @@
-﻿{
+{
   "UUID": "aa9a9c9d-0ed4-46e3-92f3-2275594a30b2",
   "Categoria": "",
+  "Categorie Google": [
+    "store",
+    "car_repair",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "MAXI GOMME & C. SNC DI PRESTI FILI PPO MASSIM",
-  "Indirizzo": "VIA DEGLI ARTIGIANI N.36",
-  "Sito": "www.maxigomme.it",
-  "e-mail": "maxi-gomme@libero.it",
-  "Telefono": "0362/308905",
+  "Nome Visualizzato": "Maxi Gomme S.R.L. Unipersonale",
+  "Indirizzo": "Viale degli Artigiani, 36, 20832 Desio MB, Italy",
+  "Sito": "http://www.maxigomme.it/",
+  "E-mail": "maxi-gomme@libero.it",
+  "Telefono": "+39 0362 308905",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO"
+  "Google Place ID": "ChIJEeZFfJi-hkcRJb68eJOEyW0",
+  "Google Place URL": "https://maps.google.com/?cid=7910999989373681189",
+  "Latitude": "45.601635",
+  "Longitude": "9.20435",
+  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO",
+  "Orario di apertura": null
 }
