@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "d3cc00e8-6abe-4332-8ee5-1f2c318fce1f",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "MAINT SYSTEM SRL",
-  "Indirizzo": "VIA ZANELLA N.90",
-  "Sito": "www.maintsystemsrl.com",
-  "e-mail": "info@maintsystemsrl.com",
-  "Telefono": "Sede: 0362/1542 261",
+  "Nome Visualizzato": "MAINT SYSTEM SRL",
+  "Indirizzo": "Via Giacomo Zanella, 90, 20832 Desio MB, Italy",
+  "Sito": "http://www.maintsystemsrl.com/",
+  "E-mail": "info@maintsystemsrl.com",
+  "Telefono": "+39 0362 154 2261",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJGxg2mBq8hkcRRxjy6QDZIxQ",
+  "Google Place URL": "https://maps.google.com/?cid=1451242102891616327",
+  "Latitude": "45.616718",
+  "Longitude": "9.21981",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
