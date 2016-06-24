@@ -1,16 +1,23 @@
-﻿{
+{
   "UUID": "764ba287-5324-4bb7-bf55-2510a1a7e1d3",
   "Categoria": "",
+  "Categorie Google": [
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "DIAMETRO SRL",
-  "Indirizzo": "DEL COMMERCIO N.8",
-  "Sito": "www.diametro.it",
-  "e-mail": "diametro@diametro.it",
-  "Telefono": "Telefono:0362/302653 - \n0362/302620",
+  "Nome Visualizzato": "Diametro srl",
+  "Indirizzo": "Via del Commercio, 8, 20033 Desio MB, Italy",
+  "Sito": "http://www.diametro.it/",
+  "E-mail": "diametro@diametro.it",
+  "Telefono": "+39 0362 302620",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJ75EjqwO8hkcRVKVb6Ozszzk",
+  "Google Place URL": "https://maps.google.com/?cid=4165808682595755348",
+  "Latitude": "45.6099657",
+  "Longitude": "9.2224644",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
