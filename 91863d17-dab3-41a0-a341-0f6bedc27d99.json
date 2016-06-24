@@ -1,16 +1,25 @@
-﻿{
+{
   "UUID": "91863d17-dab3-41a0-a341-0f6bedc27d99",
   "Categoria": "",
+  "Categorie Google": [
+    "furniture_store",
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "LINEAOTTO SAS",
-  "Indirizzo": "VIA NUOVA VALASSINA N.80",
-  "Sito": "www.lineaotto.com",
-  "e-mail": "showroom@lineaotto.com",
-  "Telefono": "0362/624003",
+  "Nome Visualizzato": "Lineaotto Sas Di G. Arosio & C",
+  "Indirizzo": "Nuova Valassina, 20832 Desio MB, Italy",
+  "Sito": null,
+  "E-mail": "showroom@lineaotto.com",
+  "Telefono": "+39 0362 624003",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 06 : ESPOSIZIONI-AUTOSALONI"
+  "Google Place ID": "ChIJTwdIQg68hkcR2z32h8eXLtI",
+  "Google Place URL": "https://maps.google.com/?cid=15145209480128904667",
+  "Latitude": "45.6163648",
+  "Longitude": "9.2244016",
+  "Categoria catastale": "N Non Domestica 06 : ESPOSIZIONI-AUTOSALONI",
+  "Orario di apertura": null
 }
