@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "cb91365d-a819-4623-99d3-6c248fe5e112",
   "Categoria": "",
+  "Categorie Google": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "LA VETRO ARTE SRL",
-  "Indirizzo": "VIA NOVATI N.5",
-  "Telefono": "0362/308959",
+  "Nome Visualizzato": "La Vetro Arte Srl",
+  "Indirizzo": "Via Novati Enrico, 5, 20832 Desio MB, Italy",
+  "Sito": null,
+  "E-mail": null,
+  "Telefono": "+39 0362 308959",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 21 : ATT. ARTIGIANALI PRODUZIONE BENI SPECIFICI"
+  "Google Place ID": "ChIJ_wwmTqa-hkcRSi-nAcX30A0",
+  "Google Place URL": "https://maps.google.com/?cid=995567943157231434",
+  "Latitude": "45.605706",
+  "Longitude": "9.215266",
+  "Categoria catastale": "N Non Domestica 21 : ATT. ARTIGIANALI PRODUZIONE BENI SPECIFICI",
+  "Orario di apertura": null
 }
