@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "0e82ecfc-fd6c-4653-a01a-079c78be0670",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "FALEGNAMERIA DI PULICI GABRIELE",
-  "Indirizzo": "VIA TAGLIABUE N.192",
-  "Sito": "www.pulicigabriele.it",
-  "e-mail": "info@pulicigabriele.it",
-  "Telefono": "0362/621043",
+  "Nome Visualizzato": "Pulici Gabriele Arredamenti",
+  "Indirizzo": "Via Umberto Tagliabue, 192, 20832 Desio MB, Italy",
+  "Sito": "http://www.pulicigabriele.it/",
+  "E-mail": "info@pulicigabriele.it",
+  "Telefono": "+39 0362 621043",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 18 : ATTIVITA' ARTIGIANALI (BOTTEGHE:FALEGNAME-...)"
+  "Google Place ID": "ChIJJT6BbQy8hkcRdjgUGh04QDI",
+  "Google Place URL": "https://maps.google.com/?cid=3620955798048618614",
+  "Latitude": "45.6226182",
+  "Longitude": "9.2285202",
+  "Categoria catastale": "N Non Domestica 18 : ATTIVITA' ARTIGIANALI (BOTTEGHE:FALEGNAME-...)",
+  "Orario di apertura": null
 }
