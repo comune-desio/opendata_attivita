@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "d47bdc91-3c32-4952-82e8-de96e4a6c08a",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "M.G.M. SPORT SRL",
-  "Indirizzo": "VIA SERAO",
-  "Sito": "www.mgmsport.it",
-  "e-mail": "desio@mgmsport.it",
-  "Telefono": "362/304083",
+  "Nome Visualizzato": "M.G.M. Sport S.r.l.",
+  "Indirizzo": "Via Serao Matilde, 20832 Desio MB, Italy",
+  "Sito": "http://www.mgmsport.it/",
+  "E-mail": "desio@mgmsport.it",
+  "Telefono": "+39 0362 304083",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE"
+  "Google Place ID": "ChIJF-uSsS68hkcRfQAIekdANyc",
+  "Google Place URL": "https://maps.google.com/?cid=2825797966932476029",
+  "Latitude": "45.6146566",
+  "Longitude": "9.1948592",
+  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE",
+  "Orario di apertura": null
 }
