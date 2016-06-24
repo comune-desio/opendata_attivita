@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "1ac37bf7-6d59-440a-9420-23a628bad30c",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "ALPHASAR SRL",
-  "Indirizzo": "VIA LEONCAVALLO",
-  "Sito": "www.alphasar.it",
-  "e-mail": "pensotti@alphasar.net",
-  "Telefono": "0362/305805",
+  "Nome Visualizzato": "Alphasar Srl",
+  "Indirizzo": "Via Ruggero Leoncavallo, 63, 20832 Desio MB, Italy",
+  "Sito": "http://www.alphasar.it/",
+  "E-mail": "pensotti@alphasar.net",
+  "Telefono": "+39 0362 625206",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJLaF-0qi-hkcRv3A8ITl1Uts",
+  "Google Place URL": "https://maps.google.com/?cid=15803822930627686591",
+  "Latitude": "45.6031623",
+  "Longitude": "9.2192422",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": null
 }
