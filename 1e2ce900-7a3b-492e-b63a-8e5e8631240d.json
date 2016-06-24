@@ -1,15 +1,96 @@
-﻿{
+{
   "UUID": "1e2ce900-7a3b-492e-b63a-8e5e8631240d",
   "Categoria": "",
+  "Categorie Google": [
+    "furniture_store",
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "NUOVO CENTRO GIARDINAGGIO",
-  "Indirizzo": "VIA BINZAGO N.50",
-  "Sito": "www.gardenfriends.it",
-  "Telefono": "0362/621359",
+  "Nome Visualizzato": "Home Emperio",
+  "Indirizzo": "Via per Binzago, 50, 20832 Desio MB, Italy",
+  "Sito": "http://www.nuovocentrogiardinaggio.it/",
+  "E-mail": null,
+  "Telefono": "+39 0362 632790",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 28 : IPERMERCATI DI GENERI MISTI"
+  "Google Place ID": "ChIJRVEZ7cy9hkcROUNYtbC0FW4",
+  "Google Place URL": "https://maps.google.com/?cid=7932444989732700985",
+  "Latitude": "45.6236206",
+  "Longitude": "9.1868492",
+  "Categoria catastale": "N Non Domestica 28 : IPERMERCATI DI GENERI MISTI",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 0,
+        "time": "0900"
+      },
+      "close": {
+        "day": 0,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "0900"
+      },
+      "close": {
+        "day": 1,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0900"
+      },
+      "close": {
+        "day": 2,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0900"
+      },
+      "close": {
+        "day": 3,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0900"
+      },
+      "close": {
+        "day": 4,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0900"
+      },
+      "close": {
+        "day": 5,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "0900"
+      },
+      "close": {
+        "day": 6,
+        "time": "1900"
+      }
+    }
+  ]
 }
