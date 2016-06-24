@@ -1,15 +1,124 @@
-﻿{
+{
   "UUID": "be21edaf-5677-48ed-955b-531a7d47b997",
   "Categoria": "",
+  "Categorie Google": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "WEALTH SRL",
-  "Indirizzo": "VIA LAVORATORI AUTOBIANCHI N.1",
-  "Sito": "www.wealth.it",
-  "Telefono": "0362/638070",
+  "Nome Visualizzato": "Wealth Srl",
+  "Indirizzo": "Via Lavoratori Autobianchi, 1, 20832 Desio MB, Italy",
+  "Sito": "http://www.wealth.it/",
+  "E-mail": null,
+  "Telefono": "+39 0362 638070",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJ0cafew2_hkcR-PgbhDl4osM",
+  "Google Place URL": "https://maps.google.com/?cid=14096961972047968504",
+  "Latitude": "45.625993",
+  "Longitude": "9.213411",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0830"
+      },
+      "close": {
+        "day": 1,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "1330"
+      },
+      "close": {
+        "day": 1,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0830"
+      },
+      "close": {
+        "day": 2,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1330"
+      },
+      "close": {
+        "day": 2,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0830"
+      },
+      "close": {
+        "day": 3,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1330"
+      },
+      "close": {
+        "day": 3,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0830"
+      },
+      "close": {
+        "day": 4,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1330"
+      },
+      "close": {
+        "day": 4,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0830"
+      },
+      "close": {
+        "day": 5,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1330"
+      },
+      "close": {
+        "day": 5,
+        "time": "1730"
+      }
+    }
+  ]
 }
