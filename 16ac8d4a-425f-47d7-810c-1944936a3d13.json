@@ -1,16 +1,125 @@
-﻿{
+{
   "UUID": "16ac8d4a-425f-47d7-810c-1944936a3d13",
   "Categoria": "",
+  "Categorie Google": [
+    "hardware_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "INDUSTRIA BRIANTEA FERRAMENTA MINUTERIE DI FUMAGALLI SRL",
-  "Indirizzo": "VIA LAVORATORI AUTOBIANCHI N.1",
-  "Sito": "www.ibfm.it",
-  "e-mail": "ibfm@ibfm.it ",
-  "Telefono": "0362/627078",
+  "Nome Visualizzato": "Industria Briantea Ferramenta Minuterie Di Fumagalli Srl",
+  "Indirizzo": "Via Lavoratori Autobianchi, 1/B, 20832, Desio, MB, Italia, 20832 Desio MB, Italy",
+  "Sito": "http://www.ibfm.it/",
+  "E-mail": "ibfm@ibfm.it ",
+  "Telefono": "+39 0362 627078",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJhad2vxW8hkcRBS9_00QrgdQ",
+  "Google Place URL": "https://maps.google.com/?cid=15312567782642495237",
+  "Latitude": "45.6289548",
+  "Longitude": "9.2134309",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0800"
+      },
+      "close": {
+        "day": 1,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "1330"
+      },
+      "close": {
+        "day": 1,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0800"
+      },
+      "close": {
+        "day": 2,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1330"
+      },
+      "close": {
+        "day": 2,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0800"
+      },
+      "close": {
+        "day": 3,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1330"
+      },
+      "close": {
+        "day": 3,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0800"
+      },
+      "close": {
+        "day": 4,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1330"
+      },
+      "close": {
+        "day": 4,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0800"
+      },
+      "close": {
+        "day": 5,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1330"
+      },
+      "close": {
+        "day": 5,
+        "time": "1730"
+      }
+    }
+  ]
 }
