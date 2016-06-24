@@ -1,15 +1,96 @@
-﻿{
+{
   "UUID": "d65c2665-0c27-43d2-b844-1fb6d77198c5",
   "Categoria": "",
+  "Categorie Google": [
+    "grocery_or_supermarket",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "ESSELUNGA SPA",
-  "Indirizzo": "VIA CARAVAGGIO N.3",
-  "Sito": "www.esselunga.it",
-  "Telefono": "Numero verde: 800-666555",
+  "Nome Visualizzato": "Esselunga",
+  "Indirizzo": "Via Caravaggio, 1, 20832 Desio MB, Italy",
+  "Sito": "http://www.esselunga.it/cms/negozi/ricerca-negozi.DES.html",
+  "E-mail": null,
+  "Telefono": "+39 0362 305807",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI"
+  "Google Place ID": "ChIJ35bRUJ--hkcR1DMsghSocLE",
+  "Google Place URL": "https://maps.google.com/?cid=12785904148141585364",
+  "Latitude": "45.6050851",
+  "Longitude": "9.2046923",
+  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 0,
+        "time": "0900"
+      },
+      "close": {
+        "day": 0,
+        "time": "1400"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "0800"
+      },
+      "close": {
+        "day": 1,
+        "time": "2100"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0800"
+      },
+      "close": {
+        "day": 2,
+        "time": "2100"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0800"
+      },
+      "close": {
+        "day": 3,
+        "time": "2100"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0800"
+      },
+      "close": {
+        "day": 4,
+        "time": "2100"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0800"
+      },
+      "close": {
+        "day": 5,
+        "time": "2100"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "0800"
+      },
+      "close": {
+        "day": 6,
+        "time": "2100"
+      }
+    }
+  ]
 }
