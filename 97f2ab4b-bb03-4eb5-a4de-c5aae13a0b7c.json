@@ -1,16 +1,24 @@
-﻿{
+{
   "UUID": "97f2ab4b-bb03-4eb5-a4de-c5aae13a0b7c",
   "Categoria": "",
+  "Categorie Google": [
+    "store",
+    "car_repair",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "R.I.A.L. SRL",
-  "Indirizzo": "VIA GARIBALDI N.206",
-  "Sito": "www.rialdesio.it",
-  "e-mail": "info@rialdesio.it",
-  "Telefono": "Negozio:362/305126\nUfficio: 0362/305135",
+  "Nome Visualizzato": "R.i.a.l. srl",
+  "Indirizzo": "Via Giuseppe Garibaldi, 206, 20832 Desio MB, Italy",
+  "Sito": "http://www.rialdesio.it/",
+  "E-mail": "info@rialdesio.it",
+  "Telefono": "+39 0362 305126",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJhejr-yC8hkcRbkaaxLk234s",
+  "Google Place URL": "https://maps.google.com/?cid=10078834662573753966",
+  "Latitude": "45.611542",
+  "Longitude": "9.204702",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
