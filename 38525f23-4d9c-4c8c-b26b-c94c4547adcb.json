@@ -1,14 +1,24 @@
-﻿{
+{
   "UUID": "38525f23-4d9c-4c8c-b26b-c94c4547adcb",
   "Categoria": "",
+  "Categorie Google": [
+    "clothing_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "PROFUMERIA DI SCHIATTI CARLA",
-  "Indirizzo": "VIA GARIBALDI N.160/B",
-  "Telefono": "0362/623670",
+  "Nome Visualizzato": "Profumeria Cs",
+  "Indirizzo": "Via Giuseppe Garibaldi, 160, 20832 Desio MB, Italy",
+  "Sito": null,
+  "E-mail": null,
+  "Telefono": "+39 0362 623670",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)"
+  "Google Place ID": "ChIJ4SqhDCG8hkcRhr7tgpA13cQ",
+  "Google Place URL": "https://maps.google.com/?cid=14185553296075112070",
+  "Latitude": "45.6124138",
+  "Longitude": "9.2052737",
+  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)",
+  "Orario di apertura": null
 }
