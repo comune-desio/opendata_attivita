@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "de861bf5-abcd-4140-9152-61eab3d892dc",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "EXTETA SRL",
-  "Indirizzo": "VIA LAVORATORI AUTOBIANCHI N.1",
-  "Sito": "www.exteta.it",
-  "e-mail": "info@exteta.it",
-  "Telefono": "0362/308095",
+  "Nome Visualizzato": "Exteta Srl",
+  "Indirizzo": "1 Via Lavoratori Autobianchi, Desio, MB 20832, 20832 Desio MB, Italy",
+  "Sito": "http://www.exteta.it/en/",
+  "E-mail": "info@exteta.it",
+  "Telefono": "+39 0362 308095",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJhad2vxW8hkcRF7AsXFikBjg",
+  "Google Place URL": "https://maps.google.com/?cid=4037094815394738199",
+  "Latitude": "45.62375",
+  "Longitude": "9.21367",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
