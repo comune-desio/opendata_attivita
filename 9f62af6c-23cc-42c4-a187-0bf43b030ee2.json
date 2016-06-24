@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "9f62af6c-23cc-42c4-a187-0bf43b030ee2",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "ECOLINE SRL",
-  "Indirizzo": "VIA FORLANINI",
-  "Telefono": "0362/1785660",
+  "Nome Visualizzato": "Ecoline Srl",
+  "Indirizzo": "Via Carlo Forlanini, 71, 20832 Desio MB, Italy",
+  "Sito": null,
+  "E-mail": null,
+  "Telefono": "+39 0362 178 5660",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJdbcmsgS8hkcRqVDJQXEJ114",
+  "Google Place URL": "https://maps.google.com/?cid=6833941341597683881",
+  "Latitude": "45.613104",
+  "Longitude": "9.220602",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": null
 }
