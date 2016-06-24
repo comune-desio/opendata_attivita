@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "fdb41812-fc81-46fe-a910-7fe22f8f3c56",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "ZAPPA S.R.L.",
-  "Indirizzo": "VIA MONTE BIANCO",
-  "Sito": "www.officinezappa.it",
-  "e-mail": "info@officinezappa.it ",
-  "Telefono": "0362/623613",
+  "Nome Visualizzato": "Zappa Srl",
+  "Indirizzo": "Via Einaudi Luigi, 20832 Desio MB, Italy",
+  "Sito": "http://www.officinezappa.it/",
+  "E-mail": "info@officinezappa.it ",
+  "Telefono": "+39 0362 40085",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO"
+  "Google Place ID": "ChIJsdnAiqa-hkcRss8s0KJHUiY",
+  "Google Place URL": "https://maps.google.com/?cid=2761348286134407090",
+  "Latitude": "45.604828",
+  "Longitude": "9.215456",
+  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO",
+  "Orario di apertura": null
 }
