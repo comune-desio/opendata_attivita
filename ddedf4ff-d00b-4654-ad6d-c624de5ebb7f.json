@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "ddedf4ff-d00b-4654-ad6d-c624de5ebb7f",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "RECUPERI E AUTODEMOLIZIONI S.R.L.",
-  "Indirizzo": "VIA MILANO N.89",
-  "Sito": "www.recuperieautodemolizioni.com",
-  "e-mail": "recuperieautodemolizioni@gmail.com",
-  "Telefono": "0362/628572",
+  "Nome Visualizzato": "Recuperi E Autodemolizioni Srl",
+  "Indirizzo": "Via Edoardo Ferravilla, 101, 20832 Desio MB, Italy",
+  "Sito": "http://www.recuperieautodemolizioni.com/",
+  "E-mail": "recuperieautodemolizioni@gmail.com",
+  "Telefono": "+39 0362 307269",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJCRlDSdO9hkcRpHUMXF8PQgs",
+  "Google Place URL": "https://maps.google.com/?cid=811227785120740772",
+  "Latitude": "45.6159877",
+  "Longitude": "9.1854776",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": null
 }
