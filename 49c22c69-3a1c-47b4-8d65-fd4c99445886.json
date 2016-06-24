@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "49c22c69-3a1c-47b4-8d65-fd4c99445886",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "R & S ISOLAMENTI SRL",
-  "Indirizzo": "VIA XX SETTEMBRE N.38",
-  "Sito": "www.rsisolamenti.it",
-  "e-mail": "info@rsisolamenti.com",
-  "Telefono": "0362/625995\n348/3015071",
+  "Nome Visualizzato": "R Project",
+  "Indirizzo": "25 Rue Trébois, 92300 Levallois Perret, France",
+  "Sito": "https://www.r-project.org/",
+  "E-mail": "info@rsisolamenti.com",
+  "Telefono": "+33 9 67 45 90 22",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJX8I_wIRv5kcRfHr-n1umnlA",
+  "Google Place URL": "https://maps.google.com/?cid=5809263481811008124",
+  "Latitude": "48.8912329",
+  "Longitude": "2.2897914",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
