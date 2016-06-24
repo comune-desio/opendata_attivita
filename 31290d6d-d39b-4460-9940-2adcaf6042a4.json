@@ -1,14 +1,24 @@
-﻿{
+{
   "UUID": "31290d6d-d39b-4460-9940-2adcaf6042a4",
   "Categoria": "",
+  "Categorie Google": [
+    "beauty_salon",
+    "hair_care",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SERVIZI & GESTIONI ITALIA SRL",
-  "Indirizzo": "VIA NUOVA VALASSINA N.144",
-  "Telefono": "0362/620763",
+  "Nome Visualizzato": "Inail",
+  "Indirizzo": "711 W 43rd St, Chicago, IL 60609, USA",
+  "Sito": "https://www.inail.it/cs/internet/accedi-ai-servizi-online.html",
+  "E-mail": null,
+  "Telefono": "+1 773-268-2386",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 04 : CAMPEGGI-DISTRIBUTORI CARBURANTI-IMPIANTI SPORTIVI"
+  "Google Place ID": "ChIJAZ50-J0uDogRBEFqWvDTEqI",
+  "Google Place URL": "https://maps.google.com/?cid=11678629812987642116",
+  "Latitude": "41.8160833",
+  "Longitude": "-87.6438027",
+  "Categoria catastale": "N Non Domestica 04 : CAMPEGGI-DISTRIBUTORI CARBURANTI-IMPIANTI SPORTIVI",
+  "Orario di apertura": null
 }
