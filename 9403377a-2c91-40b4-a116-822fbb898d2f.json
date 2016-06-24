@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "9403377a-2c91-40b4-a116-822fbb898d2f",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "NAVA CESARE AUGUSTO & C. SNC",
-  "Indirizzo": "VIA DE AMICIS N.1",
-  "Telefono": "0362/624176",
+  "Nome Visualizzato": "Nava Cesare Augusto & C. Snc",
+  "Indirizzo": "Via Edmondo de Amicis, 1, 20832 Desio MB, Italy",
+  "Sito": null,
+  "E-mail": null,
+  "Telefono": "+39 0362 624176",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJ4VUsSAy8hkcR611JnJhq7VE",
+  "Google Place URL": "https://maps.google.com/?cid=5903491890242215403",
+  "Latitude": "45.6227258",
+  "Longitude": "9.2266463",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
