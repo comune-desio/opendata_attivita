@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "1aef40ef-ee02-4f71-8a19-593823abae94",
   "Categoria": "",
+  "Categorie Google": [
+    "spa",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "GRAPHOKEM SPA",
-  "Indirizzo": "VIA DEL COMMERCIO N.2",
-  "Telefono": "0362/63631",
+  "Nome Visualizzato": "Graphokem Vegra S.P.A.",
+  "Indirizzo": "Via del Commercio, 2, 20832 Desio MB, Italy",
+  "Sito": null,
+  "E-mail": null,
+  "Telefono": "+39 0362 63631",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJcb0IVAK8hkcRMsiQvCp3oh4",
+  "Google Place URL": "https://maps.google.com/?cid=2207457792800901170",
+  "Latitude": "45.6093225",
+  "Longitude": "9.2213892",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": null
 }
