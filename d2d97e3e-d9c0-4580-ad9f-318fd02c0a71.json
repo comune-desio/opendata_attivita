@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "d2d97e3e-d9c0-4580-ad9f-318fd02c0a71",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "LIMA SPA LAVORAZIONE ITALIANA METALLI AFFINI SPA IN CONCORDATO PREVENT",
-  "Indirizzo": "VIA AGNESI N.121",
-  "Telefono": "0362/480037 -0362/48001 ",
+  "Nome Visualizzato": "Lima Spa Lavorazione Italiana Metalli Affini",
+  "Indirizzo": "Via Gaetana Agnesi, 121, 20832 Desio MB, Italy",
+  "Sito": null,
+  "E-mail": null,
+  "Telefono": "+39 0362 48001",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJx__ATSi8hkcRvcRgqFFwCVY",
+  "Google Place URL": "https://maps.google.com/?cid=6199609858071774397",
+  "Latitude": "45.6113071",
+  "Longitude": "9.1948163",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": null
 }
