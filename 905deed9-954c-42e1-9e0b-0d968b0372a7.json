@@ -1,15 +1,22 @@
-﻿{
+{
   "UUID": "905deed9-954c-42e1-9e0b-0d968b0372a7",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "WORTHINGTON SRL",
-  "Indirizzo": "VIA ROSSINI N.96",
-  "Sito": "www.flowserve.com",
-  "e-mail": "MTiozzo@flowserve.com",
+  "Nome Visualizzato": "Worthington Srl Flowserve",
+  "Indirizzo": "Via Gioacchino Rossini, 90, 20033 Desio MB, Italy",
+  "Sito": "http://www.flowserve.com/",
+  "E-mail": "MTiozzo@flowserve.com",
+  "Telefono": "+39 0362 6121",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJG_V5px28hkcRik0V6_2UFIE",
+  "Google Place URL": "https://maps.google.com/?cid=9301222948718595466",
+  "Latitude": "45.609437",
+  "Longitude": "9.2156422",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": null
 }
