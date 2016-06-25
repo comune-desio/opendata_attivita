@@ -1,16 +1,23 @@
-﻿{
+{
   "UUID": "3725d535-48a9-41ad-b2fc-b32062b31d25",
   "Categoria": "",
+  "Categorie Google": [
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "PARROCCHIA SS.PIETRO E PAOLO",
-  "Indirizzo": "VIA SANTA CATERINA N.8",
-  "Sito": "www.ssppdesio.it",
-  "e-mail": " info@ssppdesio.it",
-  "Telefono": "0362/623771",
+  "Nome Visualizzato": "Parrocchia Ss. Pietro e Paolo",
+  "Indirizzo": "Via S. Caterina, 9, 20832 Desio MB, Italy",
+  "Sito": "http://www.ssppdesio.it/",
+  "E-mail": " info@ssppdesio.it",
+  "Telefono": "+39 0362 623771",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
+  "Google Place ID": "ChIJl5HVUDi8hkcRwoZKct9xNRw",
+  "Google Place URL": "https://maps.google.com/?cid=2032656011336779458",
+  "Latitude": "45.6263626",
+  "Longitude": "9.2036999",
+  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO",
+  "Orario di apertura": null
 }
