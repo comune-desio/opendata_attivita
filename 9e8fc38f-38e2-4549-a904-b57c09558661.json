@@ -1,13 +1,22 @@
-﻿{
+{
   "UUID": "9e8fc38f-38e2-4549-a904-b57c09558661",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "GE.CO. CONDOTTE SRL",
-  "Indirizzo": "VIA GARIBALDI N.149",
+  "Nome Visualizzato": "Ge.Co Condotte Srl",
+  "Indirizzo": "Via III Case, 1, 29016 Cortemaggiore PC, Italy",
+  "Sito": "https://maps.google.com/?cid=13710033790866425929",
+  "E-mail": null,
+  "Telefono": "+39 0523 839356",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJb2hBbfTwgEcRSQgyCxjTQ74",
+  "Google Place URL": "https://maps.google.com/?cid=13710033790866425929",
+  "Latitude": "44.9961813",
+  "Longitude": "9.9166984",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
