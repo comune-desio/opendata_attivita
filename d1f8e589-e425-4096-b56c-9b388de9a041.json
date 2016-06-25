@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "d1f8e589-e425-4096-b56c-9b388de9a041",
   "Categoria": "",
+  "Categorie Google": [
+    "hair_care",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SALONE PARRUCCHIERA DI GIROMETTA PIERA",
-  "Indirizzo": "VIA GARIBALDI N.37",
-  "Telefono": "0362/621206",
+  "Nome Visualizzato": "Girometta Piera",
+  "Indirizzo": "Via Giuseppe Garibaldi, 37, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=11086151810332862967",
+  "E-mail": null,
+  "Telefono": "+39 0362 621206",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 17 : ATTIVITA' ARTIGIANALI (BOTTEGHE:PARRUCCHIERI-...)"
+  "Google Place ID": "ChIJkbEO_CK8hkcR96nxpFXs2Zk",
+  "Google Place URL": "https://maps.google.com/?cid=11086151810332862967",
+  "Latitude": "45.61625",
+  "Longitude": "9.206987",
+  "Categoria catastale": "N Non Domestica 17 : ATTIVITA' ARTIGIANALI (BOTTEGHE:PARRUCCHIERI-...)",
+  "Orario di apertura": null
 }
