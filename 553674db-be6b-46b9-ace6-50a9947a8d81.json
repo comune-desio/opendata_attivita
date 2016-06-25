@@ -1,16 +1,125 @@
-﻿{
+{
   "UUID": "553674db-be6b-46b9-ace6-50a9947a8d81",
   "Categoria": "",
+  "Categorie Google": [
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "OTTICA BAJ",
-  "Indirizzo": "VIA CANONICO VILLA N.26/28",
-  "Sito": "www.otticabaj.net",
-  "e-mail": " otticabaj@tiscali.it",
-  "Telefono": "0362/500986",
+  "Nome Visualizzato": "Ottica Baj",
+  "Indirizzo": "Via Nazionale dei Giovi, 70, 20811 Cesano Maderno MB, Italy",
+  "Sito": "http://www.otticabaj.net/",
+  "E-mail": " otticabaj@tiscali.it",
+  "Telefono": "+39 0362 500986",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJ84JsgBuWhkcRhYJH9heh_mg",
+  "Google Place URL": "https://maps.google.com/?cid=7565661548317213317",
+  "Latitude": "45.6295613",
+  "Longitude": "9.1385831",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "1530"
+      },
+      "close": {
+        "day": 1,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0930"
+      },
+      "close": {
+        "day": 2,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1530"
+      },
+      "close": {
+        "day": 2,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0930"
+      },
+      "close": {
+        "day": 3,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1530"
+      },
+      "close": {
+        "day": 3,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0930"
+      },
+      "close": {
+        "day": 4,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1530"
+      },
+      "close": {
+        "day": 4,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0930"
+      },
+      "close": {
+        "day": 5,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1530"
+      },
+      "close": {
+        "day": 5,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "0930"
+      },
+      "close": {
+        "day": 6,
+        "time": "1230"
+      }
+    }
+  ]
 }
