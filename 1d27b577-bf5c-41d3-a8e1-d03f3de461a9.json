@@ -1,15 +1,123 @@
-﻿{
+{
   "UUID": "1d27b577-bf5c-41d3-a8e1-d03f3de461a9",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "BCUBE INDUSTRIAL SPA",
-  "Indirizzo": "VIA OSLAVIA",
-  "Sito": "www.bcube.net",
-  "Telefono": "0142/565600",
+  "Nome Visualizzato": "Bcube Industrial spa",
+  "Indirizzo": "Via Guzzanica, 56, 24040 Stezzano BG, Italy",
+  "Sito": "http://www.bcube.net/",
+  "E-mail": null,
+  "Telefono": "+39 035 455 9811",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJVZaLJ-BRgUcRHihwKy-w0OI",
+  "Google Place URL": "https://maps.google.com/?cid=16343756764366252062",
+  "Latitude": "45.6497208",
+  "Longitude": "9.6341676",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0800"
+      },
+      "close": {
+        "day": 1,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "1330"
+      },
+      "close": {
+        "day": 1,
+        "time": "1830"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0800"
+      },
+      "close": {
+        "day": 2,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1330"
+      },
+      "close": {
+        "day": 2,
+        "time": "1830"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0800"
+      },
+      "close": {
+        "day": 3,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1330"
+      },
+      "close": {
+        "day": 3,
+        "time": "1830"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0800"
+      },
+      "close": {
+        "day": 4,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1330"
+      },
+      "close": {
+        "day": 4,
+        "time": "1830"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0800"
+      },
+      "close": {
+        "day": 5,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1330"
+      },
+      "close": {
+        "day": 5,
+        "time": "1830"
+      }
+    }
+  ]
 }
