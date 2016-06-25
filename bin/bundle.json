@@ -151,18 +151,87 @@
   {
     "UUID": "9d38af4f-161c-49ae-93ab-c47a58774f41",
     "Categoria": "",
+    "Categorie Google": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "FERRAMENTA COLOMBO SNC DI ALBERTO E STEFANIA",
-    "Indirizzo": "VIA MATTEOTTI N.65",
-    "Sito": "www.ferramentacolombo.eu",
-    "e-mail": "fcd@tiscali.it",
-    "Telefono": "0362/621728",
+    "Nome Visualizzato": "Ferramenta Colombo Di Alberto E Stefania Sala Snc",
+    "Indirizzo": "Via Giacomo Matteotti, 65, 20033 Desio MB, Italy",
+    "Sito": "http://www.ferramentacolombo.eu/",
+    "E-mail": "fcd@tiscali.it",
+    "Telefono": "+39 0362 621728",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)"
+    "Google Place ID": "ChIJcc7fgiS8hkcRH0Gcg-DTNIw",
+    "Google Place URL": "https://maps.google.com/?cid=10102932825333055775",
+    "Latitude": "45.6166539",
+    "Longitude": "9.2037237",
+    "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)",
+    "Orario di apertura": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0800"
+        },
+        "close": {
+          "day": 1,
+          "time": "2100"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0800"
+        },
+        "close": {
+          "day": 2,
+          "time": "2100"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0800"
+        },
+        "close": {
+          "day": 3,
+          "time": "2100"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0800"
+        },
+        "close": {
+          "day": 4,
+          "time": "2100"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0800"
+        },
+        "close": {
+          "day": 5,
+          "time": "2100"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0800"
+        },
+        "close": {
+          "day": 6,
+          "time": "2100"
+        }
+      }
+    ]
   },
   {
     "UUID": "0ec032aa-3a16-4221-be3d-d26eabf6676d",
@@ -189,7 +258,7 @@
     ],
     "Ragione Sociale": "PROFUMERIA DI SCHIATTI CARLA",
     "Nome Visualizzato": "Profumeria Cs",
-    "Indirizzo": "Via Giuseppe Garibaldi, 160, 20832 Desio MB, Italy",
+    "Indirizzo": "Via Giuseppe Garibaldi, 160/B, 20832 Desio MB, Italy",
     "Sito": null,
     "E-mail": null,
     "Telefono": "+39 0362 623670",
@@ -237,18 +306,25 @@
   {
     "UUID": "764ba287-5324-4bb7-bf55-2510a1a7e1d3",
     "Categoria": "",
+    "Categorie Google": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "DIAMETRO SRL",
-    "Indirizzo": "DEL COMMERCIO N.8",
-    "Sito": "www.diametro.it",
-    "e-mail": "diametro@diametro.it",
-    "Telefono": "Telefono:0362/302653 - \n0362/302620",
+    "Nome Visualizzato": "Diametro srl",
+    "Indirizzo": "Via del Commercio, 8, 20033 Desio MB, Italy",
+    "Sito": "http://www.diametro.it/",
+    "E-mail": "diametro@diametro.it",
+    "Telefono": "+39 0362 302620",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+    "Google Place ID": "ChIJ75EjqwO8hkcRVKVb6Ozszzk",
+    "Google Place URL": "https://maps.google.com/?cid=4165808682595755348",
+    "Latitude": "45.6099657",
+    "Longitude": "9.2224644",
+    "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+    "Orario di apertura": null
   },
   {
     "UUID": "23ca94ae-2707-47f9-afe2-8087ff89d20b",
@@ -280,16 +356,24 @@
   {
     "UUID": "d2d97e3e-d9c0-4580-ad9f-318fd02c0a71",
     "Categoria": "",
+    "Categorie Google": [
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "LIMA SPA LAVORAZIONE ITALIANA METALLI AFFINI SPA IN CONCORDATO PREVENT",
-    "Indirizzo": "VIA AGNESI N.121",
-    "Telefono": "0362/480037 -0362/48001 ",
+    "Nome Visualizzato": "Lima Spa Lavorazione Italiana Metalli Affini",
+    "Indirizzo": "Via Gaetana Agnesi, 121, 20832 Desio MB, Italy",
+    "Sito": null,
+    "E-mail": null,
+    "Telefono": "+39 0362 48001",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+    "Google Place ID": "ChIJx__ATSi8hkcRvcRgqFFwCVY",
+    "Google Place URL": "https://maps.google.com/?cid=6199609858071774397",
+    "Latitude": "45.6113071",
+    "Longitude": "9.1948163",
+    "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+    "Orario di apertura": null
   },
   {
     "UUID": "9403377a-2c91-40b4-a116-822fbb898d2f",
@@ -574,18 +658,24 @@
   {
     "UUID": "6879e371-b178-4c28-a62e-1f30440bb0f9",
     "Categoria": "",
+    "Categorie Google": [
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "SACCHI GIUSEPPE S.P.A.",
-    "Indirizzo": "VIA FILIPPO DA DESIO N.56",
-    "Sito": "www.sacchi.it",
-    "e-mail": "sacchi@sacchi.it",
-    "Telefono": "0362/6351",
+    "Nome Visualizzato": "SACCHI GIUSEPPE S.p.A.",
+    "Indirizzo": "Via Filippo da Desio, 60, 20832 Desio MB, Italy",
+    "Sito": "http://www.sacchi.it/elettroforniture/pubblico/sacchi/puntivendita/puntivendita#.V0MQvfmLRhE",
+    "E-mail": "sacchi@sacchi.it",
+    "Telefono": "+39 0362 6351",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+    "Google Place ID": "ChIJLSSzwBO8hkcRxv9ROExqogU",
+    "Google Place URL": "https://maps.google.com/?cid=406003792011722694",
+    "Latitude": "45.6260923",
+    "Longitude": "9.218182",
+    "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+    "Orario di apertura": null
   },
   {
     "UUID": "c7fb40f6-fb8f-4704-9ce1-39150d46c85a",
@@ -664,16 +754,25 @@
   {
     "UUID": "fc1c9fad-5b84-4f0d-906a-e4fa26d88ea3",
     "Categoria": "",
+    "Categorie Google": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "GASTRONOMICA MEDITERRANEA SRL",
-    "Indirizzo": "VIA DEL GUADO N.57",
-    "Telefono": "0362/307059",
+    "Nome Visualizzato": "Gastronomica Mediterranea Srl",
+    "Indirizzo": "Via del Guado, 57, 20832 Desio MB, Italy",
+    "Sito": null,
+    "E-mail": null,
+    "Telefono": "+39 0362 307059",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+    "Google Place ID": "ChIJXw_ShQK8hkcRLacNYmOlWIw",
+    "Google Place URL": "https://maps.google.com/?cid=10113014809525856045",
+    "Latitude": "45.6079125",
+    "Longitude": "9.2207338",
+    "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+    "Orario di apertura": null
   },
   {
     "UUID": "7b8cb0b8-adbf-45b2-a2ac-d4773b0fe57e",
@@ -737,18 +836,24 @@
   {
     "UUID": "9c145b84-cd96-4032-b2e6-f63936c18d14",
     "Categoria": "",
+    "Categorie Google": [
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "GEFIM SRL",
-    "Indirizzo": "VIA FORLANINI N.71",
-    "Sito": "www.gefim-holding.it",
-    "e-mail": "info@gefim-holding.it ",
-    "Telefono": "0362/306868",
+    "Nome Visualizzato": "Gefim Srl",
+    "Indirizzo": "Via Carlo Forlanini, 71, 20832 Desio MB, Italy",
+    "Sito": "http://www.gefim-holding.it/",
+    "E-mail": "info@gefim-holding.it ",
+    "Telefono": "+39 0362 306868",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+    "Google Place ID": "ChIJHz91qQS8hkcRmn2FP_mi3Rk",
+    "Google Place URL": "https://maps.google.com/?cid=1863825012197522842",
+    "Latitude": "45.6130656",
+    "Longitude": "9.2204459",
+    "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+    "Orario di apertura": null
   },
   {
     "UUID": "8753d2db-9959-478d-a3a4-e83d868a6164",
@@ -1054,48 +1159,122 @@
   {
     "UUID": "ddedf4ff-d00b-4654-ad6d-c624de5ebb7f",
     "Categoria": "",
+    "Categorie Google": [
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "RECUPERI E AUTODEMOLIZIONI S.R.L.",
-    "Indirizzo": "VIA MILANO N.89",
-    "Sito": "www.recuperieautodemolizioni.com",
-    "e-mail": "recuperieautodemolizioni@gmail.com",
-    "Telefono": "0362/628572",
+    "Nome Visualizzato": "Recuperi E Autodemolizioni Srl",
+    "Indirizzo": "Via Edoardo Ferravilla, 101, 20832 Desio MB, Italy",
+    "Sito": "http://www.recuperieautodemolizioni.com/",
+    "E-mail": "recuperieautodemolizioni@gmail.com",
+    "Telefono": "+39 0362 307269",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+    "Google Place ID": "ChIJCRlDSdO9hkcRpHUMXF8PQgs",
+    "Google Place URL": "https://maps.google.com/?cid=811227785120740772",
+    "Latitude": "45.6159877",
+    "Longitude": "9.1854776",
+    "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+    "Orario di apertura": null
   },
   {
     "UUID": "cf878cc0-5589-4e33-a556-e127d0ed5e56",
     "Categoria": "",
+    "Categorie Google": [
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "P.S. VALERA SCAVI SRL",
-    "Indirizzo": "VIA FERRAVILLA N.53",
-    "Telefono": "0362/450569",
+    "Nome Visualizzato": "P.S. Valera Scavi S.R.L.",
+    "Indirizzo": "Via Edoardo Ferravilla, 53, 20832 Desio MB, Italy",
+    "Sito": null,
+    "E-mail": null,
+    "Telefono": "+39 0362 450569",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+    "Google Place ID": "ChIJh98GhC68hkcRE_DZEkDUyg4",
+    "Google Place URL": "https://maps.google.com/?cid=1065897633485811731",
+    "Latitude": "45.6167559",
+    "Longitude": "9.1925564",
+    "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+    "Orario di apertura": null
   },
   {
     "UUID": "e58139dc-f6e1-406b-ba19-1dc574520537",
     "Categoria": "",
+    "Categorie Google": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "SPOT LINE SRL",
-    "Indirizzo": "VIA XXV APRILE N.11",
-    "Sito": "www.spotline.it",
-    "e-mail": "info@spotline.it\nmike@spotline.it\nfranco@spotline.it",
-    "Telefono": "0362/1793839",
+    "Nome Visualizzato": "Spot Line srl",
+    "Indirizzo": "Via XXV Aprile, 11, 20832 Desio MB",
+    "Sito": "http://www.spotline.it/",
+    "E-mail": "info@spotline.it\nmike@spotline.it\nfranco@spotline.it",
+    "Telefono": "+39 0362 179 3839",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 21 : ATT. ARTIGIANALI PRODUZIONE BENI SPECIFICI"
+    "Google Place ID": "ChIJE7YfKT28hkcRhdkqiSXqduc",
+    "Google Place URL": "https://maps.google.com/?cid=16678775716949186949",
+    "Latitude": "45.6197094",
+    "Longitude": "9.2152146",
+    "Categoria catastale": "N Non Domestica 21 : ATT. ARTIGIANALI PRODUZIONE BENI SPECIFICI",
+    "Orario di apertura": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0830"
+        },
+        "close": {
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0830"
+        },
+        "close": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0830"
+        },
+        "close": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0830"
+        },
+        "close": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0830"
+        },
+        "close": {
+          "day": 5,
+          "time": "1730"
+        }
+      }
+    ]
   },
   {
     "UUID": "4094fee1-ec72-4a1c-a7df-ee0ff7217734",
@@ -1204,33 +1383,150 @@
   {
     "UUID": "223eabf9-b68c-4283-8866-77e114047a00",
     "Categoria": "",
+    "Categorie Google": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "CAFFE' SELE SRL",
-    "Indirizzo": "VIA DON LUIGI STURZO N.19",
-    "Sito": "www.caffesele.com",
-    "Telefono": "0362/621377",
+    "Nome Visualizzato": "Caffe' Sele Srl",
+    "Indirizzo": "Via Don Luigi Sturzo, 19, 20832 Desio MB, Italy",
+    "Sito": "http://www.caffesele.com/",
+    "E-mail": null,
+    "Telefono": "+39 0362 621377",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+    "Google Place ID": "ChIJqSH59yG8hkcRAicI95o9IIo",
+    "Google Place URL": "https://maps.google.com/?cid=9953022912267560706",
+    "Latitude": "45.613329",
+    "Longitude": "9.207428",
+    "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+    "Orario di apertura": null
   },
   {
     "UUID": "16ac8d4a-425f-47d7-810c-1944936a3d13",
     "Categoria": "",
+    "Categorie Google": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "INDUSTRIA BRIANTEA FERRAMENTA MINUTERIE DI FUMAGALLI SRL",
-    "Indirizzo": "VIA LAVORATORI AUTOBIANCHI N.1",
-    "Sito": "www.ibfm.it",
-    "e-mail": "ibfm@ibfm.it ",
-    "Telefono": "0362/627078",
+    "Nome Visualizzato": "Industria Briantea Ferramenta Minuterie Di Fumagalli Srl",
+    "Indirizzo": "Via Lavoratori Autobianchi, 1/B, 20832, Desio, MB, Italia, 20832 Desio MB, Italy",
+    "Sito": "http://www.ibfm.it/",
+    "E-mail": "ibfm@ibfm.it ",
+    "Telefono": "+39 0362 627078",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+    "Google Place ID": "ChIJhad2vxW8hkcRBS9_00QrgdQ",
+    "Google Place URL": "https://maps.google.com/?cid=15312567782642495237",
+    "Latitude": "45.6289548",
+    "Longitude": "9.2134309",
+    "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+    "Orario di apertura": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0800"
+        },
+        "close": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "time": "1330"
+        },
+        "close": {
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0800"
+        },
+        "close": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "1330"
+        },
+        "close": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0800"
+        },
+        "close": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "1330"
+        },
+        "close": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0800"
+        },
+        "close": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "1330"
+        },
+        "close": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0800"
+        },
+        "close": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "1330"
+        },
+        "close": {
+          "day": 5,
+          "time": "1730"
+        }
+      }
+    ]
   },
   {
     "UUID": "95d7fa82-2aec-4551-82b7-f0de44fd72d5",
@@ -1426,34 +1722,56 @@
   {
     "UUID": "1700c219-e6bd-4ded-9e57-84c521d640a2",
     "Categoria": "",
+    "Categorie Google": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "EDR SERVICE SRL",
-    "Indirizzo": "VIA BOZZI A. N.10",
-    "Sito": "www.edrservice.com",
-    "e-mail": "info@edrservice.it",
-    "Telefono": "0362/1785503",
+    "Nome Visualizzato": "EDR Service srl",
+    "Indirizzo": "Via Aldo Bozzi, 10, 20832 Desio MB, Italy",
+    "Sito": "http://www.edrservice.com/",
+    "E-mail": "info@edrservice.it",
+    "Telefono": "+39 0362 178 5503",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+    "Google Place ID": "ChIJ26HHMCy8hkcRlNhIFJNjgSw",
+    "Google Place URL": "https://maps.google.com/?cid=3206953893016164500",
+    "Latitude": "45.6072902",
+    "Longitude": "9.1771584",
+    "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+    "Orario di apertura": [
+      {
+        "open": {
+          "day": 0,
+          "time": "0000"
+        },
+        "close": null
+      }
+    ]
   },
   {
     "UUID": "d47bdc91-3c32-4952-82e8-de96e4a6c08a",
     "Categoria": "",
+    "Categorie Google": [
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "M.G.M. SPORT SRL",
-    "Indirizzo": "VIA SERAO",
-    "Sito": "www.mgmsport.it",
-    "e-mail": "desio@mgmsport.it",
-    "Telefono": "362/304083",
+    "Nome Visualizzato": "M.G.M. Sport S.r.l.",
+    "Indirizzo": "Via Serao Matilde, 20832 Desio MB, Italy",
+    "Sito": "http://www.mgmsport.it/",
+    "E-mail": "desio@mgmsport.it",
+    "Telefono": "+39 0362 304083",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE"
+    "Google Place ID": "ChIJF-uSsS68hkcRfQAIekdANyc",
+    "Google Place URL": "https://maps.google.com/?cid=2825797966932476029",
+    "Latitude": "45.6146566",
+    "Longitude": "9.1948592",
+    "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE",
+    "Orario di apertura": null
   },
   {
     "UUID": "0dff4f59-bd26-41f3-b7a4-97f445ef3e21",
@@ -1488,16 +1806,26 @@
   {
     "UUID": "60e670ce-5f81-483e-9a7b-4d370166e711",
     "Categoria": "",
+    "Categorie Google": [
+      "car_dealer",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "M.B. CAR SNC",
-    "Indirizzo": "VIA FERRAVILLA N.19",
-    "Telefono": "0362/337110",
+    "Nome Visualizzato": "M. B. Car Di Melluso Adolfo Francesco & C. Snc",
+    "Indirizzo": "Via Edoardo Ferravilla, 19, 20033 Desio MB, Italy",
+    "Sito": null,
+    "E-mail": null,
+    "Telefono": "+39 0362 337110",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO"
+    "Google Place ID": "ChIJIclNpy-8hkcRpSFXZD61oQ8",
+    "Google Place URL": "https://maps.google.com/?cid=1126380661395366309",
+    "Latitude": "45.616762",
+    "Longitude": "9.196513",
+    "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO",
+    "Orario di apertura": null
   },
   {
     "UUID": "fdb41812-fc81-46fe-a910-7fe22f8f3c56",
@@ -1715,18 +2043,26 @@
   {
     "UUID": "aa9a9c9d-0ed4-46e3-92f3-2275594a30b2",
     "Categoria": "",
+    "Categorie Google": [
+      "store",
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "MAXI GOMME & C. SNC DI PRESTI FILI PPO MASSIM",
-    "Indirizzo": "VIA DEGLI ARTIGIANI N.36",
-    "Sito": "www.maxigomme.it",
-    "e-mail": "maxi-gomme@libero.it",
-    "Telefono": "0362/308905",
+    "Nome Visualizzato": "Maxi Gomme S.R.L. Unipersonale",
+    "Indirizzo": "Viale degli Artigiani, 36, 20832 Desio MB, Italy",
+    "Sito": "http://www.maxigomme.it/",
+    "E-mail": "maxi-gomme@libero.it",
+    "Telefono": "+39 0362 308905",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO"
+    "Google Place ID": "ChIJEeZFfJi-hkcRJb68eJOEyW0",
+    "Google Place URL": "https://maps.google.com/?cid=7910999989373681189",
+    "Latitude": "45.601635",
+    "Longitude": "9.20435",
+    "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO",
+    "Orario di apertura": null
   },
   {
     "UUID": "7385ed20-9e3c-4c0b-9452-59b74e7e6ead",
@@ -1818,18 +2154,24 @@
   {
     "UUID": "e6106a24-be01-4dd8-bfab-0bb4295a7eee",
     "Categoria": "",
+    "Categorie Google": [
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "TECNOSON INSONORIZZAZIONI SRL",
-    "Indirizzo": "VIA CARAVAGGIO N.4",
-    "Sito": "www.tecnoson.it",
-    "e-mail": "assistenza@rccomponenti.it",
-    "Telefono": "0362/302142",
+    "Nome Visualizzato": "Tecnoson Insonorizzazioni Srl",
+    "Indirizzo": "Via Caravaggio, 4, 20832 Desio MB, Italy",
+    "Sito": "http://www.tecnoson.it/",
+    "E-mail": "assistenza@rccomponenti.it",
+    "Telefono": "+39 0362 302142",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+    "Google Place ID": "ChIJmVEbUJ--hkcROOKbFynDZr4",
+    "Google Place URL": "https://maps.google.com/?cid=13719867896087962168",
+    "Latitude": "45.6044714",
+    "Longitude": "9.2059072",
+    "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+    "Orario di apertura": null
   },
   {
     "UUID": "9f62af6c-23cc-42c4-a187-0bf43b030ee2",
