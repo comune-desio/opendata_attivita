@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "7b8cb0b8-adbf-45b2-a2ac-d4773b0fe57e",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "PANETTERIA SENZA GLUTINE DI SANVITO MONICA",
-  "Indirizzo": "VIA VERCESI N.14/T",
-  "Telefono": "0362/632882",
+  "Nome Visualizzato": "Angolo Senza Glutine Di Sanvito Monica",
+  "Indirizzo": "Via Vercesi Galileo, 14, 20832 Desio MB, Italy",
+  "Sito": null,
+  "E-mail": null,
+  "Telefono": "+39 0362 632882",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI"
+  "Google Place ID": "ChIJmfBTaB-8hkcRyl_NIq61wio",
+  "Google Place URL": "https://maps.google.com/?cid=3081224854587662282",
+  "Latitude": "45.611937",
+  "Longitude": "9.209053",
+  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI",
+  "Orario di apertura": null
 }
