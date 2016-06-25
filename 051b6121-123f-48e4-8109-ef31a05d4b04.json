@@ -1,16 +1,23 @@
-﻿{
+{
   "UUID": "051b6121-123f-48e4-8109-ef31a05d4b04",
   "Categoria": "",
+  "Categorie Google": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "PAV LINE SRL",
-  "Indirizzo": "VIA DEL GUADO N.40",
-  "Sito": "www.pavline.com",
-  "e-mail": " info@pavline.com",
-  "Telefono": "0362/331866\n0362/308776",
+  "Nome Visualizzato": "Pav Line (S.R.L.)",
+  "Indirizzo": "Via del Guado, 40, 20832 Desio MB, Italy",
+  "Sito": "http://www.pavline.com/",
+  "E-mail": " info@pavline.com",
+  "Telefono": "+39 0362 308776",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJXw_ShQK8hkcResfeaU-Kg2I",
+  "Google Place URL": "https://maps.google.com/?cid=7098669511349290874",
+  "Latitude": "45.6077822",
+  "Longitude": "9.2202772",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
