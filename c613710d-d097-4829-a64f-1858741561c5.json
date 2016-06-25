@@ -1,15 +1,22 @@
-﻿{
+{
   "UUID": "c613710d-d097-4829-a64f-1858741561c5",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SARMCO S.R.L.",
-  "Indirizzo": "VIA ROSSA N.6",
-  "Sito": "www.sarmco.it",
-  "Telefono": "0362/622447",
+  "Nome Visualizzato": "Sarmco Srl",
+  "Indirizzo": "Via G. Rossa, 6, 20832 Desio MB, Italy",
+  "Sito": "http://www.sarmco.it/",
+  "E-mail": null,
+  "Telefono": "+39 0362 302774",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJna6bTEG8hkcR07nnMZqdqJA",
+  "Google Place URL": "https://maps.google.com/?cid=10423754623136807379",
+  "Latitude": "45.6309394",
+  "Longitude": "9.2101208",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": null
 }
