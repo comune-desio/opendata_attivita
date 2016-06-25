@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "66106124-9f6e-4901-90c0-6ed1b625730d",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "CRAS ELETTROMECCANICA S.R.L.",
-  "Indirizzo": "VIA LAVORATORI AUTOBIANCHI N.47",
-  "Telefono": "0362/305996 -0362/331050",
+  "Nome Visualizzato": "Cras Elettromeccanica S.R.L.",
+  "Indirizzo": "1 Via Lavoratori Autobianchi, Desio, MB 20832, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=13780006948514049419",
+  "E-mail": null,
+  "Telefono": "+39 0362 305996",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJhad2vxW8hkcRiy2YYE9rPL8",
+  "Google Place URL": "https://maps.google.com/?cid=13780006948514049419",
+  "Latitude": "45.62375",
+  "Longitude": "9.21367",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
