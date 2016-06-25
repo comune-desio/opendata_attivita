@@ -1,16 +1,134 @@
-﻿{
+{
   "UUID": "9c5f8933-f19a-4c8b-9b40-fd0a5a013568",
   "Categoria": "",
+  "Categorie Google": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "GAGLIAZZO DINO DI A.GAGLIAZZO & C.",
-  "Indirizzo": "VIA GIUSTI N.40",
-  "Sito": "www.gagliazzodino.com",
-  "e-mail": "gagliazzo@gagliazzodino.com",
-  "Telefono": "0362/308333",
+  "Nome Visualizzato": "Gagliazzo Dino",
+  "Indirizzo": "Via Giusti Giuseppe, 40, 20832 Desio MB",
+  "Sito": "http://www.gagliazzodino.com/",
+  "E-mail": "gagliazzo@gagliazzodino.com",
+  "Telefono": "+39 0362 621226",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJtS5ikRy8hkcRn8r1DlL_hII",
+  "Google Place URL": "https://maps.google.com/?cid=9404922649759828639",
+  "Latitude": "45.6116612",
+  "Longitude": "9.2183447",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0830"
+      },
+      "close": {
+        "day": 1,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "1400"
+      },
+      "close": {
+        "day": 1,
+        "time": "1830"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0830"
+      },
+      "close": {
+        "day": 2,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1400"
+      },
+      "close": {
+        "day": 2,
+        "time": "1830"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0830"
+      },
+      "close": {
+        "day": 3,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1400"
+      },
+      "close": {
+        "day": 3,
+        "time": "1830"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0830"
+      },
+      "close": {
+        "day": 4,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1400"
+      },
+      "close": {
+        "day": 4,
+        "time": "1830"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0830"
+      },
+      "close": {
+        "day": 5,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1400"
+      },
+      "close": {
+        "day": 5,
+        "time": "1830"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "0830"
+      },
+      "close": {
+        "day": 6,
+        "time": "1230"
+      }
+    }
+  ]
 }
