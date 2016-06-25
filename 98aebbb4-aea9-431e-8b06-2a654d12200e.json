@@ -1,14 +1,24 @@
-﻿{
+{
   "UUID": "98aebbb4-aea9-431e-8b06-2a654d12200e",
   "Categoria": "",
+  "Categorie Google": [
+    "store",
+    "car_repair",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "AUTOFFICINA CONSONNI DI MARCO, FABIO ED ERMINIO CONSONNI S.N.C.",
-  "Indirizzo": "VIA LAVORATORI AUTOBIANCHI N.1",
-  "Telefono": "0362/306583",
+  "Nome Visualizzato": "Consonni Snc Autofficina Gommista Soccorso Stradale",
+  "Indirizzo": "1 Via Lavoratori Autobianchi, Desio, MB 20832, 20832 Desio MB, Italy",
+  "Sito": "http://www.consonnipneumatici.com/",
+  "E-mail": null,
+  "Telefono": "+39 0362 306583",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO"
+  "Google Place ID": "ChIJhad2vxW8hkcRkRgHeFythT8",
+  "Google Place URL": "https://maps.google.com/?cid=4577255208954304657",
+  "Latitude": "45.62375",
+  "Longitude": "9.21367",
+  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO",
+  "Orario di apertura": null
 }
