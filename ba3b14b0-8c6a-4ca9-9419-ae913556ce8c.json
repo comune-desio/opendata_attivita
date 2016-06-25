@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "ba3b14b0-8c6a-4ca9-9419-ae913556ce8c",
   "Categoria": "",
+  "Categorie Google": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SCUOLA MATERNA S.VINCENZO",
-  "Indirizzo": "VIA TRE VENEZIE",
-  "Telefono": "0362/624165",
+  "Nome Visualizzato": "Scuola Materna S. Vincenzo",
+  "Indirizzo": "Via Tre Venezie, 7, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=15478826558280784080",
+  "E-mail": null,
+  "Telefono": "+39 0362 624165",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
+  "Google Place ID": "ChIJOTnMn5u-hkcR0Fg1kr7Wz9Y",
+  "Google Place URL": "https://maps.google.com/?cid=15478826558280784080",
+  "Latitude": "45.6037414",
+  "Longitude": "9.1969263",
+  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO",
+  "Orario di apertura": null
 }
