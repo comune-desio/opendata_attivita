@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "13edb0ca-c4bc-430b-a622-229f5b0fd409",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "OPIS SRL",
-  "Indirizzo": "VIA VOLTA",
-  "Sito": "www.opis-europe.com",
-  "e-mail": "office@opis.it\noffice@opiseurope.com",
-  "Telefono": "0362/6331",
+  "Nome Visualizzato": "OPIS Srl",
+  "Indirizzo": "Via Giacomo Matteotti, 10, 20832 Desio MB, Italy",
+  "Sito": "http://opis-europe.com/",
+  "E-mail": "office@opis.it\noffice@opiseurope.com",
+  "Telefono": "+39 0362 6331",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJrxQJND68hkcRmp-CcbcJUaA",
+  "Google Place URL": "https://maps.google.com/?cid=11552025202670083994",
+  "Latitude": "45.6173934",
+  "Longitude": "9.2071116",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
