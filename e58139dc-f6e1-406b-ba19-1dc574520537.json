@@ -1,16 +1,75 @@
-﻿{
+{
   "UUID": "e58139dc-f6e1-406b-ba19-1dc574520537",
   "Categoria": "",
+  "Categorie Google": [
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SPOT LINE SRL",
-  "Indirizzo": "VIA XXV APRILE N.11",
-  "Sito": "www.spotline.it",
-  "e-mail": "info@spotline.it\nmike@spotline.it\nfranco@spotline.it",
-  "Telefono": "0362/1793839",
+  "Nome Visualizzato": "Spot Line srl",
+  "Indirizzo": "Via XXV Aprile, 11, 20832 Desio MB",
+  "Sito": "http://www.spotline.it/",
+  "E-mail": "info@spotline.it\nmike@spotline.it\nfranco@spotline.it",
+  "Telefono": "+39 0362 179 3839",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 21 : ATT. ARTIGIANALI PRODUZIONE BENI SPECIFICI"
+  "Google Place ID": "ChIJE7YfKT28hkcRhdkqiSXqduc",
+  "Google Place URL": "https://maps.google.com/?cid=16678775716949186949",
+  "Latitude": "45.6197094",
+  "Longitude": "9.2152146",
+  "Categoria catastale": "N Non Domestica 21 : ATT. ARTIGIANALI PRODUZIONE BENI SPECIFICI",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0830"
+      },
+      "close": {
+        "day": 1,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0830"
+      },
+      "close": {
+        "day": 2,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0830"
+      },
+      "close": {
+        "day": 3,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0830"
+      },
+      "close": {
+        "day": 4,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0830"
+      },
+      "close": {
+        "day": 5,
+        "time": "1730"
+      }
+    }
+  ]
 }

@@ -1,14 +1,24 @@
-﻿{
+{
   "UUID": "60e670ce-5f81-483e-9a7b-4d370166e711",
   "Categoria": "",
+  "Categorie Google": [
+    "car_dealer",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "M.B. CAR SNC",
-  "Indirizzo": "VIA FERRAVILLA N.19",
-  "Telefono": "0362/337110",
+  "Nome Visualizzato": "M. B. Car Di Melluso Adolfo Francesco & C. Snc",
+  "Indirizzo": "Via Edoardo Ferravilla, 19, 20033 Desio MB, Italy",
+  "Sito": null,
+  "E-mail": null,
+  "Telefono": "+39 0362 337110",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO"
+  "Google Place ID": "ChIJIclNpy-8hkcRpSFXZD61oQ8",
+  "Google Place URL": "https://maps.google.com/?cid=1126380661395366309",
+  "Latitude": "45.616762",
+  "Longitude": "9.196513",
+  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO",
+  "Orario di apertura": null
 }

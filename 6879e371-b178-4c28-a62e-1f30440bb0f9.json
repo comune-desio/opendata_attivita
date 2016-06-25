@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "6879e371-b178-4c28-a62e-1f30440bb0f9",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SACCHI GIUSEPPE S.P.A.",
-  "Indirizzo": "VIA FILIPPO DA DESIO N.56",
-  "Sito": "www.sacchi.it",
-  "e-mail": "sacchi@sacchi.it",
-  "Telefono": "0362/6351",
+  "Nome Visualizzato": "SACCHI GIUSEPPE S.p.A.",
+  "Indirizzo": "Via Filippo da Desio, 60, 20832 Desio MB, Italy",
+  "Sito": "http://www.sacchi.it/elettroforniture/pubblico/sacchi/puntivendita/puntivendita#.V0MQvfmLRhE",
+  "E-mail": "sacchi@sacchi.it",
+  "Telefono": "+39 0362 6351",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJLSSzwBO8hkcRxv9ROExqogU",
+  "Google Place URL": "https://maps.google.com/?cid=406003792011722694",
+  "Latitude": "45.6260923",
+  "Longitude": "9.218182",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }

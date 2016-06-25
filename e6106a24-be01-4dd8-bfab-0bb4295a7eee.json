@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "e6106a24-be01-4dd8-bfab-0bb4295a7eee",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "TECNOSON INSONORIZZAZIONI SRL",
-  "Indirizzo": "VIA CARAVAGGIO N.4",
-  "Sito": "www.tecnoson.it",
-  "e-mail": "assistenza@rccomponenti.it",
-  "Telefono": "0362/302142",
+  "Nome Visualizzato": "Tecnoson Insonorizzazioni Srl",
+  "Indirizzo": "Via Caravaggio, 4, 20832 Desio MB, Italy",
+  "Sito": "http://www.tecnoson.it/",
+  "E-mail": "assistenza@rccomponenti.it",
+  "Telefono": "+39 0362 302142",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJmVEbUJ--hkcROOKbFynDZr4",
+  "Google Place URL": "https://maps.google.com/?cid=13719867896087962168",
+  "Latitude": "45.6044714",
+  "Longitude": "9.2059072",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": null
 }

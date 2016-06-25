@@ -1,15 +1,23 @@
-﻿{
+{
   "UUID": "223eabf9-b68c-4283-8866-77e114047a00",
   "Categoria": "",
+  "Categorie Google": [
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "CAFFE' SELE SRL",
-  "Indirizzo": "VIA DON LUIGI STURZO N.19",
-  "Sito": "www.caffesele.com",
-  "Telefono": "0362/621377",
+  "Nome Visualizzato": "Caffe' Sele Srl",
+  "Indirizzo": "Via Don Luigi Sturzo, 19, 20832 Desio MB, Italy",
+  "Sito": "http://www.caffesele.com/",
+  "E-mail": null,
+  "Telefono": "+39 0362 621377",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJqSH59yG8hkcRAicI95o9IIo",
+  "Google Place URL": "https://maps.google.com/?cid=9953022912267560706",
+  "Latitude": "45.613329",
+  "Longitude": "9.207428",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
