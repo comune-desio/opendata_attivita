@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "b18feea0-337c-4f51-a98c-512827e01af4",
   "Categoria": "",
+  "Categorie Google": [
+    "insurance_agency",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "P.R.S. ASSICURAZIONI SRL",
-  "Indirizzo": "VIA GARIBALDI N.6",
-  "Telefono": "0362/302632",
+  "Nome Visualizzato": "Agenzia Allianz RAS",
+  "Indirizzo": "Via Giacomo Matteotti, 18, 20832 Desio MB, Italy",
+  "Sito": "http://www.allianzras.it/",
+  "E-mail": null,
+  "Telefono": "+39 0362 622612",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJlYVLPCO8hkcRVN30iIrfr4M",
+  "Google Place URL": "https://maps.google.com/?cid=9489048725989154132",
+  "Latitude": "45.6171928",
+  "Longitude": "9.2061031",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
