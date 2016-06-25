@@ -1,16 +1,85 @@
-﻿{
+{
   "UUID": "9d38af4f-161c-49ae-93ab-c47a58774f41",
   "Categoria": "",
+  "Categorie Google": [
+    "hardware_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "FERRAMENTA COLOMBO SNC DI ALBERTO E STEFANIA",
-  "Indirizzo": "VIA MATTEOTTI N.65",
-  "Sito": "www.ferramentacolombo.eu",
-  "e-mail": "fcd@tiscali.it",
-  "Telefono": "0362/621728",
+  "Nome Visualizzato": "Ferramenta Colombo Di Alberto E Stefania Sala Snc",
+  "Indirizzo": "Via Giacomo Matteotti, 65, 20033 Desio MB, Italy",
+  "Sito": "http://www.ferramentacolombo.eu/",
+  "E-mail": "fcd@tiscali.it",
+  "Telefono": "+39 0362 621728",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)"
+  "Google Place ID": "ChIJcc7fgiS8hkcRH0Gcg-DTNIw",
+  "Google Place URL": "https://maps.google.com/?cid=10102932825333055775",
+  "Latitude": "45.6166539",
+  "Longitude": "9.2037237",
+  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0800"
+      },
+      "close": {
+        "day": 1,
+        "time": "2100"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0800"
+      },
+      "close": {
+        "day": 2,
+        "time": "2100"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0800"
+      },
+      "close": {
+        "day": 3,
+        "time": "2100"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0800"
+      },
+      "close": {
+        "day": 4,
+        "time": "2100"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0800"
+      },
+      "close": {
+        "day": 5,
+        "time": "2100"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "0800"
+      },
+      "close": {
+        "day": 6,
+        "time": "2100"
+      }
+    }
+  ]
 }
