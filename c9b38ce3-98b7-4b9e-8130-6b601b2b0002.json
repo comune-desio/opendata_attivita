@@ -1,15 +1,24 @@
-﻿{
+{
   "UUID": "c9b38ce3-98b7-4b9e-8130-6b601b2b0002",
   "Categoria": "",
+  "Categorie Google": [
+    "store",
+    "car_repair",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "FABBRI PNEUMATICI SNC DI FABBRI L.",
-  "Indirizzo": "VIA MANZONI N.32",
-  "Sito": "www.pirelli.com",
-  "Telefono": "02 64421",
+  "Nome Visualizzato": "Fabbri Pneumatici Di Fabbri Luigino & C. Snc",
+  "Indirizzo": "Via Umberto Tagliabue, 91, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=5599299389445442958",
+  "E-mail": null,
+  "Telefono": "+39 0362 622070",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO"
+  "Google Place ID": "ChIJVTBDPwy8hkcRjg312iC1tE0",
+  "Google Place URL": "https://maps.google.com/?cid=5599299389445442958",
+  "Latitude": "45.6227233",
+  "Longitude": "9.228122",
+  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO",
+  "Orario di apertura": null
 }
