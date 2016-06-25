@@ -1,15 +1,134 @@
-﻿{
+{
   "UUID": "370bf085-6565-4ec6-94d4-9116802cc9e4",
   "Categoria": "",
+  "Categorie Google": [
+    "car_repair",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "ONTHEROAD SRL",
-  "Indirizzo": "VIA MASCAGNI N.83/A",
-  "Sito": "www.rockontheroad.it",
-  "Telefono": "0362/178 5819",
+  "Nome Visualizzato": "On The Road S.r.l. - Westfalia.it",
+  "Indirizzo": "Via del Lavoro, 5 Cortile interno, ingresso dopo il murales, 22100 Como CO, Italy",
+  "Sito": "http://www.westfalia.it/",
+  "E-mail": null,
+  "Telefono": "+39 031 520075",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 22 : RISTORANTI-TRATTORIE-OSTERIE-PIZZERIE-PUB"
+  "Google Place ID": "ChIJ8_wT8hKchkcROoe794W7sKU",
+  "Google Place URL": "https://maps.google.com/?cid=11939248796220491578",
+  "Latitude": "45.782776",
+  "Longitude": "9.078375",
+  "Categoria catastale": "N Non Domestica 22 : RISTORANTI-TRATTORIE-OSTERIE-PIZZERIE-PUB",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0900"
+      },
+      "close": {
+        "day": 1,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "1500"
+      },
+      "close": {
+        "day": 1,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0900"
+      },
+      "close": {
+        "day": 2,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1500"
+      },
+      "close": {
+        "day": 2,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0900"
+      },
+      "close": {
+        "day": 3,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1500"
+      },
+      "close": {
+        "day": 3,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0900"
+      },
+      "close": {
+        "day": 4,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1500"
+      },
+      "close": {
+        "day": 4,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0900"
+      },
+      "close": {
+        "day": 5,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1500"
+      },
+      "close": {
+        "day": 5,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "0900"
+      },
+      "close": {
+        "day": 6,
+        "time": "1200"
+      }
+    }
+  ]
 }
