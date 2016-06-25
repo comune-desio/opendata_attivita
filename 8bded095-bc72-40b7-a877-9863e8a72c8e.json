@@ -1,16 +1,83 @@
-﻿{
+{
   "UUID": "8bded095-bc72-40b7-a877-9863e8a72c8e",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "INOX PLUS SRL",
-  "Indirizzo": "VIA MULINELLO N.28",
-  "Sito": "www.inoxplussnc.it",
-  "e-mail": "info@inoxplussnc.it",
-  "Telefono": "0362/303204",
+  "Nome Visualizzato": "INOXPLUS SRL",
+  "Indirizzo": "INOXPLUS, Strada Petricani 17/3, Chișinău 2059, Moldova",
+  "Sito": "http://www.inoxplus.md/",
+  "E-mail": "info@inoxplussnc.it",
+  "Telefono": "+373 22 317 318",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 18 : ATTIVITA' ARTIGIANALI (BOTTEGHE:FALEGNAME-...)"
+  "Google Place ID": "ChIJ8VV19KV9yUARZI6j5KbgP8I",
+  "Google Place URL": "https://maps.google.com/?cid=13997153174295907940",
+  "Latitude": "47.045049",
+  "Longitude": "28.831065",
+  "Categoria catastale": "N Non Domestica 18 : ATTIVITA' ARTIGIANALI (BOTTEGHE:FALEGNAME-...)",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0830"
+      },
+      "close": {
+        "day": 1,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0830"
+      },
+      "close": {
+        "day": 2,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0830"
+      },
+      "close": {
+        "day": 3,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0830"
+      },
+      "close": {
+        "day": 4,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0830"
+      },
+      "close": {
+        "day": 5,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "0830"
+      },
+      "close": {
+        "day": 6,
+        "time": "1300"
+      }
+    }
+  ]
 }
