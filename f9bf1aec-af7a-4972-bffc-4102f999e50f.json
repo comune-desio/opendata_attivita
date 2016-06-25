@@ -1,14 +1,24 @@
-﻿{
+{
   "UUID": "f9bf1aec-af7a-4972-bffc-4102f999e50f",
   "Categoria": "",
+  "Categorie Google": [
+    "store",
+    "car_repair",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "MANIERO E BORELLA GOMME SNC",
-  "Indirizzo": "VIA MULINELLO N.28",
-  "Telefono": "0362/631137",
+  "Nome Visualizzato": "Maniero E Borella Gomme S.N.C. Di Borella Giuliano - Schenato Emanuele",
+  "Indirizzo": "28, Via Mulinello, Desio, MB 20832, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=232869667277342316",
+  "E-mail": null,
+  "Telefono": "+39 0362 631137",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO"
+  "Google Place ID": "ChIJqyyWrbm9hkcRbIYHhbpROwM",
+  "Google Place URL": "https://maps.google.com/?cid=232869667277342316",
+  "Latitude": "45.63277",
+  "Longitude": "9.17753",
+  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO",
+  "Orario di apertura": null
 }
