@@ -1,14 +1,94 @@
-﻿{
+{
   "UUID": "018c47dc-c3f8-49e0-9672-c51a174abe6f",
   "Categoria": "",
+  "Categorie Google": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "ELITE CAFE' SNC",
-  "Indirizzo": "VIA OLMETTO N.4",
-  "Telefono": "0362/638025",
+  "Nome Visualizzato": "Elite Cafe' Di Franzoni Valeria E Piantoni Ferruccio S.N.C.",
+  "Indirizzo": "Via Crocifissa di Rosa, 46, 25128 Brescia BS, Italy",
+  "Sito": "http://www.elitecafe.it/",
+  "E-mail": null,
+  "Telefono": "+39 030 300617",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE"
+  "Google Place ID": "ChIJKZODcjh2gUcRLHaaF6vvMkM",
+  "Google Place URL": "https://maps.google.com/?cid=4842196067491149356",
+  "Latitude": "45.5486825",
+  "Longitude": "10.2266605",
+  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 0,
+        "time": "0700"
+      },
+      "close": {
+        "day": 0,
+        "time": "2230"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "0700"
+      },
+      "close": {
+        "day": 1,
+        "time": "2230"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0700"
+      },
+      "close": {
+        "day": 2,
+        "time": "2230"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0700"
+      },
+      "close": {
+        "day": 3,
+        "time": "2230"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0700"
+      },
+      "close": {
+        "day": 4,
+        "time": "2230"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0700"
+      },
+      "close": {
+        "day": 5,
+        "time": "2230"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "0700"
+      },
+      "close": {
+        "day": 6,
+        "time": "2230"
+      }
+    }
+  ]
 }
