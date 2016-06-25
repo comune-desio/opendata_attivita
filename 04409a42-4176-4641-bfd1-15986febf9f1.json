@@ -1,15 +1,133 @@
-﻿{
+{
   "UUID": "04409a42-4176-4641-bfd1-15986febf9f1",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "DAYTONA SAS",
-  "Indirizzo": "VIA GARIBALDI N.106/A",
-  "e-mail": "daytonatre@tiscali.it",
-  "Telefono": "0362/620220",
+  "Nome Visualizzato": "Autoscuola DAYTONA - rinnovo patente e cqc, recupero punti, patente veloce",
+  "Indirizzo": "Via Giuseppe Garibaldi, 106, 20832 Desio MB, Italy",
+  "Sito": "https://www.facebook.com/pages/Autoscuola-Daytona3/1435191673366269?ref=hl",
+  "E-mail": "daytonatre@tiscali.it",
+  "Telefono": "+39 0362 620220",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJ6emK1CO8hkcRWhoD_vGjIXs",
+  "Google Place URL": "https://maps.google.com/?cid=8872553000640649818",
+  "Latitude": "45.6140946",
+  "Longitude": "9.2059008",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0900"
+      },
+      "close": {
+        "day": 1,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "1515"
+      },
+      "close": {
+        "day": 1,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0900"
+      },
+      "close": {
+        "day": 2,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1515"
+      },
+      "close": {
+        "day": 2,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0900"
+      },
+      "close": {
+        "day": 3,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1515"
+      },
+      "close": {
+        "day": 3,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0900"
+      },
+      "close": {
+        "day": 4,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1515"
+      },
+      "close": {
+        "day": 4,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0900"
+      },
+      "close": {
+        "day": 5,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1515"
+      },
+      "close": {
+        "day": 5,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "0930"
+      },
+      "close": {
+        "day": 6,
+        "time": "1200"
+      }
+    }
+  ]
 }
