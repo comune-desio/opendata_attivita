@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "7a686b2c-4533-49f5-8434-f233e8f98aae",
   "Categoria": "",
+  "Categorie Google": [
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "PIAZZA CASTELLO SRL",
-  "Indirizzo": "PIAZZA MARTIRI DI FOSSOLI N.22",
-  "Telefono": "0432/889365",
+  "Nome Visualizzato": "Piazza Castello Srl",
+  "Indirizzo": "Via Madonnina, 9, 20054 Nova Milanese MB, Italy",
+  "Sito": "https://maps.google.com/?cid=12345403928472613453",
+  "E-mail": null,
+  "Telefono": "+39 0362 366050",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJB7ZuGcC-hkcRTXJS1XavU6s",
+  "Google Place URL": "https://maps.google.com/?cid=12345403928472613453",
+  "Latitude": "45.5892652",
+  "Longitude": "9.2012832",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
