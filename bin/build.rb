@@ -40,7 +40,7 @@ def build_geojson_feature(record:)
       "url": record["Sito"],
       "e-mail": record["e-mail"],
       "telephone": record["Telefono"],
-      "marker-symbol": "information",
+      "marker-symbol": "marker",
       "marker-color": "#000000",
       "marker-size": "medium",
       "ragione-sociale": record["Ragione Sociale"],
@@ -69,7 +69,7 @@ master = read_json(path: "../master.json")
 geojson_records = []
 records = master.map do |item|
   record = read_json(path: "../#{item["UUID"]}.json")
-  if record["latitude"] != "" && record["longitude"] != ""
+  if !blank?(record["Latitude"]) && !blank?(record["Longitude"])
     geojson_records << record
   end
   record
