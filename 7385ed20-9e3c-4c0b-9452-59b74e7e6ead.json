@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "7385ed20-9e3c-4c0b-9452-59b74e7e6ead",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "LA VETRINA SRL",
-  "Indirizzo": "VIA DEL GUADO N.42",
-  "Sito": "www.lavetrinasrl.com",
-  "e-mail": "info@lavetrinasrl.com ",
-  "Telefono": "0362/302613",
+  "Nome Visualizzato": "La Vetrina Srl - Pav Line Srl",
+  "Indirizzo": "Via del Guado, 40, 20033 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=17255324826083345853",
+  "E-mail": "info@lavetrinasrl.com ",
+  "Telefono": "+39 0362 302613",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJXw_ShQK8hkcRvUWttoE6d-8",
+  "Google Place URL": "https://maps.google.com/?cid=17255324826083345853",
+  "Latitude": "45.6078478",
+  "Longitude": "9.2205073",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": null
 }
