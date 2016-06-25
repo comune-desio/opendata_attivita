@@ -1,16 +1,23 @@
-﻿{
+{
   "UUID": "efaaef96-2661-433b-885d-94eb6d8dd7ec",
   "Categoria": "",
+  "Categorie Google": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "GNOSIS SPA",
-  "Indirizzo": "VIA LAVORATORI AUTOBIAN N.1",
-  "Sito": "www.gnosis-bio.com",
-  "e-mail": "info@gnosis-bio.com",
-  "Telefono": "0362/48841 ",
+  "Nome Visualizzato": "Gnosis Spa",
+  "Indirizzo": "Via Lavoratori Autobianchi, 1/b, 20832 Desio MB, Italy",
+  "Sito": "http://www.gnosis-bio.com/",
+  "E-mail": "info@gnosis-bio.com",
+  "Telefono": "+39 0362 48841",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJhad2vxW8hkcRpe47n08xJiQ",
+  "Google Place URL": "https://maps.google.com/?cid=2604823652524093093",
+  "Latitude": "45.6259536",
+  "Longitude": "9.2149866",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": null
 }
