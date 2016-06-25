@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "94870229-d407-4458-9f2b-52046717a700",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "VIANI ARMANDO & F.LLI",
-  "Indirizzo": "VIA BINZAGO N.30",
-  "Telefono": "0362/622109",
+  "Nome Visualizzato": "Viani Armando",
+  "Indirizzo": "Via per Binzago, 30, 20033 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=788203220270118743",
+  "E-mail": null,
+  "Telefono": "+39 0362 622109",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJTYV4tMy9hkcRV_cEG6dC8Ao",
+  "Google Place URL": "https://maps.google.com/?cid=788203220270118743",
+  "Latitude": "45.6236429",
+  "Longitude": "9.1883893",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": null
 }
