@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "b8bb1d69-646b-41a2-b10e-e1e5675e7ffb",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "KING METAL SRL",
-  "Indirizzo": "VIA FORLANINI N.69",
-  "Telefono": "0362/624404",
+  "Nome Visualizzato": "Johnson Matthey Inc",
+  "Indirizzo": "1401 King Rd, West Chester, PA 19380, USA",
+  "Sito": "http://www.matthey.com/",
+  "E-mail": null,
+  "Telefono": "+1 610-648-8000",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJs0srygTzxokRV9ZSPKcysZU",
+  "Google Place URL": "https://maps.google.com/?cid=10786458276382037591",
+  "Latitude": "40.0225396",
+  "Longitude": "-75.5810708",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": null
 }
