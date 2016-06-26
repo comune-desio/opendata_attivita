@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "592cd899-b081-4793-b5fb-de89526c5128",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "HOLDIAMOND S.R.L.",
-  "Indirizzo": "VIALE SABOTINO",
-  "Sito": "www.holdiamond.it",
-  "e-mail": "info@holdiamond.it",
-  "Telefono": "0362/624093",
+  "Nome Visualizzato": "Holdiamond Srl",
+  "Indirizzo": "Via Monselice, 21, 20832 Desio MB, Italy",
+  "Sito": "http://www.holdiamond.it/",
+  "E-mail": "info@holdiamond.it",
+  "Telefono": "+39 0362 631166",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJCatNdYK-hkcRjpZlJLnbGFM",
+  "Google Place URL": "https://maps.google.com/?cid=5987777292815144590",
+  "Latitude": "45.6100362",
+  "Longitude": "9.1913141",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": null
 }
