@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "57ea814b-ec11-46e1-90f5-132180410a77",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "POZZOLI FOOD S.P.A.",
-  "Indirizzo": "VIA MASCAGNI N.81",
-  "Sito": "www.pozzoliprofessionalfood.it",
-  "e-mail": "posta.verde@pozzolifoodspa.com",
-  "Telefono": "342-3317112",
+  "Nome Visualizzato": "POZZOLI FOOD SPA",
+  "Indirizzo": "B, Via Cristoforo Colombo, 52, 20841 Carate Brianza MB, Italy",
+  "Sito": "http://www.pozzolimarket.it/",
+  "E-mail": "posta.verde@pozzolifoodspa.com",
+  "Telefono": "+39 0362 905614",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI"
+  "Google Place ID": "ChIJ_cDagpi8hkcRRhPCa7uBFpo",
+  "Google Place URL": "https://maps.google.com/?cid=11103204573295285062",
+  "Latitude": "45.662654",
+  "Longitude": "9.2398703",
+  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI",
+  "Orario di apertura": null
 }
