@@ -1,13 +1,22 @@
-﻿{
+{
   "UUID": "dbae1bc4-981a-4e3b-8758-b4b1fa5e73d8",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "FASHION HOUSE S.R.L.",
-  "Indirizzo": "VIA PRATI",
+  "Nome Visualizzato": "Fashion House Srl",
+  "Indirizzo": "Via Tevere, 64020 Castellalto TE, Italy",
+  "Sito": "http://www.fashionhousesrl.com/",
+  "E-mail": null,
+  "Telefono": "+39 0861 57988",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 16 : BANCHI DI MERCATO BENI DUREVOLI"
+  "Google Place ID": "ChIJjfbUEejBMRMRla5NejH0VJI",
+  "Google Place URL": "https://maps.google.com/?cid=10544321120923659925",
+  "Latitude": "42.6225244",
+  "Longitude": "13.8550288",
+  "Categoria catastale": "N Non Domestica 16 : BANCHI DI MERCATO BENI DUREVOLI",
+  "Orario di apertura": null
 }
