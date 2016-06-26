@@ -1,16 +1,96 @@
-﻿{
+{
   "UUID": "72666980-a76c-46f1-adc0-f5b854bfa970",
   "Categoria": "",
+  "Categorie Google": [
+    "restaurant",
+    "food",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "BIRRIFICIO IRRENHAUS S.R.L.",
-  "Indirizzo": "VIA EUROPA N.84",
-  "Sito": "www.birrificioirrenhaus.it",
-  "e-mail": "info@birrificioirrenhaus.it",
-  "Telefono": "0362/620116",
+  "Nome Visualizzato": "Birrificio Irrenhaus",
+  "Indirizzo": "Viale Europa, 84, 20834 Desio MB, Italy",
+  "Sito": "http://www.birrificioirrenhaus.it/",
+  "E-mail": "info@birrificioirrenhaus.it",
+  "Telefono": "+39 0362 620116",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 23 : MENSE-BIRRERIE-AMBURGHERIE"
+  "Google Place ID": "ChIJ1-kwDUy8hkcRC5Eb38FFRnM",
+  "Google Place URL": "https://maps.google.com/?cid=8306403261705589003",
+  "Latitude": "45.6335388",
+  "Longitude": "9.2003632",
+  "Categoria catastale": "N Non Domestica 23 : MENSE-BIRRERIE-AMBURGHERIE",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 0,
+        "time": "1800"
+      },
+      "close": {
+        "day": 1,
+        "time": "0100"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "1900"
+      },
+      "close": {
+        "day": 2,
+        "time": "0100"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1900"
+      },
+      "close": {
+        "day": 3,
+        "time": "0100"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1900"
+      },
+      "close": {
+        "day": 4,
+        "time": "0100"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1900"
+      },
+      "close": {
+        "day": 5,
+        "time": "0100"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1800"
+      },
+      "close": {
+        "day": 6,
+        "time": "0200"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "1800"
+      },
+      "close": {
+        "day": 0,
+        "time": "0200"
+      }
+    }
+  ]
 }
