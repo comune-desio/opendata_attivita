@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "8f3a7d46-fc3a-4d88-885d-7b6732df4557",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "GELSIA RETI SRL",
-  "Indirizzo": "VIA GIUSTI N.38",
-  "Sito": "www.retipiu.it",
-  "e-mail": "info@pec.retipiu.it\ninfo@retipiu.it",
-  "Telefono": "390/362637637",
+  "Nome Visualizzato": "Gelsia Reti Srl",
+  "Indirizzo": "Via Loreto, 25, 20851 Lissone MB, Italy",
+  "Sito": "http://www.gelsia.it/",
+  "E-mail": "info@pec.retipiu.it\ninfo@retipiu.it",
+  "Telefono": "+39 800 478 538",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJyW00RuG7hkcR22O2_XhyvBM",
+  "Google Place URL": "https://maps.google.com/?cid=1422137446320464859",
+  "Latitude": "45.609404",
+  "Longitude": "9.2495831",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
