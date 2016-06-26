@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "753f71e1-6dba-4f9f-905e-d85b8a648732",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "METROQUADRO IMMOBILIARE S.R.L.",
-  "Indirizzo": "VIA LAVORATORI AUTOBIANCHI N.1",
-  "Sito": "www.immobiliare.it",
-  "e-mail": "info@immobiliaremetroquadro.it",
-  "Telefono": "0583 316795/6",
+  "Nome Visualizzato": "Metroquadro Immobiliare S.R.L.",
+  "Indirizzo": "Via Pisana, 301, 55100 Lucca LU, Italy",
+  "Sito": "http://www.immobiliaremetroquadro.it/",
+  "E-mail": "info@immobiliaremetroquadro.it",
+  "Telefono": "+39 0583 316795",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJXWgQkICD1RIRBIsXRB-RwEs",
+  "Google Place URL": "https://maps.google.com/?cid=5458522311845448452",
+  "Latitude": "43.8418644",
+  "Longitude": "10.4881963",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": null
 }
