@@ -1,16 +1,23 @@
-﻿{
+{
   "UUID": "e7be4d53-a4ba-479c-b1b6-ab335b765103",
   "Categoria": "",
+  "Categorie Google": [
+    "travel_agency",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "CONSORZIO DRL",
-  "Indirizzo": "PIAZZA CONCILIAZIONE N.12",
-  "Sito": "www.codebri.mb.it",
-  "e-mail": "formazione@codebri.mb.it ",
-  "Telefono": "0362/39171",
+  "Nome Visualizzato": "Consorzio Del Golfo Gite in Barca Arcipelago di La Maddalena",
+  "Indirizzo": "76 Lgmare Doria, Arzachena, OT 07021, 07021 Cannigione OT, Italy",
+  "Sito": "http://www.consorziodelgolfo.it/",
+  "E-mail": "formazione@codebri.mb.it ",
+  "Telefono": "+39 0789 88418",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 12 : BANCHE E ISTITUTI DI CREDITO"
+  "Google Place ID": "ChIJK98dwTtE2RIRxIyD0FWsclU",
+  "Google Place URL": "https://maps.google.com/?cid=6157173125139369156",
+  "Latitude": "41.1095",
+  "Longitude": "9.44059",
+  "Categoria catastale": "N Non Domestica 12 : BANCHE E ISTITUTI DI CREDITO",
+  "Orario di apertura": null
 }
