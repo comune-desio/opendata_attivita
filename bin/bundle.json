@@ -2904,18 +2904,98 @@
   {
     "UUID": "72666980-a76c-46f1-adc0-f5b854bfa970",
     "Categoria": "",
+    "Categorie Google": [
+      "restaurant",
+      "food",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "BIRRIFICIO IRRENHAUS S.R.L.",
-    "Indirizzo": "VIA EUROPA N.84",
-    "Sito": "www.birrificioirrenhaus.it",
-    "e-mail": "info@birrificioirrenhaus.it",
-    "Telefono": "0362/620116",
+    "Nome Visualizzato": "Birrificio Irrenhaus",
+    "Indirizzo": "Viale Europa, 84, 20834 Desio MB, Italy",
+    "Sito": "http://www.birrificioirrenhaus.it/",
+    "E-mail": "info@birrificioirrenhaus.it",
+    "Telefono": "+39 0362 620116",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 23 : MENSE-BIRRERIE-AMBURGHERIE"
+    "Google Place ID": "ChIJ1-kwDUy8hkcRC5Eb38FFRnM",
+    "Google Place URL": "https://maps.google.com/?cid=8306403261705589003",
+    "Latitude": "45.6335388",
+    "Longitude": "9.2003632",
+    "Categoria catastale": "N Non Domestica 23 : MENSE-BIRRERIE-AMBURGHERIE",
+    "Orario di apertura": [
+      {
+        "open": {
+          "day": 0,
+          "time": "1800"
+        },
+        "close": {
+          "day": 1,
+          "time": "0100"
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "time": "1900"
+        },
+        "close": {
+          "day": 2,
+          "time": "0100"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "1900"
+        },
+        "close": {
+          "day": 3,
+          "time": "0100"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "1900"
+        },
+        "close": {
+          "day": 4,
+          "time": "0100"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "1900"
+        },
+        "close": {
+          "day": 5,
+          "time": "0100"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "1800"
+        },
+        "close": {
+          "day": 6,
+          "time": "0200"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "1800"
+        },
+        "close": {
+          "day": 0,
+          "time": "0200"
+        }
+      }
+    ]
   },
   {
     "UUID": "ef89682a-5b2e-4715-8e7f-88be70548abb",
@@ -2948,16 +3028,27 @@
   {
     "UUID": "6607ee9d-6801-424b-9fad-65511afbcd91",
     "Categoria": "",
+    "Categorie Google": [
+      "bakery",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "BAR DI PEDRINI E CALDARINI ",
-    "Indirizzo": "VIA LOMBARDIA N.58",
-    "Telefono": "0362/622439",
+    "Nome Visualizzato": "Turchina Snc",
+    "Indirizzo": "Via Lombardia, 58, 20832 Desio MB, Italy",
+    "Sito": "https://maps.google.com/?cid=15211124635614168855",
+    "E-mail": null,
+    "Telefono": "+39 0362 622439",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE"
+    "Google Place ID": "ChIJ8UH-6ha8hkcRF8f5m0PFGNM",
+    "Google Place URL": "https://maps.google.com/?cid=15211124635614168855",
+    "Latitude": "45.6208255",
+    "Longitude": "9.2148418",
+    "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE",
+    "Orario di apertura": null
   },
   {
     "UUID": "6a198a32-216a-490b-9aaa-07a3f268e05c",
@@ -3238,16 +3329,25 @@
   {
     "UUID": "ba3b14b0-8c6a-4ca9-9419-ae913556ce8c",
     "Categoria": "",
+    "Categorie Google": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
     "Ragione Sociale": "SCUOLA MATERNA S.VINCENZO",
-    "Indirizzo": "VIA TRE VENEZIE",
-    "Telefono": "0362/624165",
+    "Nome Visualizzato": "Scuola Materna S. Vincenzo",
+    "Indirizzo": "Via Tre Venezie, 7, 20832 Desio MB, Italy",
+    "Sito": "https://maps.google.com/?cid=15478826558280784080",
+    "E-mail": null,
+    "Telefono": "+39 0362 624165",
     "Facebook ID": "",
     "Facebook URL": "",
-    "Google Place ID": "",
-    "Google Place URL": "",
-    "Latitude": "",
-    "Longitude": "",
-    "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
+    "Google Place ID": "ChIJOTnMn5u-hkcR0Fg1kr7Wz9Y",
+    "Google Place URL": "https://maps.google.com/?cid=15478826558280784080",
+    "Latitude": "45.6037414",
+    "Longitude": "9.1969263",
+    "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO",
+    "Orario di apertura": null
   },
   {
     "UUID": "85e6bc72-d098-4588-9c1b-c43abc0cd6f1",

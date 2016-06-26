@@ -816,6 +816,81 @@
         "Google Place URL": "https://maps.google.com/?cid=995567943157231434",
         "Categoria catastale": "N Non Domestica 21 : ATT. ARTIGIANALI PRODUZIONE BENI SPECIFICI"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.2003632",
+          "45.6335388"
+        ]
+      },
+      "properties": {
+        "UUID": "72666980-a76c-46f1-adc0-f5b854bfa970",
+        "category": "N Non Domestica 23 : MENSE-BIRRERIE-AMBURGHERIE",
+        "title": "Birrificio Irrenhaus",
+        "address": "Viale Europa, 84, 20834 Desio MB, Italy",
+        "url": "http://www.birrificioirrenhaus.it/",
+        "telephone": "+39 0362 620116",
+        "marker-symbol": "marker",
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "ragione-sociale": "BIRRIFICIO IRRENHAUS S.R.L.",
+        "Google Place ID": "ChIJ1-kwDUy8hkcRC5Eb38FFRnM",
+        "Google Place URL": "https://maps.google.com/?cid=8306403261705589003",
+        "Categoria catastale": "N Non Domestica 23 : MENSE-BIRRERIE-AMBURGHERIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.2148418",
+          "45.6208255"
+        ]
+      },
+      "properties": {
+        "UUID": "6607ee9d-6801-424b-9fad-65511afbcd91",
+        "category": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE",
+        "title": "Turchina Snc",
+        "address": "Via Lombardia, 58, 20832 Desio MB, Italy",
+        "url": "https://maps.google.com/?cid=15211124635614168855",
+        "telephone": "+39 0362 622439",
+        "marker-symbol": "marker",
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "ragione-sociale": "BAR DI PEDRINI E CALDARINI ",
+        "Google Place ID": "ChIJ8UH-6ha8hkcRF8f5m0PFGNM",
+        "Google Place URL": "https://maps.google.com/?cid=15211124635614168855",
+        "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.1969263",
+          "45.6037414"
+        ]
+      },
+      "properties": {
+        "UUID": "ba3b14b0-8c6a-4ca9-9419-ae913556ce8c",
+        "category": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO",
+        "title": "Scuola Materna S. Vincenzo",
+        "address": "Via Tre Venezie, 7, 20832 Desio MB, Italy",
+        "url": "https://maps.google.com/?cid=15478826558280784080",
+        "telephone": "+39 0362 624165",
+        "marker-symbol": "marker",
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "ragione-sociale": "SCUOLA MATERNA S.VINCENZO",
+        "Google Place ID": "ChIJOTnMn5u-hkcR0Fg1kr7Wz9Y",
+        "Google Place URL": "https://maps.google.com/?cid=15478826558280784080",
+        "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
+      }
     }
   ]
 }
