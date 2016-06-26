@@ -1,14 +1,24 @@
-﻿{
+{
   "UUID": "d1af8381-1697-407f-a396-a8e766dae842",
   "Categoria": "",
+  "Categorie Google": [
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "MACELLERIA DI MOGICATO FERDINANDO",
-  "Indirizzo": "VIA GARIBALDI N.91",
-  "Telefono": "0362/628423",
+  "Nome Visualizzato": "Mogicato Ferdinando",
+  "Indirizzo": "Via Giuseppe Garibaldi, 91, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=7251322515177629575",
+  "E-mail": null,
+  "Telefono": "+39 0362 628423",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI"
+  "Google Place ID": "ChIJpc2wSiK8hkcRh2f0jGjfoWQ",
+  "Google Place URL": "https://maps.google.com/?cid=7251322515177629575",
+  "Latitude": "45.6147486",
+  "Longitude": "9.2061392",
+  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI",
+  "Orario di apertura": null
 }
