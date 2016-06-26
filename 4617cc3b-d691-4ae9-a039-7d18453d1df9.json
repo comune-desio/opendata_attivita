@@ -1,14 +1,25 @@
-﻿{
+{
   "UUID": "4617cc3b-d691-4ae9-a039-7d18453d1df9",
   "Categoria": "",
+  "Categorie Google": [
+    "bakery",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "NOVATI PIER PAOLO FORNAIO ",
-  "Indirizzo": "VIA POZZO ANTICO N.9",
-  "Telefono": "0362/627036",
+  "Nome Visualizzato": "Novati Pier Paolo",
+  "Indirizzo": "Via Pozzo Antico, 9, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=9239288873117865464",
+  "E-mail": null,
+  "Telefono": "+39 0362 627036",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI"
+  "Google Place ID": "ChIJ0XZM5iK8hkcR-NVoO0eMOIA",
+  "Google Place URL": "https://maps.google.com/?cid=9239288873117865464",
+  "Latitude": "45.6160735",
+  "Longitude": "9.2079515",
+  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI",
+  "Orario di apertura": null
 }
