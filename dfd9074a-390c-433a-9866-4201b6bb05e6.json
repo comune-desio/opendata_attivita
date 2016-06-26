@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "dfd9074a-390c-433a-9866-4201b6bb05e6",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SOMASCHINI MOTO SAS",
-  "Indirizzo": "VIA GABELLINI N.105",
-  "Sito": "www.somaschinimoto.it",
-  "e-mail": " info@somaschinimoto.it",
-  "Telefono": "0362/622204",
+  "Nome Visualizzato": "Somaschini Moto Sas Di Roberto Somaschini & C.",
+  "Indirizzo": "Via Gabellini Alberto, 105, 20832 Desio MB, Italy",
+  "Sito": "http://www.somaschinimoto.it/",
+  "E-mail": " info@somaschinimoto.it",
+  "Telefono": "+39 0362 622204",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO"
+  "Google Place ID": "ChIJG9qICDy8hkcRj81quqXnpTQ",
+  "Google Place URL": "https://maps.google.com/?cid=3793692960112692623",
+  "Latitude": "45.6227638",
+  "Longitude": "9.1993034",
+  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO",
+  "Orario di apertura": null
 }
