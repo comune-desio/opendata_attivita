@@ -1,14 +1,73 @@
-﻿{
+{
   "UUID": "943dae8d-ff25-4342-862c-eade61a93f88",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "AQAS SRL SERVIZI PER LE IMPRESE",
-  "Indirizzo": "VIA POZZO ANTICO N.24",
-  "Telefono": "0362/638862",
+  "Nome Visualizzato": "Aqas Srl Servizi Per Le Imprese",
+  "Indirizzo": "Via Pozzo Antico, 24, 20832 Desio MB, Italy",
+  "Sito": "http://www.aqas.it/",
+  "E-mail": null,
+  "Telefono": "+39 0362 638862",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJJa8rszy8hkcR5TLMn7Hyv2s",
+  "Google Place URL": "https://maps.google.com/?cid=7764191127314117349",
+  "Latitude": "45.616057",
+  "Longitude": "9.207676",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0830"
+      },
+      "close": {
+        "day": 1,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0830"
+      },
+      "close": {
+        "day": 2,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0830"
+      },
+      "close": {
+        "day": 3,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0830"
+      },
+      "close": {
+        "day": 4,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0830"
+      },
+      "close": {
+        "day": 5,
+        "time": "1730"
+      }
+    }
+  ]
 }
