@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "51e240b9-4767-4e15-bd6d-4fa2e59fa0c9",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "FONDAZIONE PER LA FAMIGLIA EDITH STEIN- ONLUS",
-  "Indirizzo": "VIA PORTICHETTO N.21",
-  "Sito": "www.fondazionefamigliaedithstein.it",
-  "e-mail": "ceafdesio@tiscali.it",
-  "Telefono": "0362/629193",
+  "Nome Visualizzato": "Fondazione Per La Famiglia Edith Stein Onlus",
+  "Indirizzo": "Via Portichetto, 21, 20832 Desio MB, Italy",
+  "Sito": "http://www.fondazionefamigliaedithstein.it/",
+  "E-mail": "ceafdesio@tiscali.it",
+  "Telefono": "+39 0362 629193",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
+  "Google Place ID": "ChIJ96IVqyK8hkcRSTfV22352pc",
+  "Google Place URL": "https://maps.google.com/?cid=10942332494884976457",
+  "Latitude": "45.617968",
+  "Longitude": "9.209868",
+  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO",
+  "Orario di apertura": null
 }
