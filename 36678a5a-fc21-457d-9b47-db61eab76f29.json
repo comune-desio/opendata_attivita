@@ -1,15 +1,22 @@
-﻿{
+{
   "UUID": "36678a5a-fc21-457d-9b47-db61eab76f29",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SDA EXPRESS COURIER SPA",
-  "Indirizzo": "VIA LAVORATORI AUTOBIANCHI N.122 Int.2",
-  "Sito": "www.sda.it",
-  "Telefono": "Numero verde: 803-160",
+  "Nome Visualizzato": "Sda Express Courier Spa",
+  "Indirizzo": "Via Lombardia, 59, 20832 Desio MB, Italy",
+  "Sito": "https://www.sda.it/",
+  "E-mail": null,
+  "Telefono": "+39 0362 304911",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJY38JwBa8hkcRnMSR6ECBqPo",
+  "Google Place URL": "https://maps.google.com/?cid=18061828421349131420",
+  "Latitude": "45.621145",
+  "Longitude": "9.2156165",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
