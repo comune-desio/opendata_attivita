@@ -1,15 +1,22 @@
-﻿{
+{
   "UUID": "bec455f3-fe58-4fc7-a551-ad84b7ffca4e",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "COOPERATIVA  ACLI A. GRANDI",
-  "Indirizzo": "VIA GRANDI N.26",
-  "Sito": "www.acliservizi.com",
-  "Telefono": "02 25 54 47 77",
+  "Nome Visualizzato": "Cooperativa A.C.L.I. A. Grandi - Desio",
+  "Indirizzo": "Via Pozzo Antico, 32, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=3118223841108527934",
+  "E-mail": null,
+  "Telefono": "+39 0362 622428",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
+  "Google Place ID": "ChIJM1A2iyK8hkcRPott-w8oRis",
+  "Google Place URL": "https://maps.google.com/?cid=3118223841108527934",
+  "Latitude": "45.6160903",
+  "Longitude": "9.2083122",
+  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO",
+  "Orario di apertura": null
 }
