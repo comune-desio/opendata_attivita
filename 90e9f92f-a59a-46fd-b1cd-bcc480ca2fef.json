@@ -1,15 +1,22 @@
-﻿{
+{
   "UUID": "90e9f92f-a59a-46fd-b1cd-bcc480ca2fef",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "ZSK ITALIA SPA",
-  "Indirizzo": "VIA NOVATI N.14",
-  "Sito": "www.zsk-italia.com",
-  "Telefono": "0362/620578",
+  "Nome Visualizzato": "Zsk Italia Spa",
+  "Indirizzo": "Via Luigi Einaudi, 14, 20832 Desio MB, Italy",
+  "Sito": "http://www.zsk-italia.com/",
+  "E-mail": null,
+  "Telefono": "+39 0362 620578",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJ43l5RKa-hkcRqGHaL37xMcI",
+  "Google Place URL": "https://maps.google.com/?cid=13993231041487856040",
+  "Latitude": "45.6048451",
+  "Longitude": "9.2161624",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
