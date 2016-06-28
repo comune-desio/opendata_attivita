@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "ebef015d-f9c4-49ec-964d-2b37ede6d5fb",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "PYMCA S.N.C. DI BERETTA YLENIA & C.",
-  "Indirizzo": "CORSO ITALIA N.149",
-  "Telefono": "0362/304168",
+  "Nome Visualizzato": "Pymca Snc Di Beretta Ylenia & C.",
+  "Indirizzo": "Via Gabellini Alberto, 4, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=4508919409676656626",
+  "E-mail": null,
+  "Telefono": "+39 0362 304168",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
+  "Google Place ID": "ChIJAw5JJjy8hkcR8h-kVlDmkj4",
+  "Google Place URL": "https://maps.google.com/?cid=4508919409676656626",
+  "Latitude": "45.622795",
+  "Longitude": "9.207931",
+  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO",
+  "Orario di apertura": null
 }
