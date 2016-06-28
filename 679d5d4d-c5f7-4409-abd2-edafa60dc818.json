@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "679d5d4d-c5f7-4409-abd2-edafa60dc818",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "STRIPES COOP. SOCIALE ONLUS",
-  "Indirizzo": "VIA DIAZ N.7",
-  "Sito": "www.stripes.it",
-  "e-mail": "stripes@pedagogia.it",
-  "Telefono": "02 9316667",
+  "Nome Visualizzato": "Stripes Cooperativa Sociale Onlus",
+  "Indirizzo": "Via S. Domenico Savio, 6, 20017 Rho MI, Italy",
+  "Sito": "http://www.stripes.it/",
+  "E-mail": "stripes@pedagogia.it",
+  "Telefono": "+39 02 931 6667",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
+  "Google Place ID": "ChIJgedoBF3rhkcRcFFdwRj2etc",
+  "Google Place URL": "https://maps.google.com/?cid=15526993251496972656",
+  "Latitude": "45.5306171",
+  "Longitude": "9.0293617",
+  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO",
+  "Orario di apertura": null
 }
