@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "d0ba9f91-3af7-4c3f-9485-0645bb5b4ed8",
   "Categoria": "",
+  "Categorie Google": [
+    "general_contractor",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "PRO.EDIL S.R.L.",
-  "Indirizzo": "VIA MOLINARA",
-  "Telefono": "331/8324999",
+  "Nome Visualizzato": "P.r.o. Edil srl",
+  "Indirizzo": "Via Margherita Viganò De Vizzi, 60, 20092 Cinisello Balsamo MI, Italy",
+  "Sito": "http://www.proedil.net/",
+  "E-mail": null,
+  "Telefono": "+39 02 6604 3066",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJsX2W-ty4hkcRpjZM3WiEt28",
+  "Google Place URL": "https://maps.google.com/?cid=8050048444872275622",
+  "Latitude": "45.56075",
+  "Longitude": "9.2348459",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
