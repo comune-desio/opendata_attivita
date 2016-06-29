@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "c7b85093-081a-45c2-aa71-c6497416cb9d",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SABIAGROUP S.R.L.",
-  "Indirizzo": "VIA XXV APRILE N.3/B",
-  "Sito": "www.sabiagroup.it",
-  "e-mail": "sinistri@sabiagroup.it",
-  "Telefono": "0362/2684205",
+  "Nome Visualizzato": "Sabiagroup S.R.L.",
+  "Indirizzo": "Via XXV Aprile, 3, 20832 Desio MB, Italy",
+  "Sito": "http://www.sabiagroup.it/",
+  "E-mail": "sinistri@sabiagroup.it",
+  "Telefono": "+39 0362 309568",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJ9UlyNBe8hkcREfDFQwA_lXA",
+  "Google Place URL": "https://maps.google.com/?cid=8112459574147411985",
+  "Latitude": "45.619005",
+  "Longitude": "9.21606",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
