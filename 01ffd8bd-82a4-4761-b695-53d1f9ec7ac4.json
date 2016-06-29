@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "01ffd8bd-82a4-4761-b695-53d1f9ec7ac4",
   "Categoria": "",
+  "Categorie Google": [
+    "general_contractor",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "EDIL SAN CARLO",
-  "Indirizzo": "VIA DUE PALME N.8",
-  "Telefono": "0362/638248",
+  "Nome Visualizzato": "Edil San Carlo Di Zerla Valerio E Bassi Simone Snc",
+  "Indirizzo": "Via Due Palme, 2, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=14214573980568195085",
+  "E-mail": null,
+  "Telefono": "+39 0362 638248",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJUaA3zT28hkcRDRBHKblPRMU",
+  "Google Place URL": "https://maps.google.com/?cid=14214573980568195085",
+  "Latitude": "45.6219472",
+  "Longitude": "9.2090632",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
