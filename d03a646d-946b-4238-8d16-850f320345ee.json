@@ -1,16 +1,25 @@
-﻿{
+{
   "UUID": "d03a646d-946b-4238-8d16-850f320345ee",
   "Categoria": "",
+  "Categorie Google": [
+    "furniture_store",
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "FURLANI WALTER SRL",
-  "Indirizzo": "VIA MILANO N.67",
-  "Sito": "www.furlani.it",
-  "e-mail": " info@furlani.it",
-  "Telefono": "0362/629737 ",
+  "Nome Visualizzato": "furlani walter srl",
+  "Indirizzo": "Via Milano, 67, 20033 Desio MB, Italy",
+  "Sito": "http://www.furlani.it/",
+  "E-mail": " info@furlani.it",
+  "Telefono": "+39 0362 629737",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 06 : ESPOSIZIONI-AUTOSALONI"
+  "Google Place ID": "ChIJi2ly9Z6-hkcRwZOooK0IkZs",
+  "Google Place URL": "https://maps.google.com/?cid=11209750489319642049",
+  "Latitude": "45.6066973",
+  "Longitude": "9.2022332",
+  "Categoria catastale": "N Non Domestica 06 : ESPOSIZIONI-AUTOSALONI",
+  "Orario di apertura": null
 }
