@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "d762f908-7965-4485-afb2-53e765a7f85b",
   "Categoria": "",
+  "Categorie Google": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SRL IMMOBILIARE SCALA",
-  "Indirizzo": "VIA MILANO N.355",
-  "Telefono": "0362/627102",
+  "Nome Visualizzato": "Srl Immobiliare Scala",
+  "Indirizzo": "Via Milano, 355, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=9483469856365859500",
+  "E-mail": null,
+  "Telefono": "+39 0362 627102",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 08 : ALBERGHI SENZA RISTORAZIONE"
+  "Google Place ID": "ChIJEzJdb0e8hkcRrNLPupYNnIM",
+  "Google Place URL": "https://maps.google.com/?cid=9483469856365859500",
+  "Latitude": "45.628538",
+  "Longitude": "9.205792",
+  "Categoria catastale": "N Non Domestica 08 : ALBERGHI SENZA RISTORAZIONE",
+  "Orario di apertura": null
 }
