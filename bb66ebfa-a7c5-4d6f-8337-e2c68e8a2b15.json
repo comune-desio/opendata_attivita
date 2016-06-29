@@ -1,15 +1,22 @@
-﻿{
+{
   "UUID": "bb66ebfa-a7c5-4d6f-8337-e2c68e8a2b15",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "LINKIT SRL",
-  "Indirizzo": "VIA LAVORATORI AUTOBIAN N.92",
-  "Sito": "www.linkit.it",
-  "Telefono": "0362/337778",
+  "Nome Visualizzato": "Linkit Srl",
+  "Indirizzo": "1 Via Lavoratori Autobianchi, Desio, MB 20832, 20832 Desio MB, Italy",
+  "Sito": "http://www.linkit.it/",
+  "E-mail": null,
+  "Telefono": "+39 0362 306520",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJhad2vxW8hkcRnir6kqIGNqc",
+  "Google Place URL": "https://maps.google.com/?cid=12048825148396677790",
+  "Latitude": "45.62375",
+  "Longitude": "9.21367",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
