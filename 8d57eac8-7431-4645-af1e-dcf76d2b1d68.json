@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "8d57eac8-7431-4645-af1e-dcf76d2b1d68",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "TARLISIO ARREDAMENTI",
-  "Indirizzo": "VIA NUOVA VALASSINA",
-  "Telefono": "0362/309980",
+  "Nome Visualizzato": "Tarlisio Arredamenti",
+  "Indirizzo": "Nuova Valassina, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=78148973207736212",
+  "E-mail": null,
+  "Telefono": "+39 0362 309980",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 06 : ESPOSIZIONI-AUTOSALONI"
+  "Google Place ID": "ChIJrYU5mw-8hkcRlM-buxOkFQE",
+  "Google Place URL": "https://maps.google.com/?cid=78148973207736212",
+  "Latitude": "45.6116722",
+  "Longitude": "9.2232173",
+  "Categoria catastale": "N Non Domestica 06 : ESPOSIZIONI-AUTOSALONI",
+  "Orario di apertura": null
 }
