@@ -1,13 +1,25 @@
-﻿{
+{
   "UUID": "418966e5-5c07-4b3f-9972-147f0c41281d",
   "Categoria": "",
+  "Categorie Google": [
+    "furniture_store",
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "STIL-ART ARREDAMENTI DI RATTI DANIELE & C. S",
-  "Indirizzo": "VIA XXV APRILE N.2/4",
+  "Nome Visualizzato": "Stil - Art Arredamenti",
+  "Indirizzo": "Via XXV Aprile, 2, 20033 Desio MB, Italy",
+  "Sito": "http://www.stilart.it/",
+  "E-mail": null,
+  "Telefono": "+39 0362 622085",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 06 : ESPOSIZIONI-AUTOSALONI"
+  "Google Place ID": "ChIJW5L3tBC8hkcR-d1kBqrKbYA",
+  "Google Place URL": "https://maps.google.com/?cid=9254275640916762105",
+  "Latitude": "45.6186476",
+  "Longitude": "9.2164202",
+  "Categoria catastale": "N Non Domestica 06 : ESPOSIZIONI-AUTOSALONI",
+  "Orario di apertura": null
 }
