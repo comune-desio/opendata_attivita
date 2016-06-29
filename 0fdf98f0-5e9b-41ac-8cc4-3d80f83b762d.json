@@ -1,14 +1,124 @@
-﻿{
+{
   "UUID": "0fdf98f0-5e9b-41ac-8cc4-3d80f83b762d",
   "Categoria": "",
+  "Categorie Google": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "TEMPER DESIO SRL",
-  "Indirizzo": "VIA DEGLI ARTIGIANI N.19",
-  "Telefono": "0362/628686",
+  "Nome Visualizzato": "Temper Desio Srl",
+  "Indirizzo": "Viale degli Artigiani, 19, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=17790626572315686483",
+  "E-mail": null,
+  "Telefono": "+39 0362 628686",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJydqoYpi-hkcRU3aA1psA5fY",
+  "Google Place URL": "https://maps.google.com/?cid=17790626572315686483",
+  "Latitude": "45.602406",
+  "Longitude": "9.20395",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0800"
+      },
+      "close": {
+        "day": 1,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "1330"
+      },
+      "close": {
+        "day": 1,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0800"
+      },
+      "close": {
+        "day": 2,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1330"
+      },
+      "close": {
+        "day": 2,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0800"
+      },
+      "close": {
+        "day": 3,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1330"
+      },
+      "close": {
+        "day": 3,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0800"
+      },
+      "close": {
+        "day": 4,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1330"
+      },
+      "close": {
+        "day": 4,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0800"
+      },
+      "close": {
+        "day": 5,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1330"
+      },
+      "close": {
+        "day": 5,
+        "time": "1730"
+      }
+    }
+  ]
 }
