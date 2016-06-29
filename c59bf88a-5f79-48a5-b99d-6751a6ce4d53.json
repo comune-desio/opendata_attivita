@@ -1,14 +1,24 @@
-﻿{
+{
   "UUID": "c59bf88a-5f79-48a5-b99d-6751a6ce4d53",
   "Categoria": "",
+  "Categorie Google": [
+    "dentist",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "DENTISTA LISSONI CARLO",
-  "Indirizzo": "VIA GUARENTI",
-  "Telefono": "0362/630482",
+  "Nome Visualizzato": "Studio Associato Lissoni Carlo & Lops Diego",
+  "Indirizzo": "Via Guarenti Davide, 12, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=257165522137012943",
+  "E-mail": null,
+  "Telefono": "+39 0362 630482",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJy2mhEBe8hkcRz1p0C66ikQM",
+  "Google Place URL": "https://maps.google.com/?cid=257165522137012943",
+  "Latitude": "45.619452",
+  "Longitude": "9.213641",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
