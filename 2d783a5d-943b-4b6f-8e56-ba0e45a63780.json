@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "2d783a5d-943b-4b6f-8e56-ba0e45a63780",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "ABA SERVICE SRL",
-  "Indirizzo": "VIA CARAVAGGIO N.28/C",
-  "Sito": "www.abaservice.net",
-  "e-mail": "info@abaservice.net",
-  "Telefono": "0362/308056",
+  "Nome Visualizzato": "Aba Service Srl",
+  "Indirizzo": "Via Caravaggio, 28, 20832 Desio MB, Italy",
+  "Sito": "http://www.abaservice.net/",
+  "E-mail": "info@abaservice.net",
+  "Telefono": "+39 0362 308056",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJb63DWZ--hkcRV4W-A6IvTXI",
+  "Google Place URL": "https://maps.google.com/?cid=8236291666424530263",
+  "Latitude": "45.6062599",
+  "Longitude": "9.2163469",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
