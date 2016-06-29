@@ -1,16 +1,74 @@
-﻿{
+{
   "UUID": "20d3d405-0bff-4694-8439-49989942d9cb",
   "Categoria": "",
+  "Categorie Google": [
+    "general_contractor",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "WHEELS SRL",
-  "Indirizzo": "VIA LAVORATORI AUTOBIANCHI N.1",
-  "Sito": "www.wheelsbearings.com",
-  "e-mail": "info@wheelsbearings.com",
-  "Telefono": "0362/1795251",
+  "Nome Visualizzato": "Wheels S.r.l.",
+  "Indirizzo": "1 Via Lavoratori Autobianchi, Desio, MB 20832, 20832 Desio MB, Italy",
+  "Sito": "http://www.wheelsbearings.com/",
+  "E-mail": "info@wheelsbearings.com",
+  "Telefono": "+39 0362 179 5251",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJhad2vxW8hkcRw3LMp-0z88U",
+  "Google Place URL": "https://maps.google.com/?cid=14263801540627952323",
+  "Latitude": "45.62375",
+  "Longitude": "9.21367",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0830"
+      },
+      "close": {
+        "day": 1,
+        "time": "1700"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0830"
+      },
+      "close": {
+        "day": 2,
+        "time": "1700"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0830"
+      },
+      "close": {
+        "day": 3,
+        "time": "1700"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0830"
+      },
+      "close": {
+        "day": 4,
+        "time": "1700"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0830"
+      },
+      "close": {
+        "day": 5,
+        "time": "1700"
+      }
+    }
+  ]
 }
