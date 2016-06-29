@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "3aeee667-b50e-4896-af3b-67190f4c0dc0",
   "Categoria": "",
+  "Categorie Google": [
+    "travel_agency",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "BRIANCESCA VIAGGI SRL",
-  "Indirizzo": "VIA XXIV MAGGIO N.4/A",
-  "Telefono": "0362/620013",
+  "Nome Visualizzato": "Briancesca Viaggi Srl",
+  "Indirizzo": "Via XXIV Maggio, 2, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=2167568979310251963",
+  "E-mail": null,
+  "Telefono": "+39 0362 620013",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJ-99WxCK8hkcRu4_xnYDAFB4",
+  "Google Place URL": "https://maps.google.com/?cid=2167568979310251963",
+  "Latitude": "45.6172882",
+  "Longitude": "9.2080194",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
