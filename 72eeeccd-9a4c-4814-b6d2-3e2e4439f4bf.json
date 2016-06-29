@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "72eeeccd-9a4c-4814-b6d2-3e2e4439f4bf",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SAN GIORGIO DATA SRL",
-  "Indirizzo": "VIA GRANDI N.37",
-  "Telefono": "0362/301526",
+  "Nome Visualizzato": "San Giorgio Data Srl",
+  "Indirizzo": "Via Achille Grandi, 37, 20033 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=2324386746394082144",
+  "E-mail": null,
+  "Telefono": "+39 0362 301526",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJFxHdnBi8hkcRYPtxQ27hQSA",
+  "Google Place URL": "https://maps.google.com/?cid=2324386746394082144",
+  "Latitude": "45.6151187",
+  "Longitude": "9.2090669",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
