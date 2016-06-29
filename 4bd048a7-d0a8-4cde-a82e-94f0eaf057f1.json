@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "4bd048a7-d0a8-4cde-a82e-94f0eaf057f1",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "ACCIAI BRIANZA SRL",
-  "Indirizzo": "VIA FILIPPO DA DESIO N.53",
-  "Sito": "www.lucefin.com",
-  "e-mail": "contact@lucefin.com",
-  "Telefono": "0364/367711",
+  "Nome Visualizzato": "Acciai Brianza Srl",
+  "Indirizzo": "Via Filippo da Desio, 81, 20832 Desio MB, Italy",
+  "Sito": "http://www.lucefin.com/it/siderurgia/acciai-brianza/",
+  "E-mail": "contact@lucefin.com",
+  "Telefono": "+39 0362 309839",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJUawOHGu8hkcR9Oe9HhelLzE",
+  "Google Place URL": "https://maps.google.com/?cid=3544232950482462708",
+  "Latitude": "45.6285543",
+  "Longitude": "9.2168325",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
