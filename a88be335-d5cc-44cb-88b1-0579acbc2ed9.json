@@ -1,16 +1,95 @@
-﻿{
+{
   "UUID": "a88be335-d5cc-44cb-88b1-0579acbc2ed9",
   "Categoria": "",
+  "Categorie Google": [
+    "gym",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "ENERGY SOCIETA' SPORTIVA DILETTANTISTICA SRL",
-  "Indirizzo": "VIA PASCOLI N.37",
-  "Sito": "www.energypalestre.com",
-  "e-mail": " staff@energypalestre.com",
-  "Telefono": "0362/300897",
+  "Nome Visualizzato": "ENERGY PALESTRE",
+  "Indirizzo": "Via Giovanni Pascoli, 37, 20033 Desio MI, Italy",
+  "Sito": "http://www.energypalestre.com/",
+  "E-mail": " staff@energypalestre.com",
+  "Telefono": "+39 0362 300897",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 04 : CAMPEGGI-DISTRIBUTORI CARBURANTI-IMPIANTI SPORTIVI"
+  "Google Place ID": "ChIJuX-xixW8hkcR3lL_rx97npA",
+  "Google Place URL": "https://maps.google.com/?cid=10420901963808854750",
+  "Latitude": "45.6242002",
+  "Longitude": "9.2129065",
+  "Categoria catastale": "N Non Domestica 04 : CAMPEGGI-DISTRIBUTORI CARBURANTI-IMPIANTI SPORTIVI",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 0,
+        "time": "0930"
+      },
+      "close": {
+        "day": 0,
+        "time": "1330"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "0900"
+      },
+      "close": {
+        "day": 1,
+        "time": "2230"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0900"
+      },
+      "close": {
+        "day": 2,
+        "time": "2230"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0900"
+      },
+      "close": {
+        "day": 3,
+        "time": "2230"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0900"
+      },
+      "close": {
+        "day": 4,
+        "time": "2230"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0900"
+      },
+      "close": {
+        "day": 5,
+        "time": "2230"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "0930"
+      },
+      "close": {
+        "day": 6,
+        "time": "1800"
+      }
+    }
+  ]
 }
