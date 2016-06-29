@@ -1,16 +1,25 @@
-﻿{
+{
   "UUID": "5ee85c18-386c-43bd-9439-8be2625339e4",
   "Categoria": "",
+  "Categorie Google": [
+    "gas_station",
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "BENZINAIO MANDIA ANTONIO",
-  "Indirizzo": "VIA PER CESANO N.44",
-  "Sito": "www.totalerg.it",
-  "e-mail": " info.bitumi@totalerg.it",
-  "Telefono": "Numero verde: 800 - 189.189",
+  "Nome Visualizzato": "Mandia Antonio",
+  "Indirizzo": "Strada Provinciale per Cesano, 20033 Desio MB, Italy",
+  "Sito": "http://www.totalerg.it/",
+  "E-mail": " info.bitumi@totalerg.it",
+  "Telefono": "+39 0362 625623",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 04 : CAMPEGGI-DISTRIBUTORI CARBURANTI-IMPIANTI SPORTIVI"
+  "Google Place ID": "ChIJX9yupS-8hkcRe27-GA4vAek",
+  "Google Place URL": "https://maps.google.com/?cid=16789752623409294971",
+  "Latitude": "45.6237523",
+  "Longitude": "9.1954275",
+  "Categoria catastale": "N Non Domestica 04 : CAMPEGGI-DISTRIBUTORI CARBURANTI-IMPIANTI SPORTIVI",
+  "Orario di apertura": null
 }
