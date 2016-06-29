@@ -1,15 +1,123 @@
-﻿{
+{
   "UUID": "e177f01c-56fd-4493-9a15-9c46da13326e",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "LEGALSTUDIO SRL",
-  "Indirizzo": "VIA XXIV MAGGIO N.1",
-  "Sito": "www.legalstudio.it",
-  "e-mail": "centroprofessionale@legalstudio.it",
+  "Nome Visualizzato": "Legalstudio Centro Professionale",
+  "Indirizzo": "Via XXIV Maggio, 1, 20832 Desio MB, Italy",
+  "Sito": "http://www.legalstudio.it/",
+  "E-mail": "centroprofessionale@legalstudio.it",
+  "Telefono": "+39 0362 6151",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJmYrN2iK8hkcRNB_h7np-3y0",
+  "Google Place URL": "https://maps.google.com/?cid=3305499717972074292",
+  "Latitude": "45.6175106",
+  "Longitude": "9.2077692",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0830"
+      },
+      "close": {
+        "day": 1,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "1430"
+      },
+      "close": {
+        "day": 1,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0830"
+      },
+      "close": {
+        "day": 2,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1430"
+      },
+      "close": {
+        "day": 2,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0830"
+      },
+      "close": {
+        "day": 3,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1430"
+      },
+      "close": {
+        "day": 3,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0830"
+      },
+      "close": {
+        "day": 4,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1430"
+      },
+      "close": {
+        "day": 4,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0830"
+      },
+      "close": {
+        "day": 5,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1430"
+      },
+      "close": {
+        "day": 5,
+        "time": "1900"
+      }
+    }
+  ]
 }
