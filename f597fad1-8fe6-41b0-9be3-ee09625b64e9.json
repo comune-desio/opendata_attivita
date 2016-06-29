@@ -1,14 +1,24 @@
-﻿{
+{
   "UUID": "f597fad1-8fe6-41b0-9be3-ee09625b64e9",
   "Categoria": "",
+  "Categorie Google": [
+    "dentist",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "CENTRO ODONTOIATRICO DI GIORDANO GIUSEPPE & C. S.A.S.",
-  "Indirizzo": "VIA TRINCEA DELLE FRASCH N.67",
-  "Telefono": "0362/627993",
+  "Nome Visualizzato": "Centro Odontoiatrico Di Giordano Giuseppe E C. Sas",
+  "Indirizzo": "Via Trincea delle Frasche, 45, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=2411825623165151698",
+  "E-mail": null,
+  "Telefono": "+39 0362 627993",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJl-QteEu8hkcR0qnxOKCGeCE",
+  "Google Place URL": "https://maps.google.com/?cid=2411825623165151698",
+  "Latitude": "45.6330113",
+  "Longitude": "9.1944351",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
