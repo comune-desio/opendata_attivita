@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "b265d8d7-5740-4c6f-9dbc-b3a60eb12fd7",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "CONSULENTE AMBIENTALE MARIANI ALBERTO",
-  "Indirizzo": "VIA MILANO N.147",
-  "Sito": "www.marianiequipe.it",
-  "e-mail": "marianiequipe@tin.it",
-  "Telefono": "0362/302364",
+  "Nome Visualizzato": "L Equipe Ambientale Di Mariani Alberto",
+  "Indirizzo": "Via Milano, 147, 20832 Desio MB, Italy",
+  "Sito": "http://www.marianiequipe.it/azienda.html",
+  "E-mail": "marianiequipe@tin.it",
+  "Telefono": "+39 0362 302049",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJIanESiS8hkcR1XDGYKPYlyA",
+  "Google Place URL": "https://maps.google.com/?cid=2348583926911889621",
+  "Latitude": "45.6148946",
+  "Longitude": "9.2005544",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
