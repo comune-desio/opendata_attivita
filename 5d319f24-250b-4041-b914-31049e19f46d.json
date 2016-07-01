@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "5d319f24-250b-4041-b914-31049e19f46d",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SED SRL",
-  "Indirizzo": "VIA SANTA LIBERATA N.9",
-  "Sito": "www.brianzadati.it",
-  "e-mail": "info@brianzadati.it",
-  "Telefono": "0362/630166 ",
+  "Nome Visualizzato": "Sed Srl",
+  "Indirizzo": "Via Santa Liberata, 9, 20832 Desio MB, Italy",
+  "Sito": "http://www.brianzadati.it/",
+  "E-mail": "info@brianzadati.it",
+  "Telefono": "+39 0362 623710",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJMWtc4p--hkcRqmJ7qB7tPLQ",
+  "Google Place URL": "https://maps.google.com/?cid=12987516141361128106",
+  "Latitude": "45.608779",
+  "Longitude": "9.206142",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
