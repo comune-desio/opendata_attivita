@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "97f2a70a-46a3-435c-8b7b-4680beff6f30",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "FILOSOFIA ALIMENTARE SRL",
-  "Indirizzo": "VIA GARIBALDI N.11 Int.2",
-  "Sito": "www.filosofialimentare.it",
-  "e-mail": "dr.lemme@filosofialimentare.it",
-  "Telefono": "0362/304161",
+  "Nome Visualizzato": "Sette Gusti Sas Di Lemme Alberico & C.",
+  "Indirizzo": "Via Giuseppe Garibaldi, 11, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=15321069995524068103",
+  "E-mail": "dr.lemme@filosofialimentare.it",
+  "Telefono": "+39 0362 304161",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJw3bf_SK8hkcRB5Mbhvxfn9Q",
+  "Google Place URL": "https://maps.google.com/?cid=15321069995524068103",
+  "Latitude": "45.616742",
+  "Longitude": "9.207055",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
