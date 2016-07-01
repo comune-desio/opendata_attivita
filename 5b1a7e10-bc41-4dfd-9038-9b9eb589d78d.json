@@ -1,14 +1,73 @@
-﻿{
+{
   "UUID": "5b1a7e10-bc41-4dfd-9038-9b9eb589d78d",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "CAMERA DI COMMERCIO INDUSTRIA AGRI COLTURA E AGRICOLTURA",
-  "Indirizzo": "VIA MATTEOTTI N.32 Int.1",
-  "Telefono": "0362/48031",
+  "Nome Visualizzato": "Camera di Commercio di Monza e Brianza",
+  "Indirizzo": "Piazza Cambiaghi, 9, 20900 Monza MB, Italy",
+  "Sito": "http://www.mb.camcom.it/",
+  "E-mail": null,
+  "Telefono": "+39 039 28071",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJtXlp_6K5hkcRxHqgUHt2Nl4",
+  "Google Place URL": "https://maps.google.com/?cid=6788743760313350852",
+  "Latitude": "45.5817443",
+  "Longitude": "9.277775",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0900"
+      },
+      "close": {
+        "day": 1,
+        "time": "1300"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0900"
+      },
+      "close": {
+        "day": 2,
+        "time": "1300"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0900"
+      },
+      "close": {
+        "day": 3,
+        "time": "1300"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0900"
+      },
+      "close": {
+        "day": 4,
+        "time": "1300"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0900"
+      },
+      "close": {
+        "day": 5,
+        "time": "1230"
+      }
+    }
+  ]
 }
