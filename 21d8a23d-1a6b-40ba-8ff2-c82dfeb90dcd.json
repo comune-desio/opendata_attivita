@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "21d8a23d-1a6b-40ba-8ff2-c82dfeb90dcd",
   "Categoria": "",
+  "Categorie Google": [
+    "general_contractor",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "MD COSTRUZIONI S.R.L.",
-  "Indirizzo": "VIA CACCIATORI N.24",
-  "Telefono": "0362/629121",
+  "Nome Visualizzato": "Md Costruzioni Srl",
+  "Indirizzo": "Via dei Cacciatori, 24, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=13929515967086447122",
+  "E-mail": null,
+  "Telefono": "+39 0362 629121",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJA5cs5829hkcREspRZ_iUT8E",
+  "Google Place URL": "https://maps.google.com/?cid=13929515967086447122",
+  "Latitude": "45.6212928",
+  "Longitude": "9.1824892",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
