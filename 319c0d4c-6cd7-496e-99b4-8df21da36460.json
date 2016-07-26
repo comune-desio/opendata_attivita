@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "319c0d4c-6cd7-496e-99b4-8df21da36460",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "STUDIO S.B.M. SAS",
-  "Indirizzo": "VIA SCIESA N.39",
-  "Sito": "www.studiosbmsas.it",
-  "e-mail": "studio@studiosbmsas.it",
-  "Telefono": "0362/301208",
+  "Nome Visualizzato": "Studio S.b.m. S.a.s.",
+  "Indirizzo": "Via Sciesa Amatore, 39, 20832 Desio MB, Italy",
+  "Sito": "http://www.studiosbmsas.it/",
+  "E-mail": "studio@studiosbmsas.it",
+  "Telefono": "+39 0362 301208",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJGZ8yKyC8hkcRYn0coHKIAKc",
+  "Google Place URL": "https://maps.google.com/?cid=12033768230227836258",
+  "Latitude": "45.6110309",
+  "Longitude": "9.207728",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
