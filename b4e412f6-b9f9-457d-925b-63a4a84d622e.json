@@ -1,16 +1,124 @@
-﻿{
+{
   "UUID": "b4e412f6-b9f9-457d-925b-63a4a84d622e",
   "Categoria": "",
+  "Categorie Google": [
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "MOKA KENYA SRL",
-  "Indirizzo": "VIA FERRAVILLA N.22",
-  "Sito": "www.mokakenya.it",
-  "e-mail": "info@mokakenya.it",
-  "Telefono": "0362/622240",
+  "Nome Visualizzato": "Moka Kenya Srl",
+  "Indirizzo": "Via Edoardo Ferravilla, 22, 20832 Desio MB, Italy",
+  "Sito": "http://www.mokakenya.it/",
+  "E-mail": "info@mokakenya.it",
+  "Telefono": "+39 0362 622240",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 26 : PLURILICENZE ALIMENTARI O MISTE"
+  "Google Place ID": "ChIJVYhZoC-8hkcRHVscTjBOCj8",
+  "Google Place URL": "https://maps.google.com/?cid=4542529143532444445",
+  "Latitude": "45.616966",
+  "Longitude": "9.196536",
+  "Categoria catastale": "N Non Domestica 26 : PLURILICENZE ALIMENTARI O MISTE",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0830"
+      },
+      "close": {
+        "day": 1,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0830"
+      },
+      "close": {
+        "day": 2,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1500"
+      },
+      "close": {
+        "day": 2,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0830"
+      },
+      "close": {
+        "day": 3,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1500"
+      },
+      "close": {
+        "day": 3,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0830"
+      },
+      "close": {
+        "day": 4,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1500"
+      },
+      "close": {
+        "day": 4,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0830"
+      },
+      "close": {
+        "day": 5,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1500"
+      },
+      "close": {
+        "day": 5,
+        "time": "1900"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "0830"
+      },
+      "close": {
+        "day": 6,
+        "time": "1230"
+      }
+    }
+  ]
 }

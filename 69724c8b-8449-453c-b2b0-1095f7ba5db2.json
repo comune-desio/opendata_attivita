@@ -1,14 +1,93 @@
-﻿{
+{
   "UUID": "69724c8b-8449-453c-b2b0-1095f7ba5db2",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "MAW MEN AT WORK S.P.A.",
-  "Indirizzo": "VIA GAVAZZI N.10",
-  "Sito": "www.maw.it",
+  "Nome Visualizzato": "Maw Men at Work s.p.a.",
+  "Indirizzo": "Via Egidio Gavazzi, 10, 20823 Desio MB, Italy",
+  "Sito": "http://www.maw.it/",
+  "E-mail": null,
+  "Telefono": "+39 0362 305929",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJvyfPsD28hkcRfojA3Z8eLzc",
+  "Google Place URL": "https://maps.google.com/?cid=3976430667960453246",
+  "Latitude": "45.621281",
+  "Longitude": "9.208911",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 0,
+        "time": "0900"
+      },
+      "close": {
+        "day": 0,
+        "time": "2300"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "0900"
+      },
+      "close": {
+        "day": 1,
+        "time": "2300"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0900"
+      },
+      "close": {
+        "day": 2,
+        "time": "2300"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0900"
+      },
+      "close": {
+        "day": 3,
+        "time": "2300"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0900"
+      },
+      "close": {
+        "day": 4,
+        "time": "2300"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0900"
+      },
+      "close": {
+        "day": 5,
+        "time": "2300"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "0900"
+      },
+      "close": {
+        "day": 6,
+        "time": "2300"
+      }
+    }
+  ]
 }

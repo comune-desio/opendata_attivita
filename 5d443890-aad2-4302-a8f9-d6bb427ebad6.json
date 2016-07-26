@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "5d443890-aad2-4302-a8f9-d6bb427ebad6",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "METANO AUTO DESIO SRL",
-  "Indirizzo": "VIA MILANO N.2",
-  "Telefono": " 0362/331383\n 0362/621481",
+  "Nome Visualizzato": "Metano Auto Desio Srl",
+  "Indirizzo": "Via Giorgio Ambrosoli, 2, 20832 Desio MB, Italy",
+  "Sito": "http://www.metanoauto.com/modules.php?name=Distributori&op=Scheda&lid=557",
+  "E-mail": null,
+  "Telefono": "+39 0362 621481",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 04 : CAMPEGGI-DISTRIBUTORI CARBURANTI-IMPIANTI SPORTIVI"
+  "Google Place ID": "ChIJJbM0ozq8hkcRQESIP5XZMpU",
+  "Google Place URL": "https://maps.google.com/?cid=10750894495526044736",
+  "Latitude": "45.6005894",
+  "Longitude": "9.2012913",
+  "Categoria catastale": "N Non Domestica 04 : CAMPEGGI-DISTRIBUTORI CARBURANTI-IMPIANTI SPORTIVI",
+  "Orario di apertura": null
 }

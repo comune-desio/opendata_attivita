@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "7195d363-add1-4beb-9c97-e37fe21a6d71",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SCUOLA MATERNA UMBERTO 1",
-  "Indirizzo": "VIA SCIESA",
-  "Telefono": "0362/626793",
+  "Nome Visualizzato": "Scuola Materna Umberto I",
+  "Indirizzo": "Via Sciesa Amatore, 22, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=10034169825969484258",
+  "E-mail": null,
+  "Telefono": "+39 0362 626793",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
+  "Google Place ID": "ChIJPWkJKyC8hkcR4rHaHEuIQIs",
+  "Google Place URL": "https://maps.google.com/?cid=10034169825969484258",
+  "Latitude": "45.610964",
+  "Longitude": "9.207554",
+  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO",
+  "Orario di apertura": null
 }

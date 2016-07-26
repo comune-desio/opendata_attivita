@@ -1,16 +1,123 @@
-﻿{
+{
   "UUID": "156d9d87-c308-428c-a3d3-d27e7248f83b",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "STUDIO ARCHITETTURA SERGIO ARIENTI",
-  "Indirizzo": "VIA MATTEOTTI N.43",
-  "Sito": "www.arientistudio.com",
-  "e-mail": "arienti.arch@libero.it",
-  "Telefono": "0362/630962",
+  "Nome Visualizzato": "Arienti Studio",
+  "Indirizzo": "Via Giacomo Matteotti, 43, 20832 Desio MB, Italy",
+  "Sito": "http://www.arientistudio.com/",
+  "E-mail": "arienti.arch@libero.it",
+  "Telefono": "+39 0362 630962",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJs9cBbyO8hkcRiapp_5zsVU4",
+  "Google Place URL": "https://maps.google.com/?cid=5644677867022953097",
+  "Latitude": "45.6168142",
+  "Longitude": "9.2048041",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0900"
+      },
+      "close": {
+        "day": 1,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "1430"
+      },
+      "close": {
+        "day": 1,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0900"
+      },
+      "close": {
+        "day": 2,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1430"
+      },
+      "close": {
+        "day": 2,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0900"
+      },
+      "close": {
+        "day": 3,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1430"
+      },
+      "close": {
+        "day": 3,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0900"
+      },
+      "close": {
+        "day": 4,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1430"
+      },
+      "close": {
+        "day": 4,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0900"
+      },
+      "close": {
+        "day": 5,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1430"
+      },
+      "close": {
+        "day": 5,
+        "time": "1930"
+      }
+    }
+  ]
 }

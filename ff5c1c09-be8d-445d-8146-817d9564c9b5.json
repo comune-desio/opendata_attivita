@@ -1,14 +1,24 @@
-﻿{
+{
   "UUID": "ff5c1c09-be8d-445d-8146-817d9564c9b5",
   "Categoria": "",
+  "Categorie Google": [
+    "dentist",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "KINESIODENT SAS",
-  "Indirizzo": "CORSO ITALIA N.99",
-  "Telefono": "0362/303974",
+  "Nome Visualizzato": "Kinesiodent Sas",
+  "Indirizzo": "Corso Italia, 99, 20033 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=18388317605729302358",
+  "E-mail": null,
+  "Telefono": "+39 0362 303974",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJ-Uoqsj28hkcRVneO2m9tMP8",
+  "Google Place URL": "https://maps.google.com/?cid=18388317605729302358",
+  "Latitude": "45.6212837",
+  "Longitude": "9.2084132",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }

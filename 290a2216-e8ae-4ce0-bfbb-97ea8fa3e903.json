@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "290a2216-e8ae-4ce0-bfbb-97ea8fa3e903",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "STUDIO ASSOCIATO GEOM. GILI E VACCARO",
-  "Indirizzo": "VIA PORTICHETTO N.11",
-  "Telefono": "0362/638347",
+  "Nome Visualizzato": "Studio Associato Geom. Gili & Vaccaro",
+  "Indirizzo": "Via Portichetto, 11, 20033 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=15591999390905463267",
+  "E-mail": null,
+  "Telefono": "+39 0362 638347",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJRe_KoCK8hkcR4_EGCdboYdg",
+  "Google Place URL": "https://maps.google.com/?cid=15591999390905463267",
+  "Latitude": "45.6172231",
+  "Longitude": "9.2096604",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }

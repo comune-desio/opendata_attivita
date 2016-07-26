@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "b99b588d-78eb-4d48-a535-70bc22bc4cff",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "LA PICCOLA SCUOLA DI ARTE E MOVIMENTO SRL",
-  "Indirizzo": "VIA LAMPUGNANI N.45",
-  "Telefono": "0362/210622",
+  "Nome Visualizzato": "La Piccola Scuola Di Arte E Movimento Srl",
+  "Indirizzo": "Via Lampugnani Giovanni Maria, 45, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=268582165042739063",
+  "E-mail": null,
+  "Telefono": "+39 0362 622149",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
+  "Google Place ID": "ChIJNSYhfRe8hkcRd7dgXA4yugM",
+  "Google Place URL": "https://maps.google.com/?cid=268582165042739063",
+  "Latitude": "45.617877",
+  "Longitude": "9.213685",
+  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO",
+  "Orario di apertura": null
 }

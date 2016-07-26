@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "219998da-d4d8-4a7c-bda5-1ad34627c045",
   "Categoria": "",
+  "Categorie Google": [
+    "veterinary_care",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "EMOVET DI STEFANIA CALCATERRA E ALESSANDRA D",
-  "Indirizzo": "VIA GARIBALDI N.111",
-  "Telefono": "0362/638316",
+  "Nome Visualizzato": "S N C Emovet Di Stefania Calcaterra E Alessandra D",
+  "Indirizzo": "Via Giuseppe Garibaldi, 111, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=10601336497150260245",
+  "E-mail": null,
+  "Telefono": "+39 0362 638316",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJK31LLSK8hkcRFXQGOWCDH5M",
+  "Google Place URL": "https://maps.google.com/?cid=10601336497150260245",
+  "Latitude": "45.614139",
+  "Longitude": "9.20597",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }

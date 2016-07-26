@@ -1,16 +1,124 @@
-﻿{
+{
   "UUID": "ad3ccded-e9f8-40c1-b13e-f283aafc72fa",
   "Categoria": "",
+  "Categorie Google": [
+    "general_contractor",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "RIVOLTA SNC DI ANDREA RIVOLTA E. C.",
-  "Indirizzo": "VIA VITTORIO VENETO N.7",
-  "Sito": "www.riwoods.com",
-  "e-mail": "info@riwoods.com ",
-  "Telefono": "0362/621608",
+  "Nome Visualizzato": "RIVOLTA snc di ANDREA RIVOLTA & C.",
+  "Indirizzo": "Via Vittorio Veneto, 7, 20832 Desio MB, Italy",
+  "Sito": "http://www.riwoods.com/",
+  "E-mail": "info@riwoods.com ",
+  "Telefono": "+39 0362 621608",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 21 : ATT. ARTIGIANALI PRODUZIONE BENI SPECIFICI"
+  "Google Place ID": "ChIJF6l4Imi7hkcRxzJAWYlJPfw",
+  "Google Place URL": "https://maps.google.com/?cid=18175764525393916615",
+  "Latitude": "45.624967",
+  "Longitude": "9.209618",
+  "Categoria catastale": "N Non Domestica 21 : ATT. ARTIGIANALI PRODUZIONE BENI SPECIFICI",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0830"
+      },
+      "close": {
+        "day": 1,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "1330"
+      },
+      "close": {
+        "day": 1,
+        "time": "1700"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0830"
+      },
+      "close": {
+        "day": 2,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1330"
+      },
+      "close": {
+        "day": 2,
+        "time": "1700"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0830"
+      },
+      "close": {
+        "day": 3,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1330"
+      },
+      "close": {
+        "day": 3,
+        "time": "1700"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0830"
+      },
+      "close": {
+        "day": 4,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1330"
+      },
+      "close": {
+        "day": 4,
+        "time": "1700"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0830"
+      },
+      "close": {
+        "day": 5,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1330"
+      },
+      "close": {
+        "day": 5,
+        "time": "1700"
+      }
+    }
+  ]
 }
