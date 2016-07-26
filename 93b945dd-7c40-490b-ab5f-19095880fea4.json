@@ -1,15 +1,22 @@
-﻿{
+{
   "UUID": "93b945dd-7c40-490b-ab5f-19095880fea4",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "ERACLITO SRL",
-  "Indirizzo": "VIA CALVINO",
-  "Sito": "www.eraclitosrl.it",
-  "Telefono": "0362/331020",
+  "Nome Visualizzato": "Eraclito Srl",
+  "Indirizzo": "Via Carlo Cattaneo 10, 20832 Desio MB, Italy",
+  "Sito": "http://www.eraclitosrl.it/",
+  "E-mail": null,
+  "Telefono": "+39 0362 331020",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJRbprkfq9hkcRR3PRa13gxqQ",
+  "Google Place URL": "https://maps.google.com/?cid=11873424159454360391",
+  "Latitude": "45.6131781",
+  "Longitude": "9.1855225",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
