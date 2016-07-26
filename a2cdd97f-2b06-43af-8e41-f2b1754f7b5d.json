@@ -1,16 +1,23 @@
-﻿{
+{
   "UUID": "a2cdd97f-2b06-43af-8e41-f2b1754f7b5d",
   "Categoria": "",
+  "Categorie Google": [
+    "insurance_agency",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "ALLEANZA ASSICURAZIONI SPA",
-  "Indirizzo": "VIA STADIO N.2",
-  "Sito": "www.alleanza.it",
-  "e-mail": "alleanza@pec.alleanza.it ",
-  "Telefono": "02/62961",
+  "Nome Visualizzato": "Alleanza",
+  "Indirizzo": "Via Stadio, 2, 20033 Desio MB, Italy",
+  "Sito": "https://www.alleanza.it/",
+  "E-mail": "alleanza@pec.alleanza.it ",
+  "Telefono": "+39 0362 620623",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJyam_LCS8hkcRIpnTuvLe7z8",
+  "Google Place URL": "https://maps.google.com/?cid=4607146077921188130",
+  "Latitude": "45.6143739",
+  "Longitude": "9.2002936",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
