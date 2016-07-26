@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "53a40e67-6972-41ff-948f-f25324a9b883",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "NATI' SRL",
-  "Indirizzo": "VIA EINSTEIN N.27",
-  "Sito": "www.nati.it",
-  "e-mail": " info@nati.it",
-  "Telefono": "0362/620942",
+  "Nome Visualizzato": "Nati' Srl",
+  "Indirizzo": "Via Albert Einstein, 27, 20033 Desio MB, Italy",
+  "Sito": "http://www.nati.it/",
+  "E-mail": " info@nati.it",
+  "Telefono": "+39 0362 620942",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJ1bMQjzm8hkcRWhWQJDz2CSU",
+  "Google Place URL": "https://maps.google.com/?cid=2668934992365622618",
+  "Latitude": "45.6238324",
+  "Longitude": "9.2029632",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
