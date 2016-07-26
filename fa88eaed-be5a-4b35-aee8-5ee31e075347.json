@@ -1,16 +1,124 @@
-﻿{
+{
   "UUID": "fa88eaed-be5a-4b35-aee8-5ee31e075347",
   "Categoria": "",
+  "Categorie Google": [
+    "general_contractor",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "TECNOCOMMERCIALE SAS DI LOTTI LUIGI E C",
-  "Indirizzo": "VIA LAVORATORI AUTOBIANCHI N.1",
-  "Sito": "www.tecnocommerciale.net",
-  "e-mail": "info@tecnocommerciale.net",
-  "Telefono": "0362/30631",
+  "Nome Visualizzato": "Tecnocommerciale Sas Di Lotti Luigi & C.",
+  "Indirizzo": "Desio, MB 20832, Via Lavoratori Autobianchi, 20832 Desio MB, Italy",
+  "Sito": "http://www.tecnocommerciale.net/",
+  "E-mail": "info@tecnocommerciale.net",
+  "Telefono": "+39 0362 30631",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJhad2vxW8hkcRMZtuFlfNZnQ",
+  "Google Place URL": "https://maps.google.com/?cid=8387617129946323761",
+  "Latitude": "45.625543",
+  "Longitude": "9.213948",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0830"
+      },
+      "close": {
+        "day": 1,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "1330"
+      },
+      "close": {
+        "day": 1,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0830"
+      },
+      "close": {
+        "day": 2,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1330"
+      },
+      "close": {
+        "day": 2,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0830"
+      },
+      "close": {
+        "day": 3,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1330"
+      },
+      "close": {
+        "day": 3,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0830"
+      },
+      "close": {
+        "day": 4,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1330"
+      },
+      "close": {
+        "day": 4,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0830"
+      },
+      "close": {
+        "day": 5,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1330"
+      },
+      "close": {
+        "day": 5,
+        "time": "1700"
+      }
+    }
+  ]
 }
