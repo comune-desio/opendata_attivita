@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "0b81319a-9ea9-4b57-8d7f-8950fcedebb5",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "CONSULENTE AZIENDALE MAGNI FRANCO",
-  "Indirizzo": "CORSO ITALIA N.78",
-  "Telefono": "0362/303521",
+  "Nome Visualizzato": "Magni Rag. Franco",
+  "Indirizzo": "Corso Italia, 78, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=1491801940010538116",
+  "E-mail": null,
+  "Telefono": "+39 0362 303521",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJkWvHsT28hkcRhBSR5fXxsxQ",
+  "Google Place URL": "https://maps.google.com/?cid=1491801940010538116",
+  "Latitude": "45.6208336",
+  "Longitude": "9.2085863",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
