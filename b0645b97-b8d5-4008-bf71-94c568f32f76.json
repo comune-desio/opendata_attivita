@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "b0645b97-b8d5-4008-bf71-94c568f32f76",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "MGS METAL S.R.L.",
-  "Indirizzo": "VIA VICINALE PER MUGGIO'",
-  "Telefono": "0362/308741",
+  "Nome Visualizzato": "Mgs Metal Srl",
+  "Indirizzo": "1, Via Vicinale Per Muggio', Desio, MB 20832, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=7580915226888138574",
+  "E-mail": null,
+  "Telefono": "+39 0362 308741",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJp4hIET28hkcRTm8EwzvSNGk",
+  "Google Place URL": "https://maps.google.com/?cid=7580915226888138574",
+  "Latitude": "45.61966",
+  "Longitude": "9.20877",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
