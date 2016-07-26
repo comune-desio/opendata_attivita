@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "e8e541d4-0e3d-4ce0-a1c9-3c296f8355a0",
   "Categoria": "",
+  "Categorie Google": [
+    "real_estate_agency",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "IMMOBILIARE S.RITA",
-  "Indirizzo": "VIA MONS. CAMNASIO G. N.7",
-  "Telefono": "0362/306888",
+  "Nome Visualizzato": "Immobiliare Santa Rita Srl",
+  "Indirizzo": "Via Lombardia, 66, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=16645761244537540993",
+  "E-mail": null,
+  "Telefono": "+39 0362 306888",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 08 : ALBERGHI SENZA RISTORAZIONE"
+  "Google Place ID": "ChIJwat6uBa8hkcRgdGfrKifAec",
+  "Google Place URL": "https://maps.google.com/?cid=16645761244537540993",
+  "Latitude": "45.6211002",
+  "Longitude": "9.2157605",
+  "Categoria catastale": "N Non Domestica 08 : ALBERGHI SENZA RISTORAZIONE",
+  "Orario di apertura": null
 }
