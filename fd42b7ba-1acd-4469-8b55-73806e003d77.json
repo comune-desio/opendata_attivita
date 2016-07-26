@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "fd42b7ba-1acd-4469-8b55-73806e003d77",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "GESTIONE SICUREZZA AZIENDALE SAS",
-  "Indirizzo": "VIA ISONZO N.3",
-  "Telefono": "0362/629122",
+  "Nome Visualizzato": "Gestione Sicurezza Aziendale Sas Di Sala Giovanna E C.",
+  "Indirizzo": "Via Isonzo, 3, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=10634972316903839321",
+  "E-mail": null,
+  "Telefono": "+39 0362 629122",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJgfxLoUC8hkcRWZYqyfkCl5M",
+  "Google Place URL": "https://maps.google.com/?cid=10634972316903839321",
+  "Latitude": "45.6279002",
+  "Longitude": "9.208578",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
