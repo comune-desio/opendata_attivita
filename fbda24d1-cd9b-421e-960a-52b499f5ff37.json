@@ -1,14 +1,25 @@
-﻿{
+{
   "UUID": "fbda24d1-cd9b-421e-960a-52b499f5ff37",
   "Categoria": "",
+  "Categorie Google": [
+    "gas_station",
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "RUSSO GIORGIO BENZINAIO",
-  "Indirizzo": "VIA GARIBALDI N.306",
-  "Telefono": "0362/620740",
+  "Nome Visualizzato": "Russo Giorgio",
+  "Indirizzo": "Via Giuseppe Garibaldi, 306, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=9803909755143725401",
+  "E-mail": null,
+  "Telefono": "+39 0362 620740",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 04 : CAMPEGGI-DISTRIBUTORI CARBURANTI-IMPIANTI SPORTIVI"
+  "Google Place ID": "ChIJPaPKWZ6-hkcRWSFUnfp7Dog",
+  "Google Place URL": "https://maps.google.com/?cid=9803909755143725401",
+  "Latitude": "45.6067649",
+  "Longitude": "9.2025266",
+  "Categoria catastale": "N Non Domestica 04 : CAMPEGGI-DISTRIBUTORI CARBURANTI-IMPIANTI SPORTIVI",
+  "Orario di apertura": null
 }
