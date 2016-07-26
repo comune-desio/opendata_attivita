@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "bbe26b3a-7369-4173-a0ea-9d9fdcd152bc",
   "Categoria": "",
-  "Ragione Sociale": "M.D.B.MAGAZZINI DESIO BRIANZA SRL",
-  "Indirizzo": "VIA FILIPPO DA DESIO",
-  "Sito": "www.mdbdesio.com",
-  "e-mail": "info.rct.desio@railcargo.com",
-  "Telefono": "0362/480411",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "Ragione Sociale": "Rail Cargo Terminal - Desio S.r.l.",
+  "Nome Visualizzato": "Rail Cargo Terminal - Desio S.R.L.",
+  "Indirizzo": "Via Filippo da Desio, 20832 Desio MB, Italy",
+  "Sito": "http://www.mdbdesio.com/",
+  "E-mail": "info.rct.desio@railcargo.com",
+  "Telefono": "+39 0362 48041",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJzfAMYhO8hkcRSdUj_CfV33o",
+  "Google Place URL": "https://maps.google.com/?cid=8854029760144332105",
+  "Latitude": "45.6253286",
+  "Longitude": "9.2184012",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
