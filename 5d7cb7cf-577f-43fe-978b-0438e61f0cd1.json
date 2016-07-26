@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "5d7cb7cf-577f-43fe-978b-0438e61f0cd1",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "HELPWARE STUDI SRL",
-  "Indirizzo": "VIA LAVORATORI AUTOBIAN N.1",
-  "Sito": "www.hstudi.it",
-  "e-mail": "info@hstudi.it",
-  "Telefono": "0362/6369.1",
+  "Nome Visualizzato": "Helpware Studi S.R.L.",
+  "Indirizzo": "1 Via Lavoratori Autobianchi, Desio, MB 20832, 20832 Desio MB, Italy",
+  "Sito": "http://www.hstudi.it/pages/base.php",
+  "E-mail": "info@hstudi.it",
+  "Telefono": "+39 0362 636911",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJhad2vxW8hkcRRZR2-mk12Cg",
+  "Google Place URL": "https://maps.google.com/?cid=2943161085776532549",
+  "Latitude": "45.62375",
+  "Longitude": "9.21367",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
