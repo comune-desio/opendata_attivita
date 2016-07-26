@@ -1,0 +1,16 @@
+language: ruby
+sudo: false
+install: bundle install --without development --jobs=3 --retry=3
+cache:
+  directories:
+  - bundle
+rvm:
+  - 2.3.0
+before_script:
+- git config --global user.email "root@olisti.co"
+- git config --global user.name "Maurizio De Magnis"
+- git remote rm origin
+- git remote add origin https://olistik:${GH_TOKEN}@github.com/comune-desio/opendata_attivita.git
+- mkdir build
+script:
+- bundle exec ruby build.rb && bundle exec middleman deploy

@@ -65,14 +65,16 @@ def write_geojson(path:, content:)
   write_json(path: path, content: geojson_content)
 end
 
-master = read_json(path: "../master.json")
+master = read_json(path: "master.json")
 geojson_records = []
 records = master.map do |item|
-  record = read_json(path: "../#{item["UUID"]}.json")
+  record = read_json(path: "#{item["UUID"]}.json")
   if !blank?(record["Latitude"]) && !blank?(record["Longitude"])
     geojson_records << record
   end
   record
 end
-write_json(path: "bundle.json", content: records)
-write_geojson(path: "bundle.geojson", content: geojson_records)
+build_path = "build"
+FileUtils.mkdir_p(build_path)
+write_json(path: File.join(build_path, "bundle.json"), content: records)
+write_geojson(path: File.join(build_path, "bundle.geojson"), content: geojson_records)
