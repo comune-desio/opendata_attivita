@@ -1,16 +1,123 @@
-﻿{
+{
   "UUID": "dda2d58f-3f66-488f-8d55-cefc6a5cf792",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SST S.R.L.",
-  "Indirizzo": "VIA DEGLI ARTIGIANI N.24/B",
-  "Sito": "www.sst-italia.it",
-  "e-mail": "info@sst-italia.it",
-  "Telefono": "0362/306761",
+  "Nome Visualizzato": "SST srl",
+  "Indirizzo": "Viale degli Artigiani, 24, 20832 Desio MB, Italy",
+  "Sito": "http://www.sst-italia.it/",
+  "E-mail": "info@sst-italia.it",
+  "Telefono": "+39 0362 306761",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJh3oTWZi-hkcRbsUUINX16Ig",
+  "Google Place URL": "https://maps.google.com/?cid=9865405279470142830",
+  "Latitude": "45.6014811",
+  "Longitude": "9.2027887",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0830"
+      },
+      "close": {
+        "day": 1,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "1330"
+      },
+      "close": {
+        "day": 1,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0830"
+      },
+      "close": {
+        "day": 2,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1330"
+      },
+      "close": {
+        "day": 2,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0830"
+      },
+      "close": {
+        "day": 3,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1330"
+      },
+      "close": {
+        "day": 3,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0830"
+      },
+      "close": {
+        "day": 4,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1330"
+      },
+      "close": {
+        "day": 4,
+        "time": "1730"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0830"
+      },
+      "close": {
+        "day": 5,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1330"
+      },
+      "close": {
+        "day": 5,
+        "time": "1730"
+      }
+    }
+  ]
 }
