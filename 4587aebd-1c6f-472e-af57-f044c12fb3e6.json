@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "4587aebd-1c6f-472e-af57-f044c12fb3e6",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "GI. DI. AUTOMAZIONE SAS DI CATTALDO DANILO E C.",
-  "Indirizzo": "VIA VOLTA N.94",
-  "Sito": "www.gidiautomazione.it",
-  "e-mail": "info@gidiautomazione.it",
-  "Telefono": "0362/1793043 ",
+  "Nome Visualizzato": "Gi.Di. Electronics Sas Di Cattaldo Danilo & C.",
+  "Indirizzo": "Via Verona, 19, 20039 Varedo MB, Italy",
+  "Sito": "https://maps.google.com/?cid=2421000591311143688",
+  "E-mail": "info@gidiautomazione.it",
+  "Telefono": "+39 0362 576085",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJu-xneGO-hkcRCIMc9jUfmSE",
+  "Google Place URL": "https://maps.google.com/?cid=2421000591311143688",
+  "Latitude": "45.5994731",
+  "Longitude": "9.1755322",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
