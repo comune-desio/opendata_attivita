@@ -1,14 +1,24 @@
-﻿{
+{
   "UUID": "59804fc2-f046-450d-ad32-ab074004d25a",
   "Categoria": "",
+  "Categorie Google": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "PARROCCHIA S.PIO X",
-  "Indirizzo": "VIA GARIBALDI N.288",
-  "Telefono": "0362/623752",
+  "Nome Visualizzato": "Parrocchia S. Pio X",
+  "Indirizzo": "Via Giuseppe Garibaldi, 288, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=18039071257720931026",
+  "E-mail": null,
+  "Telefono": "+39 0362 623752",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
+  "Google Place ID": "ChIJ8XbXR56-hkcR0kJq2runV_o",
+  "Google Place URL": "https://maps.google.com/?cid=18039071257720931026",
+  "Latitude": "45.6085083",
+  "Longitude": "9.2031161",
+  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO",
+  "Orario di apertura": null
 }
