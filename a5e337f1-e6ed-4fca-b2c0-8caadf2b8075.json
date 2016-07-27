@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "a5e337f1-e6ed-4fca-b2c0-8caadf2b8075",
   "Categoria": "",
+  "Categorie Google": [
+    "locality",
+    "political"
+  ],
   "Ragione Sociale": "PROVINCIA DI MONZA E DELLA BRIANZA",
-  "Indirizzo": "VIA TAGLIABUE N.60",
-  "Sito": "www.provincia.mb.it",
-  "e-mail": "provincia-mb@pec.provincia.mb.it",
-  "Telefono": "039/9752304/2305",
+  "Nome Visualizzato": "Desio",
+  "Indirizzo": "20832 Desio, Province of Monza and Brianza, Italy",
+  "Sito": "https://maps.google.com/?q=20832+Desio,+Province+of+Monza+and+Brianza,+Italy&ftid=0x4786bc24d9daa7f9:0x5f867983026300e9",
+  "E-mail": "provincia-mb@pec.provincia.mb.it",
+  "Telefono": null,
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJ-afa2SS8hkcR6QBjAoN5hl8",
+  "Google Place URL": "https://maps.google.com/?q=20832+Desio,+Province+of+Monza+and+Brianza,+Italy&ftid=0x4786bc24d9daa7f9:0x5f867983026300e9",
+  "Latitude": "45.6186654",
+  "Longitude": "9.2076935",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
