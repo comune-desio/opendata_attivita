@@ -1,14 +1,24 @@
-﻿{
+{
   "UUID": "4ff88878-6b82-4348-956e-b2b714436b98",
   "Categoria": "",
+  "Categorie Google": [
+    "clothing_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "F.LLI GALIMBERTI DI GALIMBERTI ROBERTO E STEFANIA",
-  "Indirizzo": "CORSO ITALIA N.71",
-  "Telefono": "0362/300958",
+  "Nome Visualizzato": "F.Lli Galimberti Di Galimberti Roberto E Stefania Snc",
+  "Indirizzo": "Corso Italia, 75, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=13425656810475958616",
+  "E-mail": null,
+  "Telefono": "+39 0362 300958",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)"
+  "Google Place ID": "ChIJK6dWHz28hkcRWDG5qLyDUbo",
+  "Google Place URL": "https://maps.google.com/?cid=13425656810475958616",
+  "Latitude": "45.6198915",
+  "Longitude": "9.2079431",
+  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)",
+  "Orario di apertura": null
 }
