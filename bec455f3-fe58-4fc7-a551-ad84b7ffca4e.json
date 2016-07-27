@@ -1,15 +1,22 @@
-﻿{
+{
   "UUID": "bec455f3-fe58-4fc7-a551-ad84b7ffca4e",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "COOPERATIVA  ACLI A. GRANDI",
-  "Indirizzo": "VIA GRANDI N.26",
-  "Sito": "www.acliservizi.com",
-  "Telefono": "02 25 54 47 77",
+  "Nome Visualizzato": "Cooperativa A.C.L.I. A. Grandi - Desio",
+  "Indirizzo": "Via Achille Grandi, 26, 20832 Desio MB, Italy",
+  "Sito": "http://www.acliservizi.com",
+  "E-mail": "af.desio@acliservizi.com",
+  "Telefono": "+39 0362 1795208",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
+  "Google Place ID": "ChIJsxDlayK8hkcReZUH0zM_7kE",
+  "Google Place URL": "https://maps.google.com/?q=Via+Achille+Grandi,+26,+20832+Desio+MB,+Italy&ftid=0x4786bc226be510b3:0x41ee3f33d3079579",
+  "Latitude": "45.614895",
+  "Longitude": "9.2079819",
+  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO",
+  "Orario di apertura": null
 }
