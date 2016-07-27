@@ -1,16 +1,133 @@
-﻿{
+{
   "UUID": "538163e2-286b-40c2-8822-f9b105650326",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "MILANI S.N.C. DI MILANI ALBERTO E MASSIMO",
-  "Indirizzo": "VIA MONS. CATTANEO N.10",
-  "Sito": "www.milanimacchinepercucire.com",
-  "e-mail": "milanisnc@tin.it",
-  "Telefono": "0362/621755",
+  "Nome Visualizzato": "Milani snc di Alberto e Massimo - Vendita e riparazione macchine per cucire",
+  "Indirizzo": "Via Monsignor Celestino Cattaneo, 10, 20832 Desio MB, Italy",
+  "Sito": "http://www.milanimacchinepercucire.com/",
+  "E-mail": "milanisnc@tin.it",
+  "Telefono": "+39 0362 621755",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)"
+  "Google Place ID": "ChIJRbprkfq9hkcRA6ycg4OvpDo",
+  "Google Place URL": "https://maps.google.com/?cid=4225695329764027395",
+  "Latitude": "45.6185707",
+  "Longitude": "9.2052114",
+  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "1500"
+      },
+      "close": {
+        "day": 1,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0900"
+      },
+      "close": {
+        "day": 2,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1500"
+      },
+      "close": {
+        "day": 2,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0900"
+      },
+      "close": {
+        "day": 3,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1500"
+      },
+      "close": {
+        "day": 3,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0900"
+      },
+      "close": {
+        "day": 4,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1500"
+      },
+      "close": {
+        "day": 4,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0900"
+      },
+      "close": {
+        "day": 5,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1500"
+      },
+      "close": {
+        "day": 5,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "0900"
+      },
+      "close": {
+        "day": 6,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "1500"
+      },
+      "close": {
+        "day": 6,
+        "time": "1930"
+      }
+    }
+  ]
 }
