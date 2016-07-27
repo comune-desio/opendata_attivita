@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "6965e424-ddfa-4d4f-b63c-9e8d3a11fd1b",
   "Categoria": "",
+  "Categorie Google": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "LU.MA. SNC",
-  "Indirizzo": "VIA LAVORATORI AUTOBIANCHI N.1",
-  "Telefono": "0362/195 2304",
+  "Nome Visualizzato": "Lu.ma. snc",
+  "Indirizzo": "1 Via Lavoratori Autobianchi, Desio, MB 20832, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=12074868566919056948",
+  "E-mail": null,
+  "Telefono": "+39 0362 195 2304",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJhad2vxW8hkcRNI69ePyMkqc",
+  "Google Place URL": "https://maps.google.com/?cid=12074868566919056948",
+  "Latitude": "45.62375",
+  "Longitude": "9.21367",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
