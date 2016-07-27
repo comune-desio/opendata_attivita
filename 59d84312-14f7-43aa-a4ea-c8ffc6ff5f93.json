@@ -1,15 +1,24 @@
-﻿{
+{
   "UUID": "59d84312-14f7-43aa-a4ea-c8ffc6ff5f93",
   "Categoria": "",
+  "Categorie Google": [
+    "car_dealer",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "OFFICINA WOLKSWAGEN DI PIROLA F.",
-  "Indirizzo": "VIA NUOVA VALASSINA",
-  "Sito": "www.pirola.com",
-  "Telefono": "0362/391811",
+  "Nome Visualizzato": "Pirola Francesco & Figli S.p.A. - VOLKSWAGEN - MONZA",
+  "Indirizzo": "Via Michelangelo Buonarroti, 20, 20900 Monza MB, Italy",
+  "Sito": "http://www.pirola.com/",
+  "E-mail": null,
+  "Telefono": "+39 039 281511",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO"
+  "Google Place ID": "ChIJDwKKfnW5hkcRU9XdcBvLPiQ",
+  "Google Place URL": "https://maps.google.com/?cid=2611748152639608147",
+  "Latitude": "45.5798314",
+  "Longitude": "9.2823864",
+  "Categoria catastale": "N Non Domestica 19 : CARROZZERIE-AUTOFFICINE-ELETTRAUTO",
+  "Orario di apertura": null
 }
