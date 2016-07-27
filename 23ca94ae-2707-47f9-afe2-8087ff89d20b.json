@@ -1,13 +1,22 @@
-﻿{
+{
   "UUID": "23ca94ae-2707-47f9-afe2-8087ff89d20b",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "IMPRESA BONALUMI SAS",
-  "Indirizzo": "VIA OSLAVIA",
+  "Nome Visualizzato": "Impresa Bonalumi",
+  "Indirizzo": "Via G.Agnesi, 37, 20033 Desio MB, Italy",
+  "Sito": "http://ristrutturazionidesio.mb.it/",
+  "E-mail": null,
+  "Telefono": "+39 0362 622133",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJDV9kRSa8hkcRaFz1X7Eo3tY",
+  "Google Place URL": "https://maps.google.com/?cid=15482857311230581864",
+  "Latitude": "45.6124128",
+  "Longitude": "9.1987127",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
