@@ -1,14 +1,24 @@
-﻿{
+{
   "UUID": "9bffb99b-f3c9-4169-8070-98834055efec",
   "Categoria": "",
+  "Categorie Google": [
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "NEGOZIO DI ARTICOLI PER LA PITTURA DI SAINI PIETRO MAURO",
-  "Indirizzo": "VIA VERRI N.130",
-  "Telefono": "0362/627258",
+  "Nome Visualizzato": "Colorificio Atlantic Di Saini Pietro Mauro",
+  "Indirizzo": "128/130 Via Garibaldi, Desio, MB 20832, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=6231607741840360628",
+  "E-mail": null,
+  "Telefono": "+39 0362 627258",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)"
+  "Google Place ID": "ChIJW6xJCyG8hkcRtAT4hzkee1Y",
+  "Google Place URL": "https://maps.google.com/?cid=6231607741840360628",
+  "Latitude": "45.6131481",
+  "Longitude": "9.2053601",
+  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)",
+  "Orario di apertura": null
 }
