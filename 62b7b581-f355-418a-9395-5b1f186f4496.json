@@ -1,15 +1,23 @@
-﻿{
+{
   "UUID": "62b7b581-f355-418a-9395-5b1f186f4496",
   "Categoria": "",
+  "Categorie Google": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "FORMEL SRL",
-  "Indirizzo": "VIA MILANO N.143",
-  "Sito": "www.formelsrl.com",
-  "Telefono": "0362/638085",
+  "Nome Visualizzato": "Formel Srl",
+  "Indirizzo": "Via Vitruvio, 43, 20124 Milano, Italy",
+  "Sito": "http://www.formel.it/",
+  "E-mail": null,
+  "Telefono": "+39 02 6269 0710",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)"
+  "Google Place ID": "ChIJ55sy98TGhkcRWEy-iYiOvjM",
+  "Google Place URL": "https://maps.google.com/?cid=3728574258586995800",
+  "Latitude": "45.4827921",
+  "Longitude": "9.2054559",
+  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)",
+  "Orario di apertura": null
 }
