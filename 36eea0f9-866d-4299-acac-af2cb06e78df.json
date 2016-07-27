@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "36eea0f9-866d-4299-acac-af2cb06e78df",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "GELSIA AMBIENTE S.R.L.",
-  "Indirizzo": "VIA CARAVAGGIO N.26/A",
-  "Sito": "www.gelsiambiente.it",
-  "e-mail": "infoambiente@gelsia.it\nambiente@pec.gelsia.it",
-  "Telefono": "0362/2251",
+  "Nome Visualizzato": "Gelsia Ambiente Srl",
+  "Indirizzo": "Via Caduti di Nassirya, 20900 Monza MB, Italy",
+  "Sito": "https://www.gelsiambiente.it/",
+  "E-mail": "infoambiente@gelsia.it\nambiente@pec.gelsia.it",
+  "Telefono": "+39 0362 4821",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI"
+  "Google Place ID": "ChIJEzdpRDq5hkcR8szmf3aR-Bw",
+  "Google Place URL": "https://maps.google.com/?cid=2087578365424225522",
+  "Latitude": "45.5810758",
+  "Longitude": "9.2351457",
+  "Categoria catastale": "N Non Domestica 11 : UFFICI-AGENZIE E STUDI PROFESSIONALI",
+  "Orario di apertura": null
 }
