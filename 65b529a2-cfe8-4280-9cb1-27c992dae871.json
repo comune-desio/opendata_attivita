@@ -1,15 +1,22 @@
-﻿{
+{
   "UUID": "65b529a2-cfe8-4280-9cb1-27c992dae871",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "ISTITUTO DI VIGILANZA NOTTURNA CITTA' DI DESIO SRL",
-  "Indirizzo": "VIA DANTE N.63",
-  "Sito": "http://it.kompass.com",
-  "Telefono": "0362/624690",
+  "Nome Visualizzato": "Istituto Vigilanza Notturna Citta' Di Desio (S.R.L.)",
+  "Indirizzo": "Via Dante Alighieri, 63, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=6611782165324483705",
+  "E-mail": null,
+  "Telefono": "+39 0362 627277",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJ3eJwOjm8hkcRecxtQNnEwVs",
+  "Google Place URL": "https://maps.google.com/?cid=6611782165324483705",
+  "Latitude": "45.6248056",
+  "Longitude": "9.2058013",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
