@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "6a198a32-216a-490b-9aaa-07a3f268e05c",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "IL FORNO DEI VIGANO' DI VIGANO' RO BERTO & C.",
-  "Indirizzo": "VIA AGNESI N.169",
-  "Telefono": "0362/331014",
+  "Nome Visualizzato": "Il Forno Dei Vigano' Di Vigano' Roberto & C. Snc",
+  "Indirizzo": "Via Giuseppe Garibaldi, 28, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=11741741595735047311",
+  "E-mail": null,
+  "Telefono": "+39 0362 622147",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI"
+  "Google Place ID": "ChIJsVzoVCK8hkcRjzw3WsUL86I",
+  "Google Place URL": "https://maps.google.com/?cid=11741741595735047311",
+  "Latitude": "45.6158676",
+  "Longitude": "9.2067345",
+  "Categoria catastale": "N Non Domestica 25 : SUPERMERCATI E GENERI ALIMENTARI",
+  "Orario di apertura": null
 }
