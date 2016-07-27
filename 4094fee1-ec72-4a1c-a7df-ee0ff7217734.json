@@ -1,16 +1,73 @@
-﻿{
+{
   "UUID": "4094fee1-ec72-4a1c-a7df-ee0ff7217734",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SPEEDY B & B SRL",
-  "Indirizzo": "VIA LAVORATORI AUTOBIANCHI N.1",
-  "Sito": "www.speedyb.it",
-  "e-mail": "rent@speedyb.it",
-  "Telefono": "0362/367603",
+  "Nome Visualizzato": "Speedy B's Alterations",
+  "Indirizzo": "9320 Westview Dr # 12, Houston, TX 77055, USA",
+  "Sito": "https://maps.google.com/?cid=3450709568306084861",
+  "E-mail": "rent@speedyb.it",
+  "Telefono": "+1 713-984-8376",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJTeg76vXEQIYR_fvs2RFi4y8",
+  "Google Place URL": "https://maps.google.com/?cid=3450709568306084861",
+  "Latitude": "29.7943842",
+  "Longitude": "-95.5207959",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 2,
+        "time": "1000"
+      },
+      "close": {
+        "day": 2,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1000"
+      },
+      "close": {
+        "day": 3,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1000"
+      },
+      "close": {
+        "day": 4,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1000"
+      },
+      "close": {
+        "day": 5,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "1000"
+      },
+      "close": {
+        "day": 6,
+        "time": "1800"
+      }
+    }
+  ]
 }
