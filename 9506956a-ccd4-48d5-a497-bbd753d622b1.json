@@ -1,16 +1,23 @@
-﻿{
+{
   "UUID": "9506956a-ccd4-48d5-a497-bbd753d622b1",
   "Categoria": "",
+  "Categorie Google": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "COLLEGIO ARCIVESCOVILE PIO XI",
-  "Indirizzo": "VIA CARDUCCI",
-  "Sito": "www.collegiopioxi.it",
-  "e-mail": " info.pioxi@collegifacec.it",
-  "Telefono": "0362/621606",
+  "Nome Visualizzato": "Collegio Arcivescovile Pio XI",
+  "Indirizzo": "Via Due Palme, 2, 20832 Desio MB, Italy",
+  "Sito": "http://www.collegiopioxi.it/",
+  "E-mail": " info.pioxi@collegifacec.it",
+  "Telefono": "+39 0362 620845",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
+  "Google Place ID": "ChIJG8XDzj28hkcRZ6NH2tgZKWY",
+  "Google Place URL": "https://maps.google.com/?cid=7361443485079544679",
+  "Latitude": "45.6219472",
+  "Longitude": "9.2090632",
+  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO",
+  "Orario di apertura": null
 }
