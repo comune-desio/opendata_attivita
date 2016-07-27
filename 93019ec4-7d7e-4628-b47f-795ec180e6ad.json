@@ -1,16 +1,21 @@
-﻿{
+{
   "UUID": "93019ec4-7d7e-4628-b47f-795ec180e6ad",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest"
+  ],
   "Ragione Sociale": "R.C.R. SRL",
-  "Indirizzo": "VIA DEL GUADO N.61",
-  "Sito": "www.rcrautoricambi.it",
-  "e-mail": "info@rcrautoricambi",
-  "Telefono": "0362/625481",
+  "Nome Visualizzato": "R.C.R.",
+  "Indirizzo": "Via del Guado, 61, 20832 Desio MB, Italy",
+  "Sito": "http://www.rcrautoricambi.it/",
+  "E-mail": "info@rcrautoricambi",
+  "Telefono": "+39 0362 625481",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)"
+  "Google Place ID": "EilWaWEgZGVsIEd1YWRvLCA2MSwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ",
+  "Google Place URL": "https://goo.gl/maps/VKnkRnm1rYP2",
+  "Latitude": "45.608115",
+  "Longitude": "9.221227",
+  "Categoria catastale": "N Non Domestica 13 : NEGOZI (ABBIGLIAMENTO-CALZATURE-LIBRERIE-...)",
+  "Orario di apertura": null
 }
