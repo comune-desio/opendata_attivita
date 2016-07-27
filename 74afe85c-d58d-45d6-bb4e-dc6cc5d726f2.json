@@ -1,14 +1,24 @@
-﻿{
+{
   "UUID": "74afe85c-d58d-45d6-bb4e-dc6cc5d726f2",
   "Categoria": "",
+  "Categorie Google": [
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "COLZANI MAURIZIO",
-  "Indirizzo": "VIA TAGLIABUE N.141",
-  "Telefono": "0362/1787758",
+  "Nome Visualizzato": "Elettrodomestici Colzani Maurizio",
+  "Indirizzo": "Via Alessandro Volta, 1, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=1275463146226856902",
+  "E-mail": null,
+  "Telefono": "+39 0362 620085",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 18 : ATTIVITA' ARTIGIANALI (BOTTEGHE:FALEGNAME-...)"
+  "Google Place ID": "ChIJJwp8Yxe8hkcRxjP0SvlasxE",
+  "Google Place URL": "https://maps.google.com/?cid=1275463146226856902",
+  "Latitude": "45.617996",
+  "Longitude": "9.213951",
+  "Categoria catastale": "N Non Domestica 18 : ATTIVITA' ARTIGIANALI (BOTTEGHE:FALEGNAME-...)",
+  "Orario di apertura": null
 }
