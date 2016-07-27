@@ -1,16 +1,22 @@
-﻿{
+{
   "UUID": "227152b8-8844-48e2-9c7f-ba9e03e73e60",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "TECNOPROGRAM S.R.L.",
-  "Indirizzo": "VIA LAVORATORI AUTOBIANCHI N.59",
-  "Sito": "www.tecnoprogram.it",
-  "e-mail": "info@tecnoprogram.it",
-  "Telefono": "0362/852722 ",
+  "Nome Visualizzato": "Tecnoprogram Srl",
+  "Indirizzo": "Via S. Bernardino, 45, 20025 Legnano MI, Italy",
+  "Sito": "https://maps.google.com/?cid=6471907372698533531",
+  "E-mail": "info@tecnoprogram.it",
+  "Telefono": "+39 0331 594675",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJy7o1Fw-NhkcRm37tQHfV0Fk",
+  "Google Place URL": "https://maps.google.com/?cid=6471907372698533531",
+  "Latitude": "45.587989",
+  "Longitude": "8.9111057",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
