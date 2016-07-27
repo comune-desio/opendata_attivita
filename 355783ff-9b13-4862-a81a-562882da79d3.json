@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "355783ff-9b13-4862-a81a-562882da79d3",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SAMBA JUNIOR SRL",
-  "Indirizzo": "VIA DON LUIGI STURZO N.29",
-  "Telefono": "0362/303115",
+  "Nome Visualizzato": "Samba Junior Srl",
+  "Indirizzo": "Via Don Luigi Sturzo, 29, 20033 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=5612376498997331502",
+  "E-mail": null,
+  "Telefono": "+39 0362 303115",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJ-RakIn6-hkcRLoZ8sLAq400",
+  "Google Place URL": "https://maps.google.com/?cid=5612376498997331502",
+  "Latitude": "45.6075042",
+  "Longitude": "9.183576",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
