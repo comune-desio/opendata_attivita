@@ -1,16 +1,124 @@
-﻿{
+{
   "UUID": "00b7ddaa-1a7b-4f80-b0a0-050f1de37b75",
   "Categoria": "",
+  "Categorie Google": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "ANGELMEDA GRAF SRL",
-  "Indirizzo": "VIA POZZO ANTICO N.41/43",
-  "Sito": "www.angelmeda.it",
-  "e-mail": "info@angelmeda.it",
-  "Telefono": "0362/306153",
+  "Nome Visualizzato": "Angelmeda Graf S. R. L.",
+  "Indirizzo": "Via Pozzo Antico, 43, 20832 Desio MB, Italy",
+  "Sito": "http://www.angelmeda.it",
+  "E-mail": "info@angelmeda.it",
+  "Telefono": "+39 0362 306153",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 21 : ATT. ARTIGIANALI PRODUZIONE BENI SPECIFICI"
+  "Google Place ID": "ChIJX0IdZCK8hkcRuUhGYDYe7L4",
+  "Google Place URL": "https://maps.google.com/?cid=13757404180602308793",
+  "Latitude": "45.6154693",
+  "Longitude": "9.2082543",
+  "Categoria catastale": "N Non Domestica 21 : ATT. ARTIGIANALI PRODUZIONE BENI SPECIFICI",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0800"
+      },
+      "close": {
+        "day": 1,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "1400"
+      },
+      "close": {
+        "day": 1,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0800"
+      },
+      "close": {
+        "day": 2,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1400"
+      },
+      "close": {
+        "day": 2,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0800"
+      },
+      "close": {
+        "day": 3,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1400"
+      },
+      "close": {
+        "day": 3,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0800"
+      },
+      "close": {
+        "day": 4,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1400"
+      },
+      "close": {
+        "day": 4,
+        "time": "1800"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0800"
+      },
+      "close": {
+        "day": 5,
+        "time": "1200"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1400"
+      },
+      "close": {
+        "day": 5,
+        "time": "1800"
+      }
+    }
+  ]
 }
