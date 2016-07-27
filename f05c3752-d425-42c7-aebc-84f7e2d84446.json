@@ -1,16 +1,23 @@
-﻿{
+{
   "UUID": "f05c3752-d425-42c7-aebc-84f7e2d84446",
   "Categoria": "",
+  "Categorie Google": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "ODEL SPA",
-  "Indirizzo": "VIA LAVORATORI AUTOBIAN N.1/24 Int.B",
-  "Sito": "www.odelxray.eu",
-  "e-mail": "info@odelwray.eu",
-  "Telefono": "0362/301064",
+  "Nome Visualizzato": "Odel S.p.a.",
+  "Indirizzo": "1 Via Lavoratori Autobianchi, Desio, MB 20832, 20832 Desio MB, Italy",
+  "Sito": "http://www.odelxray.eu/",
+  "E-mail": "info@odelwray.eu",
+  "Telefono": "+39 0362 301064",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE"
+  "Google Place ID": "ChIJhad2vxW8hkcRlkXM6eAR-EY",
+  "Google Place URL": "https://maps.google.com/?cid=5113857034572023190",
+  "Latitude": "45.62375",
+  "Longitude": "9.21367",
+  "Categoria catastale": "N Non Domestica 20 : ATTIVITA' INDUSTRIALI CON CAPANNONI DI PRODUZIONE",
+  "Orario di apertura": null
 }
