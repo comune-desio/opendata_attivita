@@ -1,16 +1,21 @@
-﻿{
+{
   "UUID": "567f5eaa-8a6a-47a0-887f-dbbb1b216654",
   "Categoria": "",
+  "Categorie Google": [
+    "route"
+  ],
   "Ragione Sociale": "A.C. FERRAVILLA",
-  "Indirizzo": "VIA FERRAVILLA N.132",
-  "Sito": "www.ferravilla.it",
-  "e-mail": "info@ferravilla.it",
-  "Telefono": "0362/629642",
+  "Nome Visualizzato": "Via Edoardo Ferravilla",
+  "Indirizzo": "Via Edoardo Ferravilla, 132, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?q=Via+Edoardo+Ferravilla,+20832+Desio+MB,+Italy&ftid=0x4786bc2cee0c9d37:0xc14836afd8dfc0d",
+  "E-mail": "info@ferravilla.it",
+  "Telefono": "+39 0362 629642",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO"
+  "Google Place ID": "ChIJN50M7iy8hkcRDfyN_WqDFAw",
+  "Google Place URL": "https://maps.google.com/?q=Via+Edoardo+Ferravilla,+20832+Desio+MB,+Italy&ftid=0x4786bc2cee0c9d37:0xc14836afd8dfc0d",
+  "Latitude": "45.6165228",
+  "Longitude": "9.1885754",
+  "Categoria catastale": "N Non Domestica 01 : MUSEI-BIBLIOTECHE-SCUOLE-ASSOCIAZIONI-LUOGHI CULTO",
+  "Orario di apertura": null
 }
