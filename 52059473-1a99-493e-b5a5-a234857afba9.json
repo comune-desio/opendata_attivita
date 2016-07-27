@@ -1,16 +1,74 @@
-﻿{
+{
   "UUID": "52059473-1a99-493e-b5a5-a234857afba9",
   "Categoria": "",
+  "Categorie Google": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "MARIFLOS SPA",
-  "Indirizzo": "VIA SAN VINCENZO N.29",
-  "Sito": "www.mariflos.com",
-  "e-mail": "annamaria@mariflos.com",
-  "Telefono": "0362/621583",
+  "Nome Visualizzato": "Provino Shop - Mariflos s.p.a",
+  "Indirizzo": "Via Algeria, 10, 20832 Desio MB, Italy",
+  "Sito": "http://www.provinoshop.com/",
+  "E-mail": "annamaria@mariflos.com",
+  "Telefono": "+39 0362 621583",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJS7xGXJm-hkcRmELXxBD5L_0",
+  "Google Place URL": "https://maps.google.com/?cid=18244074465918403224",
+  "Latitude": "45.6038817",
+  "Longitude": "9.2010277",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 1,
+        "time": "0800"
+      },
+      "close": {
+        "day": 1,
+        "time": "1700"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0800"
+      },
+      "close": {
+        "day": 2,
+        "time": "1700"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0800"
+      },
+      "close": {
+        "day": 3,
+        "time": "1700"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0800"
+      },
+      "close": {
+        "day": 4,
+        "time": "1700"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0800"
+      },
+      "close": {
+        "day": 5,
+        "time": "1700"
+      }
+    }
+  ]
 }
