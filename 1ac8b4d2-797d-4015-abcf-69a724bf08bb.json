@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "1ac8b4d2-797d-4015-abcf-69a724bf08bb",
   "Categoria": "",
+  "Categorie Google": [
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "AR. CA. DISTRIBUZIONE ALIMENTARI SRL",
-  "Indirizzo": "VIA SABOTINO N.7",
-  "Telefono": "0362/305185",
+  "Nome Visualizzato": "Ar.Ca. Distribuzione Alimentari Srl",
+  "Indirizzo": "Viale Sabotino, 121, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=17072278767176628069",
+  "E-mail": null,
+  "Telefono": "+39 0362 305185",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA"
+  "Google Place ID": "ChIJrY2yyYO-hkcRZbcBABbr7Ow",
+  "Google Place URL": "https://maps.google.com/?cid=17072278767176628069",
+  "Latitude": "45.6069119",
+  "Longitude": "9.1903725",
+  "Categoria catastale": "N Non Domestica 03 : AUTORIMESSE E MAGAZZINI SENZA VENDITA DIRETTA",
+  "Orario di apertura": null
 }
