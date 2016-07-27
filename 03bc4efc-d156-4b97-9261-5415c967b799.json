@@ -1,15 +1,24 @@
-﻿{
+{
   "UUID": "03bc4efc-d156-4b97-9261-5415c967b799",
   "Categoria": "",
+  "Categorie Google": [
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "C.P.O. DISTRIBUZIONE SRL",
-  "Indirizzo": "VIA DEL COMMERCIO N.12",
-  "Sito": "www.cpodistribuzione.it",
-  "Telefono": "0362/308769",
+  "Nome Visualizzato": "C.P.O. Distribuzione Srl",
+  "Indirizzo": "Nuova Valassina, 20832 Desio MB, Italy",
+  "Sito": "http://www.cpodistribuzione.it/",
+  "E-mail": null,
+  "Telefono": "+39 0362 302561",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 27 : ORTOFRUTTA-PESCHERIE-FIORI-PIZZA AL TAGLIO"
+  "Google Place ID": "ChIJh9PChAO8hkcRxm_R2VDU-HY",
+  "Google Place URL": "https://maps.google.com/?cid=8572835334416592838",
+  "Latitude": "45.6116722",
+  "Longitude": "9.2232173",
+  "Categoria catastale": "N Non Domestica 27 : ORTOFRUTTA-PESCHERIE-FIORI-PIZZA AL TAGLIO",
+  "Orario di apertura": null
 }
