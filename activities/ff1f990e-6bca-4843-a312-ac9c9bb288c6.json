@@ -1,14 +1,31 @@
-﻿{
+{
   "UUID": "ff1f990e-6bca-4843-a312-ac9c9bb288c6",
   "Categoria": "",
+  "Categorie Google": [
+    "funeral_home",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "PANZERI MANUEL",
-  "Indirizzo": "VIA MILANO N.367",
-  "Telefono": "0362 623694",
+  "Nome Visualizzato": "Onoranze Funebri Panzeri - Desio - Agenzia di Pompe funebri",
+  "Indirizzo": "Via Milano, 367/D, 20832 Desio MB, Italy",
+  "Sito": "http://www.onoranzepanzeri.com/",
+  "E-mail": null,
+  "Telefono": "+39 0362 305103",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 27 : ORTOFRUTTA-PESCHERIE-FIORI-PIZZA AL TAGLIO"
+  "Google Place ID": "ChIJN9HeCEe8hkcRcBj3p6D0f8I",
+  "Google Place URL": "https://maps.google.com/?cid=14015189536250206320",
+  "Latitude": "45.6301339",
+  "Longitude": "9.204882",
+  "Categoria catastale": "N Non Domestica 27 : ORTOFRUTTA-PESCHERIE-FIORI-PIZZA AL TAGLIO",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 0,
+        "time": "0000"
+      },
+      "close": null
+    }
+  ]
 }
