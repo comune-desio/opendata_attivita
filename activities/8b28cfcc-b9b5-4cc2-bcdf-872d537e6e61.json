@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "8b28cfcc-b9b5-4cc2-bcdf-872d537e6e61",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "RINELLI COSIMO DAMIANO",
-  "Indirizzo": "VIA MILANO N.318",
-  "Telefono": "0362 638607",
+  "Nome Visualizzato": "Rinelli Cosimo Damiano",
+  "Indirizzo": "Via Milano, 318, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=4399656063714268168",
+  "E-mail": null,
+  "Telefono": "+39 0362 638607",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE"
+  "Google Place ID": "ChIJ2alW4Ti8hkcRCBSVK-G3Dj0",
+  "Google Place URL": "https://maps.google.com/?cid=4399656063714268168",
+  "Latitude": "45.6257474",
+  "Longitude": "9.204974",
+  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE",
+  "Orario di apertura": null
 }
