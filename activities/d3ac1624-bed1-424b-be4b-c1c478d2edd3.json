@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "d3ac1624-bed1-424b-be4b-c1c478d2edd3",
   "Categoria": "",
+  "Categorie Google": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SEREGNI GIUSEPPE",
-  "Indirizzo": "VIA GARIBALDI N.180 N.180",
-  "e-mail": "beppeseregni@gmail.com",
+  "Nome Visualizzato": "Seregni Giuseppe",
+  "Indirizzo": "Via Giuseppe Garibaldi, 180, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=794048007922762052",
+  "E-mail": "beppeseregni@gmail.com",
+  "Telefono": "+39 0362 627084",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE"
+  "Google Place ID": "ChIJH3P5dCG8hkcRRMHXxnQGBQs",
+  "Google Place URL": "https://maps.google.com/?cid=794048007922762052",
+  "Latitude": "45.612016",
+  "Longitude": "9.2048336",
+  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE",
+  "Orario di apertura": null
 }
