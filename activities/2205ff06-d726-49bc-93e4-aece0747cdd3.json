@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "2205ff06-d726-49bc-93e4-aece0747cdd3",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "TACKLE SRL",
-  "Indirizzo": "VIA MILANO N.219",
-  "Telefono": "0362 622307",
+  "Nome Visualizzato": "Tackle S.r.l.",
+  "Indirizzo": "Via Milano, 219, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=9380658826383513179",
+  "E-mail": null,
+  "Telefono": "+39 0362 622307",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE"
+  "Google Place ID": "ChIJ2z8_fzC8hkcRW9a4cYDLLoI",
+  "Google Place URL": "https://maps.google.com/?cid=9380658826383513179",
+  "Latitude": "45.6207902",
+  "Longitude": "9.1991849",
+  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE",
+  "Orario di apertura": null
 }
