@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "6e5dccf2-cd27-45bc-8a04-b4e80d67edeb",
   "Categoria": "",
+  "Categorie Google": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "ERREBI SAS DI BENETTI SONIA & C.",
-  "Indirizzo": "VIA BRAMANTE N.15/T",
-  "Telefono": "0362 308824",
+  "Nome Visualizzato": "Errebi Sas Di Benetti Sonia E C.",
+  "Indirizzo": "Via Bramante da Urbino, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=8444722156858890992",
+  "E-mail": null,
+  "Telefono": "+39 0362 308824",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE"
+  "Google Place ID": "ChIJGT4Q1A28hkcR8NpxQg-uMXU",
+  "Google Place URL": "https://maps.google.com/?cid=8444722156858890992",
+  "Latitude": "45.6211035",
+  "Longitude": "9.2257926",
+  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE",
+  "Orario di apertura": null
 }
