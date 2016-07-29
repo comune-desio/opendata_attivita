@@ -1,15 +1,23 @@
-﻿{
+{
   "UUID": "d969347a-60e2-4e86-b55e-e17bdadb341e",
   "Categoria": "",
+  "Categorie Google": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "BIANCO FRANCO",
-  "Indirizzo": "VIA PER SEREGNO N.59",
-  "Sito": "http://www.bar365.it",
-  "Telefono": "0362 308008",
+  "Nome Visualizzato": "Bianco Franco",
+  "Indirizzo": "Via per Seregno, 59, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=9929941468554778635",
+  "E-mail": null,
+  "Telefono": "+39 0362 308008",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE"
+  "Google Place ID": "ChIJAUvjCwu8hkcRC9igkSc9zok",
+  "Google Place URL": "https://maps.google.com/?cid=9929941468554778635",
+  "Latitude": "45.6233139",
+  "Longitude": "9.2314553",
+  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE",
+  "Orario di apertura": null
 }
