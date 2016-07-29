@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "a85eca4c-b557-4788-9ad7-89f1490a6d86",
   "Categoria": "",
+  "Categorie Google": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "RIPAMONTI DONATELLA",
-  "Indirizzo": "VIA MILANO N.180 N.180",
-  "e-mail": "bar.convegno@gmail.com",
+  "Nome Visualizzato": "Ripamonti Donatella",
+  "Indirizzo": "Via Milano, 180, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=1444237959230734671",
+  "E-mail": "bar.convegno@gmail.com",
+  "Telefono": "+39 0362 638039",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE"
+  "Google Place ID": "ChIJTTZ9DyW8hkcRT0EVo8X2ChQ",
+  "Google Place URL": "https://maps.google.com/?cid=1444237959230734671",
+  "Latitude": "45.6168556",
+  "Longitude": "9.2002537",
+  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE",
+  "Orario di apertura": null
 }
