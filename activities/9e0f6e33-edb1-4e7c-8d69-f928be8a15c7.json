@@ -1,14 +1,24 @@
-﻿{
+{
   "UUID": "9e0f6e33-edb1-4e7c-8d69-f928be8a15c7",
   "Categoria": "",
+  "Categorie Google": [
+    "bar",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "REDAELLI ANTONIO",
-  "Indirizzo": "VIA LAMPUGNANI N.54/T",
-  "Telefono": "0362 627090",
+  "Nome Visualizzato": "Bar Tabacchi Redaelli",
+  "Indirizzo": "Via G. M.Lampugnani, 54, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=11759340388410158736",
+  "E-mail": null,
+  "Telefono": "+39 0362 627090",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE"
+  "Google Place ID": "ChIJlfKEshC8hkcRkG4XlMeRMaM",
+  "Google Place URL": "https://maps.google.com/?cid=11759340388410158736",
+  "Latitude": "45.617894",
+  "Longitude": "9.214345",
+  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE",
+  "Orario di apertura": null
 }
