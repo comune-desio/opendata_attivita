@@ -1,15 +1,145 @@
-﻿{
+{
   "UUID": "35c13035-b32a-485c-88d6-be83386bd03f",
   "Categoria": "",
+  "Categorie Google": [
+    "florist",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "LA BAITA DEL FIORE SNC",
-  "Indirizzo": "VIA SAN PIETRO N.32",
-  "Sito": "http://www.xpizza.it",
-  "Telefono": "0362 629200",
+  "Nome Visualizzato": "La Baita Del Fiore Snc",
+  "Indirizzo": "Via Fratelli Cervi, 4, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=2555944075059776925",
+  "E-mail": null,
+  "Telefono": "+39 0362 623694",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 27 : ORTOFRUTTA-PESCHERIE-FIORI-PIZZA AL TAGLIO"
+  "Google Place ID": "ChIJp-Ih1Dy8hkcRnc2zI5iJeCM",
+  "Google Place URL": "https://maps.google.com/?cid=2555944075059776925",
+  "Latitude": "45.6185618",
+  "Longitude": "9.2071139",
+  "Categoria catastale": "N Non Domestica 27 : ORTOFRUTTA-PESCHERIE-FIORI-PIZZA AL TAGLIO",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 0,
+        "time": "0830"
+      },
+      "close": {
+        "day": 0,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 1,
+        "time": "1530"
+      },
+      "close": {
+        "day": 1,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0830"
+      },
+      "close": {
+        "day": 2,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "1530"
+      },
+      "close": {
+        "day": 2,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0830"
+      },
+      "close": {
+        "day": 3,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "1530"
+      },
+      "close": {
+        "day": 3,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0830"
+      },
+      "close": {
+        "day": 4,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "1530"
+      },
+      "close": {
+        "day": 4,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0830"
+      },
+      "close": {
+        "day": 5,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "1530"
+      },
+      "close": {
+        "day": 5,
+        "time": "1930"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "0830"
+      },
+      "close": {
+        "day": 6,
+        "time": "1230"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "1530"
+      },
+      "close": {
+        "day": 6,
+        "time": "1930"
+      }
+    }
+  ]
 }
