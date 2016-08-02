@@ -1,14 +1,23 @@
-﻿{
+{
   "UUID": "7fc6a6e1-743f-4930-8faf-9dbeabcad3e8",
   "Categoria": "",
+  "Categorie Google": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "POVOLATO PIERPAOLO",
-  "Indirizzo": "VIA SAN PIETRO N.32/T",
-  "Telefono": "0362621050",
+  "Nome Visualizzato": "Povolato Pierpaolo",
+  "Indirizzo": "Via Lombardia, 2, 20832 Desio MB, Italy",
+  "Sito": "https://maps.google.com/?cid=7600750185461930284",
+  "E-mail": null,
+  "Telefono": "+39 0362 621050",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE"
+  "Google Place ID": "ChIJlRWYej28hkcRLFnx7gVKe2k",
+  "Google Place URL": "https://maps.google.com/?cid=7600750185461930284",
+  "Latitude": "45.6198652",
+  "Longitude": "9.210254",
+  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE",
+  "Orario di apertura": null
 }
