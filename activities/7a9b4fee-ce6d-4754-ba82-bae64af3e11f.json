@@ -1,14 +1,22 @@
-﻿{
+{
   "UUID": "7a9b4fee-ce6d-4754-ba82-bae64af3e11f",
   "Categoria": "",
+  "Categorie Google": [
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "SCACCO SRL UNIPERSONALE",
-  "Indirizzo": "VIA DELLE ROSE N.6",
-  "Telefono": "0362 302726",
+  "Nome Visualizzato": "Scacco Srl",
+  "Indirizzo": "Via delle Rose, 6, 20832 Nova Milanese MB, Italy",
+  "Sito": "https://maps.google.com/?cid=6088060877035655122",
+  "E-mail": null,
+  "Telefono": "+39 0362 302726",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 23 : MENSE-BIRRERIE-AMBURGHERIE"
+  "Google Place ID": "ChIJm0xU25m-hkcR0s-pmhwjfVQ",
+  "Google Place URL": "https://maps.google.com/?cid=6088060877035655122",
+  "Latitude": "45.6003457",
+  "Longitude": "9.2004059",
+  "Categoria catastale": "N Non Domestica 23 : MENSE-BIRRERIE-AMBURGHERIE",
+  "Orario di apertura": null
 }
