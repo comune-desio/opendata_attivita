@@ -1,14 +1,86 @@
-﻿{
+{
   "UUID": "12f7548f-d341-4274-8f81-b2619e79034f",
   "Categoria": "",
+  "Categorie Google": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "VELIERO SAS DI VERGANI LUCA & C.",
-  "Indirizzo": "VIA ORTIGARA N.137 N.137",
-  "e-mail": "velierosas@gmail.com",
+  "Nome Visualizzato": "Veliero Sas di Vergani Luca",
+  "Indirizzo": "Via ortigara angolo via Vercesi, 20832 Desio MB, Italy",
+  "Sito": "http://www.pizzeriaveliero.it/",
+  "E-mail": "velierosas@gmail.com",
+  "Telefono": "+39 0362 620047",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 23 : MENSE-BIRRERIE-AMBURGHERIE"
+  "Google Place ID": "ChIJoacRaR-8hkcRkPXVlvH6Lfg",
+  "Google Place URL": "https://maps.google.com/?cid=17883225610882774416",
+  "Latitude": "45.612003",
+  "Longitude": "9.209096",
+  "Categoria catastale": "N Non Domestica 23 : MENSE-BIRRERIE-AMBURGHERIE",
+  "Orario di apertura": [
+    {
+      "open": {
+        "day": 0,
+        "time": "0900"
+      },
+      "close": {
+        "day": 0,
+        "time": "1700"
+      }
+    },
+    {
+      "open": {
+        "day": 2,
+        "time": "0900"
+      },
+      "close": {
+        "day": 2,
+        "time": "1700"
+      }
+    },
+    {
+      "open": {
+        "day": 3,
+        "time": "0900"
+      },
+      "close": {
+        "day": 3,
+        "time": "1700"
+      }
+    },
+    {
+      "open": {
+        "day": 4,
+        "time": "0900"
+      },
+      "close": {
+        "day": 4,
+        "time": "1700"
+      }
+    },
+    {
+      "open": {
+        "day": 5,
+        "time": "0900"
+      },
+      "close": {
+        "day": 5,
+        "time": "1700"
+      }
+    },
+    {
+      "open": {
+        "day": 6,
+        "time": "0900"
+      },
+      "close": {
+        "day": 6,
+        "time": "1700"
+      }
+    }
+  ]
 }
