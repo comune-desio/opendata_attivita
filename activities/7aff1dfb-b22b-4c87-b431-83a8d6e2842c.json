@@ -1,16 +1,23 @@
-﻿{
+{
   "UUID": "7aff1dfb-b22b-4c87-b431-83a8d6e2842c",
   "Categoria": "",
+  "Categorie Google": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
   "Ragione Sociale": "VACCARI SRL",
-  "Indirizzo": "VIA AGNESI N.47",
-  "Sito": "http://www.vaccari.it",
-  "e-mail": " info@vaccari.it",
-  "Telefono": "0362 308109",
+  "Nome Visualizzato": "Vaccari S.R.L.",
+  "Indirizzo": "Via Agnesi Gaetana, 47, 20832 Desio MB, Italy",
+  "Sito": "http://www.vaccari.it/",
+  "E-mail": " info@vaccari.it",
+  "Telefono": "+39 0362 308109",
   "Facebook ID": "",
   "Facebook URL": "",
-  "Google Place ID": "",
-  "Google Place URL": "",
-  "Latitude": "",
-  "Longitude": "",
-  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE"
+  "Google Place ID": "ChIJZwk3SCa8hkcRlnwbGyFozpY",
+  "Google Place URL": "https://maps.google.com/?cid=10866737442289581206",
+  "Latitude": "45.61242",
+  "Longitude": "9.19833",
+  "Categoria catastale": "N Non Domestica 24 : BAR-CAFFETTERIE-PASTICCERIE",
+  "Orario di apertura": null
 }
