@@ -68,14 +68,21 @@ end
 activities_path = "activities"
 master = read_json(path: "master.json")
 geojson_records = []
+not_found_records = []
 records = master.map do |item|
   record = read_json(path: File.join(activities_path, "#{item["UUID"]}.json"))
   if !blank?(record["Latitude"]) && !blank?(record["Longitude"])
     geojson_records << record
+  else
+    not_found_records << record
   end
   record
 end
 build_path = "build"
 FileUtils.mkdir_p(build_path)
+puts "Records: #{records.count}"
 write_json(path: File.join(build_path, "bundle.json"), content: records)
+puts "Records with GPS coordinates: #{geojson_records.count}"
 write_geojson(path: File.join(build_path, "bundle.geojson"), content: geojson_records)
+puts "Records without GPS coordinates: #{not_found_records.count}"
+write_geojson(path: File.join(build_path, "not_found.json"), content: not_found_records)
