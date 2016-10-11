@@ -64,7 +64,7 @@ def write_geojson(path:, content:)
   }
   write_json(path: path, content: geojson_content)
 end
-
+geocode_dictionary = read_json(path: "data/geocode_dictionary.json")
 activities_path = "activities"
 master = read_json(path: "master.json")
 geojson_records = []
@@ -74,7 +74,16 @@ records = master.map do |item|
   if !blank?(record["Latitude"]) && !blank?(record["Longitude"])
     geojson_records << record
   else
-    not_found_records << record
+    geocoding_info = geocode_dictionary[record["Indirizzo"].downcase]
+    if geocoding_info
+      record["Indirizzo"] = geocoding_info["formatted_address"]
+      record["Latitude"] = geocoding_info["location"]["lat"].to_s
+      record["Longitude"] = geocoding_info["location"]["lng"].to_s
+      record["Google Place ID"] = geocoding_info["place_id"]
+      geojson_records << record
+    else
+      not_found_records << record
+    end
   end
   record
 end

@@ -1,0 +1,5530 @@
+{
+  "via vercesi": {
+    "formatted_address": "Via Galileo Vercesi, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6119599,
+      "lng": 9.2090868
+    },
+    "place_id": "ChIJi_P9Zx-8hkcR-wpbMN8_EHI"
+  },
+  "via roma n.37": {
+    "formatted_address": "Via Roma, 37, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.615711,
+      "lng": 9.213557999999999
+    },
+    "place_id": "ChIJRX_Poxm8hkcRZjp3IqneswQ"
+  },
+  "via garibaldi n.271": {
+    "formatted_address": "Via Giuseppe Garibaldi, 271, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.608515,
+      "lng": 9.2037099
+    },
+    "place_id": "ChIJbz1sLp6-hkcRxnkqATUBYOw"
+  },
+  "via lavoratori autobianchi n.2": {
+    "formatted_address": "Via Lavoratori Autobianchi, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62632259999999,
+      "lng": 9.2123147
+    },
+    "place_id": "EjVWaWEgTGF2b3JhdG9yaSBBdXRvYmlhbmNoaSwgMiwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via mazzini-sede via enaudi 6 n.34": {
+    "formatted_address": "20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6189486,
+      "lng": 9.198744
+    },
+    "place_id": "ChIJm3FsdCO8hkcRgM0fgAV4Bhw"
+  },
+  "via adria n.10": {
+    "formatted_address": "Via Adria, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.610392,
+      "lng": 9.193503
+    },
+    "place_id": "ChIJXyQWLii8hkcRXhThwhKTceY"
+  },
+  "via pozzo antico n.24": {
+    "formatted_address": "Via Pozzo Antico, 24, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616057,
+      "lng": 9.207676
+    },
+    "place_id": "ChIJnzSe9iK8hkcR2ZnH21QsSFM"
+  },
+  "via garibaldi n.51": {
+    "formatted_address": "Via Giuseppe Garibaldi, 51, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6156057,
+      "lng": 9.2065208
+    },
+    "place_id": "EjJWaWEgR2l1c2VwcGUgR2FyaWJhbGRpLCA1MSwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via monti n.128": {
+    "formatted_address": "Via Vincenzo Monti, 128, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6131153,
+      "lng": 9.2246959
+    },
+    "place_id": "ChIJg93lFAS8hkcRRTRnHpMw1K8"
+  },
+  "via trincea delle frasch n.4": {
+    "formatted_address": "Via Trincea delle Frasche, 4, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.63356,
+      "lng": 9.1950433
+    },
+    "place_id": "ChIJY0lChku8hkcR5Unwwb5v334"
+  },
+  "via don luigi sturzo n.8": {
+    "formatted_address": "Via Don Luigi Sturzo, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.606469,
+      "lng": 9.179459999999999
+    },
+    "place_id": "ChIJ8xtpg36-hkcRqIUUdfDFBXE"
+  },
+  "via xxv aprile n.11": {
+    "formatted_address": "Via XXV Aprile, 11, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.619783,
+      "lng": 9.2157044
+    },
+    "place_id": "ChIJiYdYJhe8hkcR0PwoRzYvT3E"
+  },
+  "via diaz n.10": {
+    "formatted_address": "Via Armando Diaz, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6194689,
+      "lng": 9.2067552
+    },
+    "place_id": "ChIJTblt3Ty8hkcRCvymrbiNbxA"
+  },
+  "via rossini n.139": {
+    "formatted_address": "Via Gioacchino Rossini, 139, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.610996,
+      "lng": 9.22185
+    },
+    "place_id": "ChIJ8T9zDQO8hkcRma7khXz4_xo"
+  },
+  "via lavoratori autobianchi n.1": {
+    "formatted_address": "Via Lavoratori Autobianchi, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.626341,
+      "lng": 9.213913
+    },
+    "place_id": "ChIJsUf0DkC8hkcRkjAU5no2j0c"
+  },
+  "via case nuove n.4": {
+    "formatted_address": "Via Case Nuove, 4, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616208,
+      "lng": 9.210134
+    },
+    "place_id": "ChIJOcGFehi8hkcRYj91rz9amE4"
+  },
+  "via gioia n.16": {
+    "formatted_address": "Via Flavio Gioia, 16, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6128279,
+      "lng": 9.204643599999999
+    },
+    "place_id": "ChIJjVticiG8hkcRGA6_JLU3ea4"
+  },
+  "via forlanini n.69": {
+    "formatted_address": "Via Carlo Forlanini, 69, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.614025,
+      "lng": 9.220211
+    },
+    "place_id": "ChIJ_wLcMxu8hkcRsF_LLmFi14w"
+  },
+  "via milano n.219": {
+    "formatted_address": "Via Milano, 219, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6208865,
+      "lng": 9.1987501
+    },
+    "place_id": "ChIJ2z8_fzC8hkcRdble82hjyUk"
+  },
+  "via garibaldi": {
+    "formatted_address": "Via Giuseppe Garibaldi, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6119346,
+      "lng": 9.2049465
+    },
+    "place_id": "ChIJH2cELJ6-hkcRfyknwdFF5QY"
+  },
+  "via nizza n.17": {
+    "formatted_address": "Via Nizza, 17, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6249759,
+      "lng": 9.1962786
+    },
+    "place_id": "ChIJqUh_wDa8hkcRjjzlhVekGk8"
+  },
+  "via tagliabue n.91": {
+    "formatted_address": "Via Umberto Tagliabue, 91, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62246,
+      "lng": 9.2271497
+    },
+    "place_id": "EjFWaWEgVW1iZXJ0byBUYWdsaWFidWUsIDkxLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via don luigi sturzo n.1": {
+    "formatted_address": "Via Don Luigi Sturzo, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6061421,
+      "lng": 9.1769157
+    },
+    "place_id": "ChIJ8eDP-Hu-hkcRGYW8L6nTtnA"
+  },
+  "via volta n.94": {
+    "formatted_address": "Via Alessandro Volta, 94, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6235119,
+      "lng": 9.2129414
+    },
+    "place_id": "ChIJN9gV7BW8hkcRvDT5AEwZZX4"
+  },
+  "via caravaggio n.2/b": {
+    "formatted_address": "Via Caravaggio, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6044266,
+      "lng": 9.2047825
+    },
+    "place_id": "EilWaWEgQ2FyYXZhZ2dpbywgMiwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via lavoratori autobian n.1": {
+    "formatted_address": "Via Lavoratori Autobianchi, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.626341,
+      "lng": 9.213913
+    },
+    "place_id": "ChIJsUf0DkC8hkcRkjAU5no2j0c"
+  },
+  "via volta n.54": {
+    "formatted_address": "Via Alessandro Volta, 54, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.620466,
+      "lng": 9.2129239
+    },
+    "place_id": "ChIJnWkpTBa8hkcRS2xm4be2bBQ"
+  },
+  "via garibaldi n.6": {
+    "formatted_address": "Via Giuseppe Garibaldi, 6, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617011,
+      "lng": 9.206992
+    },
+    "place_id": "ChIJWzhA4CK8hkcRwT2mEP4gpFs"
+  },
+  "piazza don giussani n.13": {
+    "formatted_address": "Piazza Don Giussani, 13, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.620856,
+      "lng": 9.210469999999999
+    },
+    "place_id": "ChIJP9QahT28hkcR0AuQPWGV9wE"
+  },
+  "via mascagni n.83/a": {
+    "formatted_address": "Via Pietro Mascagni, 83a, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6071258,
+      "lng": 9.2191183
+    },
+    "place_id": "ChIJ9dACDqi-hkcRwRIXd3SreF4"
+  },
+  "via caravaggio n.26/a": {
+    "formatted_address": "Via Caravaggio, 26A, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6056611,
+      "lng": 9.2136845
+    },
+    "place_id": "ChIJaQJpIKe-hkcRi8Q0i1jqEac"
+  },
+  "via oslavia": {
+    "formatted_address": "Via Oslavia, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6054734,
+      "lng": 9.2064867
+    },
+    "place_id": "ChIJZcTb3aG-hkcRwGXWy6xyCbM"
+  },
+  "via leonardo da vinci n.8": {
+    "formatted_address": "Via Leonardo Da Vinci, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.611615,
+      "lng": 9.203272
+    },
+    "place_id": "ChIJTXvQJiG8hkcRzyGMNcSuCjQ"
+  },
+  "via giusti n.38": {
+    "formatted_address": "Via Giuseppe Giusti, 38, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.611458,
+      "lng": 9.21707
+    },
+    "place_id": "ChIJcaK49By8hkcRTBGjx2idskM"
+  },
+  "via leoncavallo n.4": {
+    "formatted_address": "Via Ruggero Leoncavallo, 4, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.606616,
+      "lng": 9.2178
+    },
+    "place_id": "ChIJ60YL3qe-hkcRFYEIqxYjZxQ"
+  },
+  "via tagliabue n.22": {
+    "formatted_address": "Via Umberto Tagliabue, 22, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6205427,
+      "lng": 9.220165699999999
+    },
+    "place_id": "EjFWaWEgVW1iZXJ0byBUYWdsaWFidWUsIDIyLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via nuova valassina n.144": {
+    "formatted_address": "Via Nuova Valassina, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61583299999999,
+      "lng": 9.2240798
+    },
+    "place_id": "ChIJK8yKgGq5hkcRKa4NzFN83u0"
+  },
+  "via dante n.10": {
+    "formatted_address": "Via Dante Alighieri, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62295899999999,
+      "lng": 9.206731999999999
+    },
+    "place_id": "ChIJDw0XHTy8hkcROq-i9upPD3o"
+  },
+  "via nuova valassina": {
+    "formatted_address": "Via Nuova Valassina, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61583299999999,
+      "lng": 9.2240798
+    },
+    "place_id": "ChIJK8yKgGq5hkcRKa4NzFN83u0"
+  },
+  "via foscolo n.24": {
+    "formatted_address": "Via Ugo Foscolo, 24, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6133502,
+      "lng": 9.204359199999999
+    },
+    "place_id": "EitWaWEgVWdvIEZvc2NvbG8sIDI0LCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via xx settembre n.38": {
+    "formatted_address": "Via XX Settembre, 38, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.620134,
+      "lng": 9.201815999999999
+    },
+    "place_id": "ChIJO3pu4Tq8hkcRsgCWLLkoP0Y"
+  },
+  "via edison n.12": {
+    "formatted_address": "Via Edison Tommaso, 12, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61727,
+      "lng": 9.21954
+    },
+    "place_id": "ChIJe1rYdxC8hkcRHG0iO5E09Jk"
+  },
+  "via giordano n.3": {
+    "formatted_address": "Via Umberto Giordano, 3, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6059624,
+      "lng": 9.2180391
+    },
+    "place_id": "Ei9WaWEgVW1iZXJ0byBHaW9yZGFubywgMywgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via garibaldi n.43": {
+    "formatted_address": "Via Giuseppe Garibaldi, 43, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616236,
+      "lng": 9.207075
+    },
+    "place_id": "ChIJ7Srv-yK8hkcRFffv5WoQt_I"
+  },
+  "piazza martiri di fossoli n.22": {
+    "formatted_address": "Piazza Martiri di Fossoli, 22, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6159229,
+      "lng": 9.2131142
+    },
+    "place_id": "ChIJo4tqsBm8hkcROI5RaQU3KAY"
+  },
+  "piazza conciliazione n.12": {
+    "formatted_address": "Piazza Conciliazione, 12, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6168509,
+      "lng": 9.207714
+    },
+    "place_id": "ChIJiZP66CK8hkcRIiy7v-tIGGw"
+  },
+  "via diaz n.40": {
+    "formatted_address": "Via Armando Diaz, 40, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6186754,
+      "lng": 9.1995404
+    },
+    "place_id": "ChIJicjrTSW8hkcRMoToiLKKx08"
+  },
+  "via milano n.360": {
+    "formatted_address": "Via Milano, 360, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.63,
+      "lng": 9.20524
+    },
+    "place_id": "ChIJ09f8qUe8hkcR6CD0WNLsHDc"
+  },
+  "corso italia n.2": {
+    "formatted_address": "Corso Italia, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617524,
+      "lng": 9.20739
+    },
+    "place_id": "ChIJQYeE2SK8hkcRlu7gCBFiSwU"
+  },
+  "via due palme n.101": {
+    "formatted_address": "Via Due Palme, 101, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6288984,
+      "lng": 9.2112379
+    },
+    "place_id": "ChIJKXyMXEC8hkcR4yTEbmkthVo"
+  },
+  "via per seregno n.38": {
+    "formatted_address": "Via per Seregno, 38, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6231107,
+      "lng": 9.2318613
+    },
+    "place_id": "ChIJlVRMqQu8hkcRH4MnedoslkI"
+  },
+  "via prati": {
+    "formatted_address": "Via Prati, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61280259999999,
+      "lng": 9.2127486
+    },
+    "place_id": "ChIJXTWoth68hkcRUMQ_uZWKIGw"
+  },
+  "via mulinello n.28": {
+    "formatted_address": "Via Mulinello, 28, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6319792,
+      "lng": 9.178383
+    },
+    "place_id": "ChIJ7agQNri9hkcRCHnexnueqjo"
+  },
+  "via sauro n.15": {
+    "formatted_address": "Via Nazario Sauro, 15, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.621586,
+      "lng": 9.207637
+    },
+    "place_id": "ChIJ2VsgRjy8hkcROzwNbIymPA0"
+  },
+  "via manzoni n.38": {
+    "formatted_address": "Via Alessandro Manzoni, 38, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61277399999999,
+      "lng": 9.208368
+    },
+    "place_id": "ChIJk2O34iG8hkcRhjEnnbVuBUw"
+  },
+  "via pellico n.17": {
+    "formatted_address": "Via Silvio Pellico, 17, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62106740000001,
+      "lng": 9.2141792
+    },
+    "place_id": "Ei5WaWEgU2lsdmlvIFBlbGxpY28sIDE3LCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via lombardia n.16": {
+    "formatted_address": "Via Lombardia, 16, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.620035,
+      "lng": 9.2110679
+    },
+    "place_id": "ChIJKQsg1Be8hkcRVVAup1Ahkbo"
+  },
+  "via caravaggio n.26": {
+    "formatted_address": "Via Caravaggio, 26, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6056592,
+      "lng": 9.2136852
+    },
+    "place_id": "ChIJ5QgHWJ--hkcRpTu1dXQj7yY"
+  },
+  "via volta n.81": {
+    "formatted_address": "Via Alessandro Volta, 81, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62410300000001,
+      "lng": 9.211609
+    },
+    "place_id": "ChIJPYqZIz68hkcRNWgAa1NdawI"
+  },
+  "via diaz n.14 int.1": {
+    "formatted_address": "Via Armando Diaz, 14, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61925799999999,
+      "lng": 9.205499999999999
+    },
+    "place_id": "ChIJi7Rcuzy8hkcRFT9sGkbuMd8"
+  },
+  "via pozzo antico n.116": {
+    "formatted_address": "Via Pozzo Antico, 116, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.611993,
+      "lng": 9.210122
+    },
+    "place_id": "ChIJf19AFh-8hkcR_TiD753I_vo"
+  },
+  "piazza cavour n.18": {
+    "formatted_address": "Piazza Camillo Benso Conte di Cavour, 18, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61708300000001,
+      "lng": 9.211477
+    },
+    "place_id": "ChIJl3bLPRi8hkcR7xP_LOGXa7Q"
+  },
+  "via garibaldi n.275": {
+    "formatted_address": "Via Giuseppe Garibaldi, 275, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6083052,
+      "lng": 9.203752399999999
+    },
+    "place_id": "ChIJpUKjLZ6-hkcRgk9N7T4LZHw"
+  },
+  "via mascagni n.81": {
+    "formatted_address": "Via Pietro Mascagni, 81, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.606669,
+      "lng": 9.2197999
+    },
+    "place_id": "ChIJB8OObKi-hkcRXbYkJ4Hamng"
+  },
+  "via olmetto n.4": {
+    "formatted_address": "Via Olmetto, 4, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6157218,
+      "lng": 9.206846299999999
+    },
+    "place_id": "EiZWaWEgT2xtZXR0bywgNCwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via pozzo antico n.51": {
+    "formatted_address": "Via Pozzo Antico, 51, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6127738,
+      "lng": 9.2097474
+    },
+    "place_id": "ChIJiSvoSR-8hkcRlLcsgjzvwh8"
+  },
+  "via san pietro n.15": {
+    "formatted_address": "Via S. Pietro, 15, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6186865,
+      "lng": 9.210430500000001
+    },
+    "place_id": "EilWaWEgUy4gUGlldHJvLCAxNSwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via galeno n.45": {
+    "formatted_address": "Via Galeno, 45, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61225,
+      "lng": 9.206987
+    },
+    "place_id": "ChIJCZpKwCG8hkcRgP_IhNs_mw4"
+  },
+  "via f.lli cervi n.25": {
+    "formatted_address": "20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6189486,
+      "lng": 9.198744
+    },
+    "place_id": "ChIJm3FsdCO8hkcRgM0fgAV4Bhw"
+  },
+  "piazza giotto n.20": {
+    "formatted_address": "Piazza Giotto, 20, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6208,
+      "lng": 9.2267
+    },
+    "place_id": "ChIJa0m8kA68hkcR1ghd4yt9tYM"
+  },
+  "via milano n.187": {
+    "formatted_address": "Via Milano, 187, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6174233,
+      "lng": 9.1998836
+    },
+    "place_id": "ChIJQfQOFCW8hkcRnqzsMh-kV2o"
+  },
+  "via garibaldi n.257": {
+    "formatted_address": "Via Giuseppe Garibaldi, 257, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.611531,
+      "lng": 9.204727
+    },
+    "place_id": "ChIJFSjcAyG8hkcRPy8ELopmXks"
+  },
+  "via don milani n.2": {
+    "formatted_address": "Via Don Milani, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6222329,
+      "lng": 9.1923879
+    },
+    "place_id": "EilWaWEgRG9uIE1pbGFuaSwgMiwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via lombardia n.23": {
+    "formatted_address": "Via Lombardia, 23, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6207031,
+      "lng": 9.2132866
+    },
+    "place_id": "ChIJKc9AUBa8hkcRVc1dxg5tlhc"
+  },
+  "via don minzoni n.7": {
+    "formatted_address": "Via Don Giovanni Minzoni, 7, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61760400000001,
+      "lng": 9.195632
+    },
+    "place_id": "ChIJ3Rm6sy-8hkcRWVKCFdS2IG4"
+  },
+  "via pozzo antico n.60": {
+    "formatted_address": "Via Pozzo Antico, 60, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6151724,
+      "lng": 9.2084286
+    },
+    "place_id": "ChIJURevcSK8hkcRbObwmXGSQF0"
+  },
+  "via diaz n.8": {
+    "formatted_address": "Via Armando Diaz, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6194913,
+      "lng": 9.2072539
+    },
+    "place_id": "ChIJQ3tW5zy8hkcRVd0ZAR1g9AU"
+  },
+  "via lampugnani n.78 int.1": {
+    "formatted_address": "Via Giovanni Maria Lampugnani, 78, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6180319,
+      "lng": 9.2158094
+    },
+    "place_id": "ChIJk1hnUhe8hkcRMBFFncwrXz4"
+  },
+  "via xxv aprile n.20": {
+    "formatted_address": "Via XXV Aprile, 20, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62006299999999,
+      "lng": 9.215558
+    },
+    "place_id": "ChIJcV0z3xa8hkcRpcGSKz1pVUA"
+  },
+  "via garibaldi n.258/t": {
+    "formatted_address": "Via Giuseppe Garibaldi, 258, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.609054,
+      "lng": 9.203624999999999
+    },
+    "place_id": "ChIJvXmvgiC8hkcRzwy8xtfxgns"
+  },
+  "via grandi n.41": {
+    "formatted_address": "Via Achille Grandi, 41, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6152156,
+      "lng": 9.2102595
+    },
+    "place_id": "ChIJQzF4jhi8hkcRGeJDxCUsuWQ"
+  },
+  "via cadore n.10": {
+    "formatted_address": "Via Cadore, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.608762,
+      "lng": 9.2031379
+    },
+    "place_id": "ChIJIb0BJJ6-hkcRkWDYnJr0sRQ"
+  },
+  "via brennero n.22": {
+    "formatted_address": "Via Brennero, 22, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62619,
+      "lng": 9.211917
+    },
+    "place_id": "ChIJewGFwj-8hkcRxmUe_AOb7gw"
+  },
+  "via diaz n.7": {
+    "formatted_address": "Via Armando Diaz, 7, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.618944,
+      "lng": 9.203303000000002
+    },
+    "place_id": "ChIJA6mfSTu8hkcRmb_h8qyqcVs"
+  },
+  "via podgora n.4": {
+    "formatted_address": "Via Podgora, 4, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62763289999999,
+      "lng": 9.206470399999999
+    },
+    "place_id": "ChIJM_cmpzi8hkcR7Zu_FqhRQUs"
+  },
+  "via garibaldi n.265": {
+    "formatted_address": "Via Giuseppe Garibaldi, 265, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.609133,
+      "lng": 9.203866
+    },
+    "place_id": "ChIJs2xJgiC8hkcRfV-291jNikk"
+  },
+  "via garibaldi n.81": {
+    "formatted_address": "Via Giuseppe Garibaldi, 81, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.615142,
+      "lng": 9.206386
+    },
+    "place_id": "ChIJeUbqTCK8hkcRo2hsTpUpOVo"
+  },
+  "via gramsci n.18": {
+    "formatted_address": "Via Antonio Gramsci, 18, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61965,
+      "lng": 9.20956
+    },
+    "place_id": "ChIJhT8hbD28hkcRtyFsFziZAGg"
+  },
+  "via garibaldi n.99": {
+    "formatted_address": "Via Giuseppe Garibaldi, 99, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.614697,
+      "lng": 9.205971
+    },
+    "place_id": "ChIJh4D2yiO8hkcRzrua3NN9yz8"
+  },
+  "piazza martiri di fossoli n.23": {
+    "formatted_address": "Piazza Martiri di Fossoli, 23, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6158774,
+      "lng": 9.212867600000001
+    },
+    "place_id": "ChIJQRwXrxm8hkcR4u-GJ3tVAmc"
+  },
+  "via romagna": {
+    "formatted_address": "Via Romagna, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6057414,
+      "lng": 9.1965712
+    },
+    "place_id": "ChIJiau0C5u-hkcRg0PjGlGNCW8"
+  },
+  "via borghetto n.33": {
+    "formatted_address": "Via Borghetto, 33, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6143177,
+      "lng": 9.2042647
+    },
+    "place_id": "ChIJx5Wz7iO8hkcRbykai77-jOw"
+  },
+  "via gramsci n.12": {
+    "formatted_address": "Via Antonio Gramsci, 12, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61972720000001,
+      "lng": 9.2092022
+    },
+    "place_id": "Ei9WaWEgQW50b25pbyBHcmFtc2NpLCAxMiwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via binzago n.98": {
+    "formatted_address": "Via per Binzago, 98, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62381999999999,
+      "lng": 9.180019999999999
+    },
+    "place_id": "ChIJe1qg4c69hkcR3DJaJ3fqKlo"
+  },
+  "via meda n.5": {
+    "formatted_address": "Via Filippo Meda, 5, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.625362,
+      "lng": 9.229818999999999
+    },
+    "place_id": "ChIJ1fyfqAy8hkcR83RqcdRvQLQ"
+  },
+  "via caravaggio n.30": {
+    "formatted_address": "Via Caravaggio, 30, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.60725,
+      "lng": 9.21811
+    },
+    "place_id": "ChIJpQ8z46e-hkcRjYe5az1EVWo"
+  },
+  "via brianza n.46": {
+    "formatted_address": "Via Brianza, 46, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6240722,
+      "lng": 9.204687
+    },
+    "place_id": "ChIJmfHAaTm8hkcR6oHkHR802_I"
+  },
+  "via boltraffio": {
+    "formatted_address": "Via Boltraffio, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62654819999999,
+      "lng": 9.232654199999999
+    },
+    "place_id": "ChIJVQq7znS8hkcRC1wclq8QWac"
+  },
+  "via solferino n.55": {
+    "formatted_address": "Via Solferino, 55, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.627516,
+      "lng": 9.188734
+    },
+    "place_id": "ChIJFcWrxMq9hkcR7szrBZ1rF2E"
+  },
+  "corso italia n.152": {
+    "formatted_address": "Corso Italia, 152, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.625902,
+      "lng": 9.207106999999999
+    },
+    "place_id": "ChIJOd65LT-8hkcRtTWz41ENntg"
+  },
+  "via molinara": {
+    "formatted_address": "Via Molinara, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6231781,
+      "lng": 9.218564800000001
+    },
+    "place_id": "ChIJT1ksuRO8hkcRDtAWDilCWkg"
+  },
+  "via lavoratori autobianchi n.59": {
+    "formatted_address": "Via Lavoratori Autobianchi, 59, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62632259999999,
+      "lng": 9.2123147
+    },
+    "place_id": "EjZWaWEgTGF2b3JhdG9yaSBBdXRvYmlhbmNoaSwgNTksIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via lavoratori autobianchi n.50": {
+    "formatted_address": "Via Lavoratori Autobianchi, 50, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62632259999999,
+      "lng": 9.2123147
+    },
+    "place_id": "EjZWaWEgTGF2b3JhdG9yaSBBdXRvYmlhbmNoaSwgNTAsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via lavoratori autobianchi n.45": {
+    "formatted_address": "Via Lavoratori Autobianchi, 45, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62632259999999,
+      "lng": 9.2123147
+    },
+    "place_id": "EjZWaWEgTGF2b3JhdG9yaSBBdXRvYmlhbmNoaSwgNDUsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via podgora n.28": {
+    "formatted_address": "Via Podgora, 28, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6280197,
+      "lng": 9.207901
+    },
+    "place_id": "ChIJK8r4q0C8hkcRRro4bEI6BWk"
+  },
+  "via tagliabue n.60": {
+    "formatted_address": "Via Umberto Tagliabue, 60, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.620711,
+      "lng": 9.221039
+    },
+    "place_id": "ChIJ0z0ovhG8hkcRhWIHV9k42X4"
+  },
+  "via lecco n.32": {
+    "formatted_address": "Via Lecco, 32, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.622222,
+      "lng": 9.220442
+    },
+    "place_id": "ChIJA0l6KxK8hkcRICSJa0wOH7M"
+  },
+  "via dolomiti n.20": {
+    "formatted_address": "Via Dolomiti, 20, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6207468,
+      "lng": 9.1896145
+    },
+    "place_id": "EihWaWEgRG9sb21pdGksIDIwLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via brambilla n.6": {
+    "formatted_address": "Via Giovanni Brambilla, 6, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6189729,
+      "lng": 9.216882
+    },
+    "place_id": "ChIJEZcszxC8hkcRO9OSd7GPdPU"
+  },
+  "via tagliabue n.85": {
+    "formatted_address": "Via Umberto Tagliabue, 85, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6226174,
+      "lng": 9.2269931
+    },
+    "place_id": "ChIJ0__1Nwy8hkcR5OMFcTRcfx0"
+  },
+  "via milano n.217": {
+    "formatted_address": "Via Milano, 217, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6197955,
+      "lng": 9.1995022
+    },
+    "place_id": "ChIJS5O0njq8hkcRoG-XJZGhZD8"
+  },
+  "corso italia n.140": {
+    "formatted_address": "Corso Italia, 140, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6249619,
+      "lng": 9.207495999999999
+    },
+    "place_id": "ChIJ2yKv2z68hkcRUrHpMc--mCA"
+  },
+  "via don luigi sturzo n.2": {
+    "formatted_address": "Via Don Luigi Sturzo, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6060585,
+      "lng": 9.176978499999999
+    },
+    "place_id": "Ei9WaWEgRG9uIEx1aWdpIFN0dXJ6bywgMiwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "corso italia n.1": {
+    "formatted_address": "Corso Italia, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61731899999999,
+      "lng": 9.207357
+    },
+    "place_id": "ChIJbfmn3iK8hkcRE2XyVy2c9tw"
+  },
+  "via verdi": {
+    "formatted_address": "Via Giuseppe Verdi, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6127909,
+      "lng": 9.203875799999999
+    },
+    "place_id": "ChIJ6TV9QSG8hkcRziZpYQODLKE"
+  },
+  "via filippo da desio n.53": {
+    "formatted_address": "Via Filippo da Desio, 53, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62531500000001,
+      "lng": 9.2184709
+    },
+    "place_id": "ChIJnX0_YhO8hkcRoNgvFbZd23Y"
+  },
+  "viale sabotino n.53": {
+    "formatted_address": "Viale Sabotino, 53, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.60771,
+      "lng": 9.194099999999999
+    },
+    "place_id": "ChIJQwtg2YK-hkcRq0ROJABKXyA"
+  },
+  "via tagliabue": {
+    "formatted_address": "Via Umberto Tagliabue, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6213887,
+      "lng": 9.2235271
+    },
+    "place_id": "ChIJDYz82A28hkcRgpJEe1csTa0"
+  },
+  "via milano n.230": {
+    "formatted_address": "Via Milano, 230, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62549000000001,
+      "lng": 9.2028986
+    },
+    "place_id": "EidWaWEgTWlsYW5vLCAyMzAsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via santa liberata n.9": {
+    "formatted_address": "Via Santa Liberata, 9, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6088132,
+      "lng": 9.206617900000001
+    },
+    "place_id": "Ei1WaWEgU2FudGEgTGliZXJhdGEsIDksIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via binzago n.38": {
+    "formatted_address": "Via per Binzago, 38, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6236423,
+      "lng": 9.1878479
+    },
+    "place_id": "ChIJmbRCt8y9hkcRU_wcal3HfD0"
+  },
+  "via milano n.67": {
+    "formatted_address": "Via Milano, 67, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.606645,
+      "lng": 9.202257
+    },
+    "place_id": "ChIJ7-Gn9Z6-hkcRMugxhJE-EQY"
+  },
+  "via brennero n.43": {
+    "formatted_address": "Via Brennero, 43, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.625886,
+      "lng": 9.209959999999999
+    },
+    "place_id": "ChIJSRhNpj-8hkcR59XdRihVkG8"
+  },
+  "via garibaldi n.22": {
+    "formatted_address": "Via Giuseppe Garibaldi, 22, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.615927,
+      "lng": 9.206652
+    },
+    "place_id": "ChIJ8QiK_yK8hkcRp01xsRtqAHk"
+  },
+  "via garibaldi n.212": {
+    "formatted_address": "Via Giuseppe Garibaldi, 212, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61069699999999,
+      "lng": 9.204108999999999
+    },
+    "place_id": "ChIJd-jf7yC8hkcRssCU_qnd9YQ"
+  },
+  "via garibaldi n.190": {
+    "formatted_address": "Via Giuseppe Garibaldi, 190, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61154699999999,
+      "lng": 9.204805
+    },
+    "place_id": "ChIJXSRDASG8hkcRPJ-56XeQP-A"
+  },
+  "via milano n.222": {
+    "formatted_address": "Via Milano, 222, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.619766,
+      "lng": 9.199437999999999
+    },
+    "place_id": "ChIJz7UOpDq8hkcRIpekqVY6AwY"
+  },
+  "via garibaldi n.292": {
+    "formatted_address": "Via Giuseppe Garibaldi, 292, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6076561,
+      "lng": 9.202967800000001
+    },
+    "place_id": "ChIJIZOhSJ6-hkcRyuIIdKfVvRU"
+  },
+  "via monte santo n.15": {
+    "formatted_address": "Via Monte Santo, 15, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6261002,
+      "lng": 9.2061681
+    },
+    "place_id": "EitWaWEgTW9udGUgU2FudG8sIDE1LCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via matteotti n.22": {
+    "formatted_address": "Via Giacomo Matteotti, 22, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6170844,
+      "lng": 9.205502200000002
+    },
+    "place_id": "EjFWaWEgR2lhY29tbyBNYXR0ZW90dGksIDIyLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via arienti n.21/t": {
+    "formatted_address": "Via Arienti, 21, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6340316,
+      "lng": 9.191048499999999
+    },
+    "place_id": "ChIJQditWbO9hkcRBBgPMy4w2yk"
+  },
+  "via per cesano n.9/t": {
+    "formatted_address": "Via per Cesano Maderno, 9, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.623147,
+      "lng": 9.1977499
+    },
+    "place_id": "ChIJzzSJ2jC8hkcR0NX68c0j2Sk"
+  },
+  "via tripoli n.39 int.41": {
+    "formatted_address": "Via Tripoli, 39, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616084,
+      "lng": 9.20478
+    },
+    "place_id": "ChIJYxb_dSO8hkcRZeY06cnEa2s"
+  },
+  "via grandi n.30": {
+    "formatted_address": "Via Achille Grandi, 30, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61493,
+      "lng": 9.208434
+    },
+    "place_id": "ChIJ_V7jcSK8hkcR9GUF_4oJnrA"
+  },
+  "via gabellini n.19": {
+    "formatted_address": "Via Alberto Gabellini, 19, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62259299999999,
+      "lng": 9.20697
+    },
+    "place_id": "ChIJvzmgGTy8hkcRkgOHxPSp3Rc"
+  },
+  "via milano n.147": {
+    "formatted_address": "Via Milano, 147, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.614883,
+      "lng": 9.20044
+    },
+    "place_id": "ChIJN_BBMyS8hkcRHrjpc2e94Mk"
+  },
+  "via roggia traversi n.8": {
+    "formatted_address": "Via Roggia Traversi, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6186273,
+      "lng": 9.2080833
+    },
+    "place_id": "ChIJ35wxLj28hkcR6cTpPLZ6ohk"
+  },
+  "corso italia n.90": {
+    "formatted_address": "Corso Italia, 90, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.622373,
+      "lng": 9.2087679
+    },
+    "place_id": "ChIJA52S0j28hkcRQ6ce3vogtHA"
+  },
+  "via diaz n.8/t": {
+    "formatted_address": "Via Armando Diaz, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6194913,
+      "lng": 9.2072539
+    },
+    "place_id": "ChIJQ3tW5zy8hkcRVd0ZAR1g9AU"
+  },
+  "via mulinello": {
+    "formatted_address": "20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6189486,
+      "lng": 9.198744
+    },
+    "place_id": "ChIJm3FsdCO8hkcRgM0fgAV4Bhw"
+  },
+  "corso italia n.8": {
+    "formatted_address": "Corso Italia, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61773300000001,
+      "lng": 9.20754
+    },
+    "place_id": "ChIJ7wbG0CK8hkcR5DEpPP7Njec"
+  },
+  "via nuova valassina n.27": {
+    "formatted_address": "Via Nuova Valassina, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61583299999999,
+      "lng": 9.2240798
+    },
+    "place_id": "ChIJK8yKgGq5hkcRKa4NzFN83u0"
+  },
+  "via garibaldi n.253": {
+    "formatted_address": "Via Giuseppe Garibaldi, 253, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.609943,
+      "lng": 9.2043667
+    },
+    "place_id": "ChIJ2ZFhjCC8hkcRq2A-hCD8cus"
+  },
+  "via garibaldi n.97": {
+    "formatted_address": "Via Giuseppe Garibaldi, 97, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.614709,
+      "lng": 9.206033000000001
+    },
+    "place_id": "ChIJXVfryiO8hkcRUjgtuVAb2hM"
+  },
+  "via xxiv maggio n.4/a": {
+    "formatted_address": "Via XXIV Maggio, 4A, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617632,
+      "lng": 9.207989699999999
+    },
+    "place_id": "ChIJMev2xCK8hkcRi9zOECVj5Lw"
+  },
+  "via portichetto n.12": {
+    "formatted_address": "Via Portichetto, 12, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61725500000001,
+      "lng": 9.2097149
+    },
+    "place_id": "ChIJGSAepyK8hkcRQik2ob0r31U"
+  },
+  "vicolo borghetto n.4": {
+    "formatted_address": "Vicolo Borghetto, 4, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6151849,
+      "lng": 9.205969
+    },
+    "place_id": "ChIJ953bsyO8hkcRBcWpRIIJ9EU"
+  },
+  "via mons. cattaneo n.27": {
+    "formatted_address": "Via Monsignor Celestino Cattaneo, 27, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.618424,
+      "lng": 9.205352999999999
+    },
+    "place_id": "ChIJJa8rszy8hkcRMfUWeHmxa5Y"
+  },
+  "via matteotti n.33/t": {
+    "formatted_address": "Via Giacomo Matteotti, 33, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616928,
+      "lng": 9.204848
+    },
+    "place_id": "ChIJpd8nbyO8hkcRbcBAo378qtY"
+  },
+  "via milano n.193": {
+    "formatted_address": "Via Milano, 193, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61793,
+      "lng": 9.199589
+    },
+    "place_id": "ChIJKSxBQSW8hkcRp8eZDGdpgx8"
+  },
+  "via per seregno n.1/t": {
+    "formatted_address": "Via per Seregno, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.620816,
+      "lng": 9.232809999999999
+    },
+    "place_id": "ChIJl8xVigm8hkcRipOSyBidgXU"
+  },
+  "via olimpiadi n.48/t": {
+    "formatted_address": "Via Olimpiadi, 48, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.631696,
+      "lng": 9.1966059
+    },
+    "place_id": "ChIJK5EX2ku8hkcRIjwYRhO8f0s"
+  },
+  "via garibaldi n.253 int.1": {
+    "formatted_address": "Via Giuseppe Garibaldi, 253, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61010840000001,
+      "lng": 9.2050086
+    },
+    "place_id": "ChIJJ80BXiC8hkcRXyMMcMFL2Ys"
+  },
+  "via garibaldi n.11 int.2": {
+    "formatted_address": "Via Giuseppe Garibaldi, 11, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616742,
+      "lng": 9.207055
+    },
+    "place_id": "ChIJYYTE4yK8hkcR01whn4uYMUQ"
+  },
+  "via lavoratori autobian n.92": {
+    "formatted_address": "Via Lavoratori Autobianchi, 92, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62632259999999,
+      "lng": 9.2123147
+    },
+    "place_id": "EjZWaWEgTGF2b3JhdG9yaSBBdXRvYmlhbmNoaSwgOTIsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via lavoratori autobian n.1/19": {
+    "formatted_address": "Via Lavoratori Autobianchi, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.626341,
+      "lng": 9.213913
+    },
+    "place_id": "ChIJsUf0DkC8hkcRkjAU5no2j0c"
+  },
+  "corso italia n.183/t": {
+    "formatted_address": "Corso Italia, 183, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.624923,
+      "lng": 9.207272999999999
+    },
+    "place_id": "ChIJr9uC2j68hkcR7-ipqpOGinY"
+  },
+  "via garibaldi n.145/t": {
+    "formatted_address": "Via Giuseppe Garibaldi, 145, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.613254,
+      "lng": 9.205563
+    },
+    "place_id": "ChIJTSXqeCG8hkcR7PhgcZwrg7E"
+  },
+  "via forlanini n.71 int.1": {
+    "formatted_address": "Via Carlo Forlanini, 71, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.613104,
+      "lng": 9.220602
+    },
+    "place_id": "ChIJdbcmsgS8hkcRAljiXC-skSM"
+  },
+  "corso italia n.89/t": {
+    "formatted_address": "Corso Italia, 89, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6203,
+      "lng": 9.207647999999999
+    },
+    "place_id": "ChIJn_oc_Dy8hkcRfzUydm_3tqM"
+  },
+  "via matteotti n.32 int.1": {
+    "formatted_address": "Via Giacomo Matteotti, 32, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6170479,
+      "lng": 9.2052859
+    },
+    "place_id": "ChIJGcQFayO8hkcR_tkMsDWOKiU"
+  },
+  "via xxiv maggio n.5": {
+    "formatted_address": "Via XXIV Maggio, 5, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617674,
+      "lng": 9.207872
+    },
+    "place_id": "ChIJXYvmzyK8hkcRu9AJyQs2dUk"
+  },
+  "via filippo da desio n.81/a": {
+    "formatted_address": "Via Filippo da Desio, 81A, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6284,
+      "lng": 9.21702
+    },
+    "place_id": "ChIJKbKjGWu8hkcRQeCaTb7pZP4"
+  },
+  "via verdi n.74": {
+    "formatted_address": "Via Giuseppe Verdi, 74, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.612407,
+      "lng": 9.203821
+    },
+    "place_id": "ChIJV9ZOPiG8hkcR3-YELT89Un0"
+  },
+  "via l. einaudi n.8": {
+    "formatted_address": "Via Luigi Einaudi, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.604813,
+      "lng": 9.2154399
+    },
+    "place_id": "ChIJ0VmhRKa-hkcRukL-W_jJLwg"
+  },
+  "via garibaldi n.271/a": {
+    "formatted_address": "Via Giuseppe Garibaldi, 271A, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.608479,
+      "lng": 9.203733999999999
+    },
+    "place_id": "ChIJxR0MLp6-hkcR9P_ERBQWKNw"
+  },
+  "via boccaccio n.3": {
+    "formatted_address": "Via Giovanni Boccaccio, 3, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61861589999999,
+      "lng": 9.2061771
+    },
+    "place_id": "ChIJ4fznyzy8hkcRE1vHKYBWvXI"
+  },
+  "via matteotti n.10": {
+    "formatted_address": "Via Giacomo Matteotti, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617447,
+      "lng": 9.206534
+    },
+    "place_id": "ChIJzbxwJCO8hkcRUsjrgYiL6wc"
+  },
+  "via garibaldi n.101": {
+    "formatted_address": "Via Giuseppe Garibaldi, 101, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.614252,
+      "lng": 9.206018
+    },
+    "place_id": "ChIJrSK0MiK8hkcRVPGeN_30lIE"
+  },
+  "via san pietro n.32": {
+    "formatted_address": "Via S. Pietro, 32, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6197064,
+      "lng": 9.2102123
+    },
+    "place_id": "ChIJm_COZT28hkcRjSvGTRhV60Q"
+  },
+  "via milano n.147 int.2": {
+    "formatted_address": "Via Milano, 147, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.614883,
+      "lng": 9.20044
+    },
+    "place_id": "ChIJN_BBMyS8hkcRHrjpc2e94Mk"
+  },
+  "via per seregno n.31": {
+    "formatted_address": "Via per Seregno, 31, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6219449,
+      "lng": 9.232324
+    },
+    "place_id": "ChIJIcO8Ngq8hkcRTNkf49IVgkk"
+  },
+  "via volta n.98": {
+    "formatted_address": "Via Alessandro Volta, 98, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6246723,
+      "lng": 9.211454699999999
+    },
+    "place_id": "EjBWaWEgQWxlc3NhbmRybyBWb2x0YSwgOTgsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via verdi n.80": {
+    "formatted_address": "Via Giuseppe Verdi, 80, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.611852,
+      "lng": 9.203842
+    },
+    "place_id": "ChIJE8FgGCG8hkcRoBSZjXfyft0"
+  },
+  "via forlanini n.36": {
+    "formatted_address": "Via Carlo Forlanini, 36, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.618068,
+      "lng": 9.2178189
+    },
+    "place_id": "Ei9WaWEgQ2FybG8gRm9ybGFuaW5pLCAzNiwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via garibaldi n.207": {
+    "formatted_address": "Via Giuseppe Garibaldi, 207, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.612075,
+      "lng": 9.205036
+    },
+    "place_id": "ChIJpeEZCSG8hkcRGdR6aUBTLt0"
+  },
+  "via matteotti n.66": {
+    "formatted_address": "Via Giacomo Matteotti, 66, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616649,
+      "lng": 9.203254
+    },
+    "place_id": "ChIJYQEIhSS8hkcRtPJTMiRDidM"
+  },
+  "via rossini n.102": {
+    "formatted_address": "Via Gioacchino Rossini, 102, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6096718,
+      "lng": 9.2168181
+    },
+    "place_id": "ChIJZ4t2Dx28hkcR5sVysAdFr3E"
+  },
+  "via bramante da urbino n.15": {
+    "formatted_address": "Via Bramante da Urbino, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6211046,
+      "lng": 9.225664
+    },
+    "place_id": "ChIJx3-phw68hkcR1s98RFvLU8M"
+  },
+  "via serao n.18": {
+    "formatted_address": "Via Matilde Serao, 18, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61553,
+      "lng": 9.196456
+    },
+    "place_id": "ChIJx7vnQS-8hkcRyN3ncz1XIlw"
+  },
+  "via mons. cattaneo n.8": {
+    "formatted_address": "Via Monsignor Celestino Cattaneo, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6173013,
+      "lng": 9.205588700000002
+    },
+    "place_id": "EjtWaWEgTW9uc2lnbm9yIENlbGVzdGlubyBDYXR0YW5lbywgOCwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via caduti di nassiriya n.27": {
+    "formatted_address": "20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6189486,
+      "lng": 9.198744
+    },
+    "place_id": "ChIJm3FsdCO8hkcRgM0fgAV4Bhw"
+  },
+  "via novara n.3": {
+    "formatted_address": "Via Novara, 3, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6287019,
+      "lng": 9.204467
+    },
+    "place_id": "ChIJdweenEe8hkcRV0YImt0hegE"
+  },
+  "via garibaldi n.3": {
+    "formatted_address": "Via Giuseppe Garibaldi, 3, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616879,
+      "lng": 9.207195
+    },
+    "place_id": "ChIJdy4y4SK8hkcRsnPAvTKlhTI"
+  },
+  "via maestri del lavoro n.9": {
+    "formatted_address": "Via Maestri del Lavoro, 9, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6034654,
+      "lng": 9.217349
+    },
+    "place_id": "EjFWaWEgTWFlc3RyaSBkZWwgTGF2b3JvLCA5LCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via buozzi n.24": {
+    "formatted_address": "Via Bruno Buozzi, 24, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.620496,
+      "lng": 9.215921
+    },
+    "place_id": "ChIJF37a2ha8hkcRjAsZ8QZFfnc"
+  },
+  "via del guado n.57": {
+    "formatted_address": "Via del Guado, 57, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.608283,
+      "lng": 9.221714
+    },
+    "place_id": "ChIJtW_zYgK8hkcR8P_OWqIjpvs"
+  },
+  "via garibaldi n.6/c": {
+    "formatted_address": "Via Giuseppe Garibaldi, 6, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617011,
+      "lng": 9.206992
+    },
+    "place_id": "ChIJWzhA4CK8hkcRwT2mEP4gpFs"
+  },
+  "via garibaldi n.237": {
+    "formatted_address": "Via Giuseppe Garibaldi, 237, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.611521,
+      "lng": 9.204721
+    },
+    "place_id": "ChIJQ-_bAyG8hkcRth_EWHeiiFU"
+  },
+  "piazza don giussani n.5": {
+    "formatted_address": "Piazza Don Giussani, 5, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62063699999999,
+      "lng": 9.209947
+    },
+    "place_id": "ChIJqdg8nD28hkcR44HCi28z1Pk"
+  },
+  "piazza conciliazione n.49 int.1": {
+    "formatted_address": "Piazza Conciliazione, 49, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6173611,
+      "lng": 9.207291699999999
+    },
+    "place_id": "EjBQaWF6emEgQ29uY2lsaWF6aW9uZSwgNDksIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via matteotti n.1": {
+    "formatted_address": "Via Giacomo Matteotti, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6173009,
+      "lng": 9.2071521
+    },
+    "place_id": "EjBWaWEgR2lhY29tbyBNYXR0ZW90dGksIDEsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via milano n.136": {
+    "formatted_address": "Via Milano, 136, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6126793,
+      "lng": 9.201512
+    },
+    "place_id": "ChIJ_Z5KwCa8hkcRgUenTq-AyVw"
+  },
+  "corso italia n.34": {
+    "formatted_address": "Corso Italia, 34, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.618347,
+      "lng": 9.20777
+    },
+    "place_id": "ChIJM3mMLD28hkcRACrpjn7J8nw"
+  },
+  "via garibaldi n.122": {
+    "formatted_address": "Via Giuseppe Garibaldi, 122, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61331329999999,
+      "lng": 9.205373699999999
+    },
+    "place_id": "ChIJQ17hfiG8hkcRHbT3SVTsiTA"
+  },
+  "via milano n.145": {
+    "formatted_address": "Via Milano, 145, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6255489,
+      "lng": 9.2032045
+    },
+    "place_id": "EidWaWEgTWlsYW5vLCAxNDUsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via forlanini n.33": {
+    "formatted_address": "Via Carlo Forlanini, 33, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6181022,
+      "lng": 9.2182393
+    },
+    "place_id": "ChIJVYtYkBC8hkcRl7egcYz0sRk"
+  },
+  "corso italia n.105": {
+    "formatted_address": "Corso Italia, 105, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.621398,
+      "lng": 9.208665
+    },
+    "place_id": "ChIJpz78sz28hkcRIyIpAXTqFUo"
+  },
+  "via matteotti n.23": {
+    "formatted_address": "Via Giacomo Matteotti, 23, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61691099999999,
+      "lng": 9.205378999999999
+    },
+    "place_id": "ChIJp8irbCO8hkcRGIfDWBoIRtQ"
+  },
+  "via mons. cattaneo n.1": {
+    "formatted_address": "Via Monsignor Celestino Cattaneo, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617462,
+      "lng": 9.2055924
+    },
+    "place_id": "EjtWaWEgTW9uc2lnbm9yIENlbGVzdGlubyBDYXR0YW5lbywgMSwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via garibaldi n.193": {
+    "formatted_address": "Via Giuseppe Garibaldi, 193, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.612385,
+      "lng": 9.205128
+    },
+    "place_id": "ChIJsYMUCyG8hkcRSY3qGCpk_Qk"
+  },
+  "corso italia n.45": {
+    "formatted_address": "Corso Italia, 45, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61815499999999,
+      "lng": 9.207457999999999
+    },
+    "place_id": "ChIJYwrh1CK8hkcR8BiTM60pIHc"
+  },
+  "via garibaldi n.86": {
+    "formatted_address": "Via Giuseppe Garibaldi, 86, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.614724,
+      "lng": 9.206229
+    },
+    "place_id": "ChIJ8QZDNSK8hkcRNen6XPnVW8A"
+  },
+  "via garibaldi n.93": {
+    "formatted_address": "Via Giuseppe Garibaldi, 93, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6147494,
+      "lng": 9.2062157
+    },
+    "place_id": "ChIJdd9GtSO8hkcRYAxNN8gF1j8"
+  },
+  "corso italia n.33": {
+    "formatted_address": "Corso Italia, 33, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617875,
+      "lng": 9.207531999999999
+    },
+    "place_id": "ChIJKeG01iK8hkcRxFGpPfVOuzE"
+  },
+  "via garibaldi n.117": {
+    "formatted_address": "Via Giuseppe Garibaldi, 117, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.613901,
+      "lng": 9.205843999999999
+    },
+    "place_id": "ChIJD2io1CO8hkcREFgX24vv60o"
+  },
+  "via garibaldi n.70": {
+    "formatted_address": "Via Giuseppe Garibaldi, 70, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6154546,
+      "lng": 9.2064671
+    },
+    "place_id": "EjJWaWEgR2l1c2VwcGUgR2FyaWJhbGRpLCA3MCwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "corso italia n.28": {
+    "formatted_address": "Corso Italia, 28, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6183294,
+      "lng": 9.2077247
+    },
+    "place_id": "ChIJbcyaLD28hkcRcI8SKIVPC-M"
+  },
+  "corso italia n.16": {
+    "formatted_address": "Corso Italia, 16, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6179895,
+      "lng": 9.2075984
+    },
+    "place_id": "ChIJPQVD1CK8hkcR3_AXuFH6UG8"
+  },
+  "via manzoni n.37": {
+    "formatted_address": "Via Alessandro Manzoni, 37, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6126622,
+      "lng": 9.207455
+    },
+    "place_id": "ChIJ94TN6CG8hkcRifGK1bz1Xxs"
+  },
+  "via matteotti n.27 int.29": {
+    "formatted_address": "Via Giacomo Matteotti, 27, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617144,
+      "lng": 9.205290999999999
+    },
+    "place_id": "ChIJbX_1aiO8hkcR-EyUbKxpWwA"
+  },
+  "via garibaldi n.56": {
+    "formatted_address": "Via Giuseppe Garibaldi, 56, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6154579,
+      "lng": 9.2062899
+    },
+    "place_id": "ChIJ2WkWrSO8hkcRA-TkgfiF1EY"
+  },
+  "via garibaldi n.85": {
+    "formatted_address": "Via Giuseppe Garibaldi, 85, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6148564,
+      "lng": 9.206308199999999
+    },
+    "place_id": "ChIJu7sfSyK8hkcR3xO7rkdHLzs"
+  },
+  "corso italia n.53": {
+    "formatted_address": "Corso Italia, 53, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6187701,
+      "lng": 9.2077113
+    },
+    "place_id": "EihDb3JzbyBJdGFsaWEsIDUzLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via binzago n.67": {
+    "formatted_address": "Via per Binzago, 67, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6232619,
+      "lng": 9.1844889
+    },
+    "place_id": "ChIJP083RMy9hkcRCsjLZB7sHTE"
+  },
+  "corso italia n.113": {
+    "formatted_address": "Corso Italia, 113, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.621549,
+      "lng": 9.208694999999999
+    },
+    "place_id": "ChIJhdQttD28hkcRmr8NLss6Ux0"
+  },
+  "via garibaldi n.79": {
+    "formatted_address": "Via Giuseppe Garibaldi, 79, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.615264,
+      "lng": 9.206526
+    },
+    "place_id": "ChIJn8KhTSK8hkcRtoNZSDERKLc"
+  },
+  "via partigiani d'italia n.28": {
+    "formatted_address": "Via Partigiani d'Italia, 28, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6130319,
+      "lng": 9.214124
+    },
+    "place_id": "ChIJ0ffrVBm8hkcR3aM2L_b2UXA"
+  },
+  "via garibaldi n.9": {
+    "formatted_address": "Via Giuseppe Garibaldi, 9, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616668,
+      "lng": 9.207127999999999
+    },
+    "place_id": "ChIJjxuG4yK8hkcRinTkwkYRrs0"
+  },
+  "via garibaldi n.67": {
+    "formatted_address": "Via Giuseppe Garibaldi, 67, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61547849999999,
+      "lng": 9.2064756
+    },
+    "place_id": "EjJWaWEgR2l1c2VwcGUgR2FyaWJhbGRpLCA2NywgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via pio xi n.37/t": {
+    "formatted_address": "Via Pio XI, 37, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6169739,
+      "lng": 9.211031499999999
+    },
+    "place_id": "ChIJ1c1ebRi8hkcRGput3UdVoNw"
+  },
+  "corso italia n.6": {
+    "formatted_address": "Corso Italia, 6, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617676,
+      "lng": 9.207504
+    },
+    "place_id": "ChIJT0eu0CK8hkcRyQu9gbicGPQ"
+  },
+  "via garibaldi n.31/t": {
+    "formatted_address": "Via Giuseppe Garibaldi, 31, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616979,
+      "lng": 9.207168
+    },
+    "place_id": "ChIJr8zD4CK8hkcRUl3o37I8Ysw"
+  },
+  "via prati n.5": {
+    "formatted_address": "Via Prati, 5, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61541450000001,
+      "lng": 9.2122517
+    },
+    "place_id": "ChIJVRg6ABm8hkcRVovI7Knrgik"
+  },
+  "via lampugnani n.21/t": {
+    "formatted_address": "Via Giovanni Maria Lampugnani, 21, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6176041,
+      "lng": 9.212546999999999
+    },
+    "place_id": "ChIJrSUlKhi8hkcRpD3Mu0t_wcY"
+  },
+  "via lampugnani n.29/t int.31": {
+    "formatted_address": "Via Giovanni Maria Lampugnani, 29, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6177028,
+      "lng": 9.2128213
+    },
+    "place_id": "ChIJZY3FKhi8hkcRGLtnOp8P7k0"
+  },
+  "via garibaldi n.104": {
+    "formatted_address": "Via Giuseppe Garibaldi, 104, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.613922,
+      "lng": 9.205688
+    },
+    "place_id": "ChIJZa-A0yO8hkcRLRutPEqj1lM"
+  },
+  "corso italia n.4": {
+    "formatted_address": "Corso Italia, 4, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617669,
+      "lng": 9.2074369
+    },
+    "place_id": "ChIJ3Sv32SK8hkcRztYSXVW-aVA"
+  },
+  "piazza don giussani n.12/t": {
+    "formatted_address": "Piazza Don Giussani, 12, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.620765,
+      "lng": 9.210362
+    },
+    "place_id": "ChIJdXbHhD28hkcRhZtm7tQGwEc"
+  },
+  "via serao n.14": {
+    "formatted_address": "Via Matilde Serao, 14, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.615486,
+      "lng": 9.197277999999999
+    },
+    "place_id": "ChIJz4MBXi-8hkcR2oULEaILemo"
+  },
+  "via lampugnani n.49": {
+    "formatted_address": "Via Giovanni Maria Lampugnani, 49, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6179091,
+      "lng": 9.2137972
+    },
+    "place_id": "ChIJo2CzfBe8hkcRDzdj2vKCu3M"
+  },
+  "via pio xi n.15": {
+    "formatted_address": "Via Pio XI, 15, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6167324,
+      "lng": 9.2101977
+    },
+    "place_id": "ChIJR58Tcxi8hkcRdQzU6ri_S8M"
+  },
+  "via sciesa n.57": {
+    "formatted_address": "Via Amatore Sciesa, 57, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6117747,
+      "lng": 9.2104878
+    },
+    "place_id": "ChIJh4HPGx-8hkcR1PjfLXVdIaE"
+  },
+  "via delle cave n.1": {
+    "formatted_address": "Via delle Cave, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.630423,
+      "lng": 9.212151
+    },
+    "place_id": "ChIJ5YyJukG8hkcR2SdxBorp5sI"
+  },
+  "corso italia n.78": {
+    "formatted_address": "Corso Italia, 78, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6210144,
+      "lng": 9.208770699999999
+    },
+    "place_id": "ChIJL63Mrj28hkcRDEG8BcRWyek"
+  },
+  "corso italia n.145 int.t": {
+    "formatted_address": "Corso Italia, 145, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6225912,
+      "lng": 9.2082221
+    },
+    "place_id": "ChIJM24OKTy8hkcRiAAnBNcuGF4"
+  },
+  "via lampugnani n.86": {
+    "formatted_address": "Via Giovanni Maria Lampugnani, 86, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6181182,
+      "lng": 9.216549700000002
+    },
+    "place_id": "ChIJB8HusRC8hkcRXfddkk-dOQ4"
+  },
+  "via novara n.4": {
+    "formatted_address": "Via Novara, 4, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62893330000001,
+      "lng": 9.2049529
+    },
+    "place_id": "ChIJf7jXdUe8hkcRBB89DgRWo3A"
+  },
+  "via garibaldi n.263": {
+    "formatted_address": "Via Giuseppe Garibaldi, 263, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6093003,
+      "lng": 9.2039093
+    },
+    "place_id": "ChIJf-SJgyC8hkcRugM75Keq3lA"
+  },
+  "piazza don giussani n.10": {
+    "formatted_address": "Piazza Don Giussani, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.620627,
+      "lng": 9.210139
+    },
+    "place_id": "ChIJ38DsnD28hkcRfR_WurWRz6M"
+  },
+  "via lombardia n.18": {
+    "formatted_address": "Via Lombardia, 18, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.620038,
+      "lng": 9.21128
+    },
+    "place_id": "ChIJ5Qfc0xe8hkcRhD1VK3f7ZME"
+  },
+  "via lombardia n.20": {
+    "formatted_address": "Via Lombardia, 20, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.620126,
+      "lng": 9.211300999999999
+    },
+    "place_id": "ChIJK8y80xe8hkcRsP3GuTsa8vM"
+  },
+  "via de gasperi n.21": {
+    "formatted_address": "Via Alcide de Gasperi, 21, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6286188,
+      "lng": 9.2013844
+    },
+    "place_id": "EjFWaWEgQWxjaWRlIGRlIEdhc3BlcmksIDIxLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via fermi n.32": {
+    "formatted_address": "Via Enrico Fermi, 32, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6253755,
+      "lng": 9.2038108
+    },
+    "place_id": "EixWaWEgRW5yaWNvIEZlcm1pLCAzMiwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via garibaldi n.34": {
+    "formatted_address": "Via Giuseppe Garibaldi, 34, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.615806,
+      "lng": 9.206507
+    },
+    "place_id": "ChIJBV0rVSK8hkcR3rJuJak9THA"
+  },
+  "via ferravilla n.3/5": {
+    "formatted_address": "Via Edoardo Ferravilla, 5, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616387,
+      "lng": 9.197377
+    },
+    "place_id": "ChIJOa1_eS-8hkcR5kBOcAeKb3Y"
+  },
+  "via garibaldi n.234": {
+    "formatted_address": "Via Giuseppe Garibaldi, 234, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.610333,
+      "lng": 9.20416
+    },
+    "place_id": "ChIJCTNU8iC8hkcRiBJUG64C_hg"
+  },
+  "via garibaldi n.1": {
+    "formatted_address": "Via Giuseppe Garibaldi, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61693,
+      "lng": 9.207111
+    },
+    "place_id": "ChIJi4sd4SK8hkcRc3zLkYJxGDc"
+  },
+  "via garibaldi n.84": {
+    "formatted_address": "Via Giuseppe Garibaldi, 84, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6148041,
+      "lng": 9.2060751
+    },
+    "place_id": "ChIJwyZntSO8hkcRcXsEYvPrMSM"
+  },
+  "via leoncavallo": {
+    "formatted_address": "Via Ruggero Leoncavallo, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.60397930000001,
+      "lng": 9.2188909
+    },
+    "place_id": "ChIJOzXuLK--hkcRRG_wtZx0EEs"
+  },
+  "via gavazzi n.8": {
+    "formatted_address": "Via Egidio Gavazzi, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62125,
+      "lng": 9.209099
+    },
+    "place_id": "ChIJX11euj28hkcRz-w1f1C3lmA"
+  },
+  "via garibaldi n.92": {
+    "formatted_address": "Via Giuseppe Garibaldi, 92, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.614246,
+      "lng": 9.206064999999999
+    },
+    "place_id": "ChIJlbK-MiK8hkcRcGz5EwBeynk"
+  },
+  "via garibaldi n.155": {
+    "formatted_address": "Via Giuseppe Garibaldi, 155, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6130215,
+      "lng": 9.2055305
+    },
+    "place_id": "ChIJtb60eSG8hkcRVj7xoc8W1xA"
+  },
+  "via stadio n.1": {
+    "formatted_address": "Via Stadio, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6142325,
+      "lng": 9.199786699999999
+    },
+    "place_id": "EiVWaWEgU3RhZGlvLCAxLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "corso italia n.131": {
+    "formatted_address": "Corso Italia, 131, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6225912,
+      "lng": 9.2082221
+    },
+    "place_id": "ChIJBXeyLTy8hkcR0jYSSVyTQMw"
+  },
+  "via garibaldi n.72 int.1": {
+    "formatted_address": "Via Giuseppe Garibaldi, 72, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.615079,
+      "lng": 9.20627
+    },
+    "place_id": "ChIJlUarTCK8hkcROSaolgi-CT4"
+  },
+  "via ferravilla n.21": {
+    "formatted_address": "Via Edoardo Ferravilla, 21, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616796,
+      "lng": 9.196207
+    },
+    "place_id": "ChIJh6BTpy-8hkcR8BjD3_BHCe4"
+  },
+  "via montenero n.9": {
+    "formatted_address": "Via Monte Nero, 9, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6133,
+      "lng": 9.21053
+    },
+    "place_id": "ChIJu5S_zBi8hkcRY5RBss9mCR0"
+  },
+  "corso italia n.80": {
+    "formatted_address": "Corso Italia, 80, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62201899999999,
+      "lng": 9.208687
+    },
+    "place_id": "ChIJt7WBzD28hkcR2LUoEyivbVo"
+  },
+  "via garibaldi n.81 int.2": {
+    "formatted_address": "Via Giuseppe Garibaldi, 81, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.615142,
+      "lng": 9.206386
+    },
+    "place_id": "ChIJeUbqTCK8hkcRo2hsTpUpOVo"
+  },
+  "via partigiani d'italia n.2": {
+    "formatted_address": "Via Partigiani d'Italia, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6120976,
+      "lng": 9.2100787
+    },
+    "place_id": "ChIJ9YjDPR-8hkcRe1cBOMA4N-c"
+  },
+  "via matteotti n.50/t": {
+    "formatted_address": "Via Giacomo Matteotti, 50, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6167779,
+      "lng": 9.204756999999999
+    },
+    "place_id": "ChIJC4i6byO8hkcRUEitvL293WU"
+  },
+  "via cadorna n.26": {
+    "formatted_address": "Via Raffaele Cadorna, 26, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61945,
+      "lng": 9.2002937
+    },
+    "place_id": "EjBWaWEgUmFmZmFlbGUgQ2Fkb3JuYSwgMjYsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via garibaldi n.184": {
+    "formatted_address": "Via Giuseppe Garibaldi, 184, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.611567,
+      "lng": 9.204977999999999
+    },
+    "place_id": "ChIJEfnQACG8hkcRq-G1YuI3UI8"
+  },
+  "via matteotti n.33": {
+    "formatted_address": "Via Giacomo Matteotti, 33, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616928,
+      "lng": 9.204848
+    },
+    "place_id": "ChIJpd8nbyO8hkcRbcBAo378qtY"
+  },
+  "corso italia n.41": {
+    "formatted_address": "Corso Italia, 41, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6181308,
+      "lng": 9.2072328
+    },
+    "place_id": "ChIJk73w1CK8hkcRVOmN157UezA"
+  },
+  "via per seregno n.36": {
+    "formatted_address": "Via per Seregno, 36, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62303499999999,
+      "lng": 9.231876
+    },
+    "place_id": "ChIJJVifrgu8hkcRkd2-UhKk5P4"
+  },
+  "via gabellini n.7": {
+    "formatted_address": "Via Alberto Gabellini, 7, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.622623,
+      "lng": 9.207709999999999
+    },
+    "place_id": "ChIJG80_JDy8hkcRpbs0kzxuM5I"
+  },
+  "via partigiani d'italia n.26": {
+    "formatted_address": "Via Partigiani d'Italia, 26, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.612998,
+      "lng": 9.214082
+    },
+    "place_id": "ChIJoyq5VBm8hkcRngdvNsVi6Fo"
+  },
+  "via f.lli cervi": {
+    "formatted_address": "20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6189486,
+      "lng": 9.198744
+    },
+    "place_id": "ChIJm3FsdCO8hkcRgM0fgAV4Bhw"
+  },
+  "via mons. cattaneo int.5": {
+    "formatted_address": "Via Monsignor Celestino Cattaneo, 5, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6175991,
+      "lng": 9.205563
+    },
+    "place_id": "EjtWaWEgTW9uc2lnbm9yIENlbGVzdGlubyBDYXR0YW5lbywgNSwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via grandi n.37/t": {
+    "formatted_address": "Via Achille Grandi, 37, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.615055,
+      "lng": 9.2091429
+    },
+    "place_id": "ChIJu_XndyK8hkcRH2h6rroanEk"
+  },
+  "via pio xi n.19": {
+    "formatted_address": "Via Pio XI, 19, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6168161,
+      "lng": 9.210372
+    },
+    "place_id": "ChIJPZJgchi8hkcRuOE6NHhETLQ"
+  },
+  "via volta n.6": {
+    "formatted_address": "Via Alessandro Volta, 6, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.618004,
+      "lng": 9.213908
+    },
+    "place_id": "ChIJ9WlhYxe8hkcRO1DNHv9dAFU"
+  },
+  "via salgari n.4": {
+    "formatted_address": "Via Emilio Salgari, 4, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6234558,
+      "lng": 9.2295167
+    },
+    "place_id": "ChIJbWF-gAu8hkcRF7H8ZZ4qu-w"
+  },
+  "via einstein n.41/a": {
+    "formatted_address": "Via Albert Einstein, 41, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6235964,
+      "lng": 9.2006132
+    },
+    "place_id": "Ei9WaWEgQWxiZXJ0IEVpbnN0ZWluLCA0MSwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via garibaldi n.140": {
+    "formatted_address": "Via Giuseppe Garibaldi, 140, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61337,
+      "lng": 9.2056562
+    },
+    "place_id": "EjNWaWEgR2l1c2VwcGUgR2FyaWJhbGRpLCAxNDAsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via partigiani d'italia n.38": {
+    "formatted_address": "Via Partigiani d'Italia, 38, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6131702,
+      "lng": 9.2144772
+    },
+    "place_id": "ChIJ00L8_Ru8hkcR7VeiaO9xhVs"
+  },
+  "via verdi n.48": {
+    "formatted_address": "Via Giuseppe Verdi, 48, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.613505,
+      "lng": 9.203676
+    },
+    "place_id": "ChIJhf2LWSG8hkcRg9KcgdzCNmw"
+  },
+  "via grandi n.24": {
+    "formatted_address": "Via Achille Grandi, 24, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61487400000001,
+      "lng": 9.2079
+    },
+    "place_id": "ChIJz3rGayK8hkcRRgvPu_d_WZc"
+  },
+  "piazza martiri di fossoli n.7": {
+    "formatted_address": "Piazza Martiri di Fossoli, 7, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61616799999999,
+      "lng": 9.211979000000001
+    },
+    "place_id": "ChIJCZ5HThi8hkcR9maxLDlylEk"
+  },
+  "via milano n.314": {
+    "formatted_address": "Via Milano, 314, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.625769,
+      "lng": 9.204523
+    },
+    "place_id": "ChIJzTog_Ti8hkcRfGjCDCy5nxg"
+  },
+  "via san pietro n.11": {
+    "formatted_address": "Via S. Pietro, 11, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.618464,
+      "lng": 9.210649
+    },
+    "place_id": "ChIJ-cCC_Be8hkcRUiq9bBXbLRE"
+  },
+  "via conciliazione n.14": {
+    "formatted_address": "Via Conciliazione, 14, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617249,
+      "lng": 9.2097339
+    },
+    "place_id": "ChIJBdYepyK8hkcRDMO8RETabGk"
+  },
+  "via garibaldi n.192": {
+    "formatted_address": "Via Giuseppe Garibaldi, 192, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.611506,
+      "lng": 9.20473
+    },
+    "place_id": "ChIJgdTZAyG8hkcRoxoULCI2aFM"
+  },
+  "via milano n.191": {
+    "formatted_address": "Via Milano, 191, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617923,
+      "lng": 9.199667999999999
+    },
+    "place_id": "ChIJ__wjQSW8hkcR6AX8ceE250M"
+  },
+  "via mulinello n.23": {
+    "formatted_address": "Via Mulinello, 23, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.63236999999999,
+      "lng": 9.17684
+    },
+    "place_id": "ChIJoX_oVbi9hkcR13WHkB0yPwo"
+  },
+  "via xxv aprile n.20/t": {
+    "formatted_address": "Via XXV Aprile, 20, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62006299999999,
+      "lng": 9.215558
+    },
+    "place_id": "ChIJcV0z3xa8hkcRpcGSKz1pVUA"
+  },
+  "via olmetto n.35/t": {
+    "formatted_address": "Via Olmetto, 35, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61603299999999,
+      "lng": 9.2086349
+    },
+    "place_id": "ChIJm9rPiCK8hkcRRH3B9PFolmA"
+  },
+  "via pallavicini n.9/t": {
+    "formatted_address": "Via Giorgio Pallavicini, 9, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6173194,
+      "lng": 9.1977461
+    },
+    "place_id": "ChIJmzYBjy-8hkcRGG8mWCNcyUc"
+  },
+  "via milano n.141": {
+    "formatted_address": "Via Milano, 141, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6255517,
+      "lng": 9.2032189
+    },
+    "place_id": "EidWaWEgTWlsYW5vLCAxNDEsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via milano n.195/t": {
+    "formatted_address": "Via Milano, 195, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617855,
+      "lng": 9.199686
+    },
+    "place_id": "ChIJtUP8QCW8hkcRW6lfZwnlJyc"
+  },
+  "via olmetto n.31/t": {
+    "formatted_address": "Via Olmetto, 31, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6161109,
+      "lng": 9.208221
+    },
+    "place_id": "ChIJi-eDjCK8hkcRi2XXHGAA__E"
+  },
+  "via ferravilla n.66/t": {
+    "formatted_address": "Via Edoardo Ferravilla, 66, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6166975,
+      "lng": 9.1908937
+    },
+    "place_id": "EjJWaWEgRWRvYXJkbyBGZXJyYXZpbGxhLCA2NiwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via garibaldi n.273": {
+    "formatted_address": "Via Giuseppe Garibaldi, 273, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.608439,
+      "lng": 9.203694
+    },
+    "place_id": "ChIJ6e0cLp6-hkcRvKpn_HetSTY"
+  },
+  "via milano n.148": {
+    "formatted_address": "Via Milano, 148, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.613347,
+      "lng": 9.201221
+    },
+    "place_id": "ChIJx8CSlya8hkcRtw_jNVLZpG4"
+  },
+  "via lampugnani n.38/t": {
+    "formatted_address": "Via Giovanni Maria Lampugnani, 38, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6177629,
+      "lng": 9.213623
+    },
+    "place_id": "ChIJiUlnfRe8hkcR6og2GMA1H-E"
+  },
+  "via garibaldi n.46": {
+    "formatted_address": "Via Giuseppe Garibaldi, 46, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.615571,
+      "lng": 9.206384
+    },
+    "place_id": "ChIJvWzIrCO8hkcRKSYMDTbd_Qo"
+  },
+  "via milano n.298": {
+    "formatted_address": "Via Milano, 298, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6252958,
+      "lng": 9.2024644
+    },
+    "place_id": "ChIJmwu3xzm8hkcRVIrF4idG7v8"
+  },
+  "via san pietro n.24": {
+    "formatted_address": "Via S. Pietro, 24, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6194935,
+      "lng": 9.210050700000002
+    },
+    "place_id": "EilWaWEgUy4gUGlldHJvLCAyNCwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via tripoli n.3": {
+    "formatted_address": "Via Tripoli, 3, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616269,
+      "lng": 9.206384
+    },
+    "place_id": "ChIJecDdAyO8hkcRP6Khh0ElmPw"
+  },
+  "via bareggi n.43": {
+    "formatted_address": "Via Don Giacomo Bareggi, 43, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61831,
+      "lng": 9.220823
+    },
+    "place_id": "ChIJ2aXkFRC8hkcRLrekrxldkkM"
+  },
+  "piazza don giussani n.7": {
+    "formatted_address": "Piazza Don Giussani, 7, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6207149,
+      "lng": 9.209869
+    },
+    "place_id": "ChIJ-USynj28hkcRuFqQuWm6sv8"
+  },
+  "via manzoni n.10": {
+    "formatted_address": "Via Alessandro Manzoni, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.612063,
+      "lng": 9.206047
+    },
+    "place_id": "ChIJa2tOuyG8hkcRGhKy0-DgwQs"
+  },
+  "piazza don giussani n.11": {
+    "formatted_address": "Piazza Don Giussani, 11, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.620667,
+      "lng": 9.210232999999999
+    },
+    "place_id": "ChIJa72vnD28hkcRGZ1v7EQxRlY"
+  },
+  "via dante n.4": {
+    "formatted_address": "Via Dante Alighieri, 4, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62215200000001,
+      "lng": 9.206994
+    },
+    "place_id": "ChIJRX91Fjy8hkcR0OWiKV-0K2o"
+  },
+  "piazza cavour n.5": {
+    "formatted_address": "Piazza Camillo Benso Conte di Cavour, 5, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617224,
+      "lng": 9.211888
+    },
+    "place_id": "ChIJQ_4gOxi8hkcR3RPluyUOh9k"
+  },
+  "via prati n.89": {
+    "formatted_address": "Via Prati, 89, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6102635,
+      "lng": 9.2144786
+    },
+    "place_id": "ChIJefYVzB28hkcRq62fpaqMLU4"
+  },
+  "via volta n.100": {
+    "formatted_address": "Via Alessandro Volta, 100, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6246963,
+      "lng": 9.211446
+    },
+    "place_id": "EjFWaWEgQWxlc3NhbmRybyBWb2x0YSwgMTAwLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via trento n.15": {
+    "formatted_address": "Via Trento, 15, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6170637,
+      "lng": 9.2024347
+    },
+    "place_id": "ChIJN_nS7CS8hkcRgxz-UHprr0M"
+  },
+  "via garibaldi n.189": {
+    "formatted_address": "Via Giuseppe Garibaldi, 189, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6124277,
+      "lng": 9.205205
+    },
+    "place_id": "ChIJjcpICyG8hkcRFTOjfOn7oVA"
+  },
+  "via volta n.21": {
+    "formatted_address": "Via Alessandro Volta, 21, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.620038,
+      "lng": 9.213284999999999
+    },
+    "place_id": "ChIJJZKNrBe8hkcRu67RM2ya-3Q"
+  },
+  "via pio xi n.25": {
+    "formatted_address": "Via Pio XI, 25, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61682099999999,
+      "lng": 9.210602
+    },
+    "place_id": "ChIJ4TTJEhi8hkcRmnhimR7z-Zg"
+  },
+  "corso italia n.84": {
+    "formatted_address": "Corso Italia, 84, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62221,
+      "lng": 9.208732
+    },
+    "place_id": "ChIJI-sOzT28hkcRiILAo70v3yI"
+  },
+  "via garibaldi n.194": {
+    "formatted_address": "Via Giuseppe Garibaldi, 194, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.611469,
+      "lng": 9.204699999999999
+    },
+    "place_id": "ChIJA8wsAiG8hkcRCktz5H-MOFE"
+  },
+  "via bengasi n.43": {
+    "formatted_address": "Via Bengasi, 43, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.611728,
+      "lng": 9.201578999999999
+    },
+    "place_id": "ChIJe7Z31ya8hkcRFHlO6kMJrm4"
+  },
+  "via bengasi n.1/g": {
+    "formatted_address": "Via Bengasi, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6118291,
+      "lng": 9.2042185
+    },
+    "place_id": "ChIJtWgDBSG8hkcRqlumn5DboXA"
+  },
+  "via di vittorio n.17": {
+    "formatted_address": "Via Giuseppe di Vittorio, 17, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.618448,
+      "lng": 9.1939119
+    },
+    "place_id": "ChIJ73CgFi68hkcR4hdkxRSYRG0"
+  },
+  "corso italia n.87": {
+    "formatted_address": "Corso Italia, 87, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6222345,
+      "lng": 9.208528
+    },
+    "place_id": "EihDb3JzbyBJdGFsaWEsIDg3LCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via palestro n.8": {
+    "formatted_address": "Via Palestro, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6218379,
+      "lng": 9.181815
+    },
+    "place_id": "ChIJW2ulds69hkcRLf2fh0qjSTI"
+  },
+  "via degli artigiani": {
+    "formatted_address": "Viale degli Artigiani, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6032133,
+      "lng": 9.2035413
+    },
+    "place_id": "ChIJbdiK6pi-hkcROcB3Ose6xzw"
+  },
+  "via filippo da desio n.21": {
+    "formatted_address": "Via Filippo da Desio, 21, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.621794,
+      "lng": 9.220058
+    },
+    "place_id": "ChIJt8oSfxG8hkcRMXRXMpvOgDw"
+  },
+  "via monte rosa n.40": {
+    "formatted_address": "Via Monte Rosa, 40, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6179177,
+      "lng": 9.186162699999999
+    },
+    "place_id": "ChIJ9wIo0dK9hkcRlkwW7HOZmDo"
+  },
+  "via monte grappa n.8": {
+    "formatted_address": "Via Monte Grappa, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.625077,
+      "lng": 9.206439
+    },
+    "place_id": "ChIJrZTxLDm8hkcRdF6XArsINmQ"
+  },
+  "via pietro da desio n.10": {
+    "formatted_address": "Via Pietro da Desio, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.610335,
+      "lng": 9.20232
+    },
+    "place_id": "ChIJTeXWySC8hkcRyTrnoeIW_hI"
+  },
+  "via de luca n.17": {
+    "formatted_address": "Via Antonio de Luca, 17, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6211291,
+      "lng": 9.2315832
+    },
+    "place_id": "ChIJv_3o1Au8hkcRow0rOiSTHDE"
+  },
+  "via lampugnani n.65/a": {
+    "formatted_address": "Via Giovanni Maria Lampugnani, 65A, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6182188,
+      "lng": 9.2159794
+    },
+    "place_id": "ChIJL4OnUhe8hkcRlDzGKnZEBzs"
+  },
+  "via pozzo antico n.96": {
+    "formatted_address": "Via Pozzo Antico, 96, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61268099999999,
+      "lng": 9.209750999999999
+    },
+    "place_id": "ChIJn3jZRx-8hkcR8T0bt8B4c4c"
+  },
+  "via dei tigli n.16": {
+    "formatted_address": "Via dei Tigli, 16, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6130874,
+      "lng": 9.2106549
+    },
+    "place_id": "ChIJiXp4Mh-8hkcRyT0Sm3sE6gU"
+  },
+  "via ferravilla n.16": {
+    "formatted_address": "Via Edoardo Ferravilla, 16, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616718,
+      "lng": 9.19694
+    },
+    "place_id": "ChIJdRP_nS-8hkcR1P_k_qSD56s"
+  },
+  "via san vincenzo n.70": {
+    "formatted_address": "Via S. Vincenzo Dè Paoli, 70, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.603161,
+      "lng": 9.19575
+    },
+    "place_id": "ChIJSzYSEJu-hkcR9diaKAi7i5U"
+  },
+  "via tagliabue n.204": {
+    "formatted_address": "Via Umberto Tagliabue, 204, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6228292,
+      "lng": 9.2300419
+    },
+    "place_id": "ChIJYSo9kAu8hkcRB9lrio8Bu2Q"
+  },
+  "via xxiv maggio n.14": {
+    "formatted_address": "Via XXIV Maggio, 14, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617875,
+      "lng": 9.207953
+    },
+    "place_id": "ChIJv5oPziK8hkcRPsshy6Z5b_c"
+  },
+  "via per cesano n.2": {
+    "formatted_address": "Via per Cesano Maderno, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.623318,
+      "lng": 9.198559699999999
+    },
+    "place_id": "ChIJtcLyyDC8hkcR9joKdt2vdzg"
+  },
+  "via pallavicini n.112": {
+    "formatted_address": "Via Giorgio Pallavicini, 112, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.621423,
+      "lng": 9.197004
+    },
+    "place_id": "ChIJCyMJVjC8hkcRQfcNpJJctmw"
+  },
+  "via bassi n.23": {
+    "formatted_address": "Via Ugo Bassi, 23, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6262123,
+      "lng": 9.2276847
+    },
+    "place_id": "ChIJGUwUK3O8hkcRhQJhG-vR_EI"
+  },
+  "corso italia n.113/c": {
+    "formatted_address": "Corso Italia, 113C, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.621781,
+      "lng": 9.208527
+    },
+    "place_id": "ChIJRey9yj28hkcR8JGMHHYL1xw"
+  },
+  "via pascoli n.23": {
+    "formatted_address": "Via Giovanni Pascoli, 23, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.624044,
+      "lng": 9.212356
+    },
+    "place_id": "ChIJyebDixW8hkcR_rLFfWOQOF8"
+  },
+  "via sturzo don luigi n.7": {
+    "formatted_address": "Via Don Luigi Sturzo, 7, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.606418,
+      "lng": 9.178892
+    },
+    "place_id": "ChIJT2CKnn6-hkcRE_pehbk-qzY"
+  },
+  "via dei tigli n.2": {
+    "formatted_address": "Via dei Tigli, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61478,
+      "lng": 9.210265
+    },
+    "place_id": "ChIJi-3tkxi8hkcRnG9m2-Gtp3o"
+  },
+  "via san vincenzo n.38": {
+    "formatted_address": "Via S. Vincenzo Dè Paoli, 38, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.603831,
+      "lng": 9.199156
+    },
+    "place_id": "ChIJqZJM5Ju-hkcRFTBQGZJFD38"
+  },
+  "via monselice n.20": {
+    "formatted_address": "Via Monselice, 20, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6100544,
+      "lng": 9.1913688
+    },
+    "place_id": "ChIJ--moCoK-hkcRHm1IFCG1U1M"
+  },
+  "via borghetto n.36": {
+    "formatted_address": "Via Borghetto, 36, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6148307,
+      "lng": 9.2041507
+    },
+    "place_id": "ChIJ24L97CO8hkcRW1PE-aPIRWM"
+  },
+  "via xx settembre n.36": {
+    "formatted_address": "Via XX Settembre, 36, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.619754,
+      "lng": 9.201848
+    },
+    "place_id": "ChIJFyOf3zq8hkcRYklAbsPUSxQ"
+  },
+  "via per cesano n.43": {
+    "formatted_address": "Via per Cesano Maderno, 43, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6237776,
+      "lng": 9.1934351
+    },
+    "place_id": "ChIJTaJB8TO8hkcRkU_tY7mzBic"
+  },
+  "via degli artigiani n.26": {
+    "formatted_address": "Viale degli Artigiani, 26, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.601726,
+      "lng": 9.203051
+    },
+    "place_id": "ChIJ6XTMXpi-hkcRz9tIjjOTld0"
+  },
+  "via monte bianco n.22": {
+    "formatted_address": "Via Monte Bianco, 22, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6195876,
+      "lng": 9.1912355
+    },
+    "place_id": "ChIJAdXidTK8hkcR4xiRpY0P0jw"
+  },
+  "via pascoli n.12": {
+    "formatted_address": "Via Giovanni Pascoli, 12, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.623692,
+      "lng": 9.21095
+    },
+    "place_id": "ChIJ4SCWFj68hkcRtKvgjoGLtNM"
+  },
+  "via karl marx n.10/t": {
+    "formatted_address": "Via Karl Marx, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.619919,
+      "lng": 9.194168
+    },
+    "place_id": "ChIJX7Vi7zG8hkcRwMoXHVXJIMk"
+  },
+  "via degli artigiani n.17": {
+    "formatted_address": "Viale degli Artigiani, 17, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.602631,
+      "lng": 9.203863
+    },
+    "place_id": "ChIJ2d0Gk5i-hkcRJ7VQUthJh40"
+  },
+  "via milano n.19/t": {
+    "formatted_address": "Via Milano, 19, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.60213,
+      "lng": 9.200941
+    },
+    "place_id": "ChIJu_AECpm-hkcR1ipsMEhXh5k"
+  },
+  "via pozzo antico n.9/t": {
+    "formatted_address": "Via Pozzo Antico, 9, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6161848,
+      "lng": 9.2081056
+    },
+    "place_id": "ChIJyc689CK8hkcRmWmIR2t5K3w"
+  },
+  "via nuova valassina n.7": {
+    "formatted_address": "Via Nuova Valassina, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61583299999999,
+      "lng": 9.2240798
+    },
+    "place_id": "ChIJK8yKgGq5hkcRKa4NzFN83u0"
+  },
+  "via bramante n.15/t": {
+    "formatted_address": "Via Bramante da Urbano, 15C, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62144199999999,
+      "lng": 9.225389
+    },
+    "place_id": "ChIJp_DveA68hkcRH8QGVbWnox4"
+  },
+  "via agnesi n.170": {
+    "formatted_address": "Via Gaetana Agnesi, 170, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6109319,
+      "lng": 9.1898088
+    },
+    "place_id": "ChIJe6quGyq8hkcRseBy0s8xXw4"
+  },
+  "via borghetto n.53": {
+    "formatted_address": "Via Borghetto, 53, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6145489,
+      "lng": 9.203075
+    },
+    "place_id": "ChIJyS9ICCS8hkcRePVi2R3HqWY"
+  },
+  "via cassinetta n.57": {
+    "formatted_address": "Via Cassinetta, 57, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6312903,
+      "lng": 9.1941364
+    },
+    "place_id": "EipWaWEgQ2Fzc2luZXR0YSwgNTcsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via milano n.219/t": {
+    "formatted_address": "Via Milano, 219, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6208865,
+      "lng": 9.1987501
+    },
+    "place_id": "ChIJ2z8_fzC8hkcRdble82hjyUk"
+  },
+  "via petrarca n.12": {
+    "formatted_address": "Via Francesco Petrarca, 12, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6151902,
+      "lng": 9.2076812
+    },
+    "place_id": "ChIJeaycQiK8hkcReFWAt-Blx3s"
+  },
+  "via sicilia n.20": {
+    "formatted_address": "Via Sicilia, 20, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.619891,
+      "lng": 9.219016
+    },
+    "place_id": "ChIJG3ykAxG8hkcRAomYQn84-9M"
+  },
+  "via bareggi n.2": {
+    "formatted_address": "Via Don Giacomo Bareggi, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6201909,
+      "lng": 9.2197514
+    },
+    "place_id": "ChIJE418qBG8hkcRsUoKhl4dIHg"
+  },
+  "via sciesa n.78": {
+    "formatted_address": "Via Amatore Sciesa, 78, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6121576,
+      "lng": 9.2126133
+    },
+    "place_id": "ChIJO8tPxx68hkcRsjYyH_CsTgo"
+  },
+  "via sturzo don luigi n.9": {
+    "formatted_address": "Via Don Luigi Sturzo, 9, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.606452,
+      "lng": 9.179034999999999
+    },
+    "place_id": "ChIJuRY7nH6-hkcRYQ2xqM6PdWI"
+  },
+  "via degli artigiani n.3": {
+    "formatted_address": "Viale degli Artigiani, 3, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6038321,
+      "lng": 9.2040439
+    },
+    "place_id": "ChIJy-KMz5i-hkcRCFR3PbxAA7g"
+  },
+  "via grandi n.6": {
+    "formatted_address": "Via Achille Grandi, 6, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6148112,
+      "lng": 9.2070309
+    },
+    "place_id": "Ei1WaWEgQWNoaWxsZSBHcmFuZGksIDYsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via degli artigiani n.14": {
+    "formatted_address": "Viale degli Artigiani, 14, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.602026,
+      "lng": 9.203909
+    },
+    "place_id": "ChIJAVd3iZi-hkcROWo3pPemyGk"
+  },
+  "via einstein n.29": {
+    "formatted_address": "Via Albert Einstein, 29, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.623757,
+      "lng": 9.202301
+    },
+    "place_id": "ChIJZ3fXjjm8hkcR1YZrgfoGm2A"
+  },
+  "via degli artigiani n.21": {
+    "formatted_address": "Viale degli Artigiani, 21, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.602299,
+      "lng": 9.203999999999999
+    },
+    "place_id": "ChIJGR2Ijpi-hkcROuvnAOkYu3s"
+  },
+  "via monselice n.26": {
+    "formatted_address": "Via Monselice, 26, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.609782,
+      "lng": 9.190712
+    },
+    "place_id": "ChIJY_qyCIK-hkcRRQaq6ID7JOs"
+  },
+  "via degli artigiani n.9": {
+    "formatted_address": "Viale degli Artigiani, 9, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.60329,
+      "lng": 9.203642
+    },
+    "place_id": "ChIJKQwVwZi-hkcR1L06lPNvQEw"
+  },
+  "via pallavicini n.106": {
+    "formatted_address": "Via Giorgio Pallavicini, 106, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62118599999999,
+      "lng": 9.197042999999999
+    },
+    "place_id": "ChIJSe7NVjC8hkcRUbf1eVstqlk"
+  },
+  "via lampugnani n.77": {
+    "formatted_address": "Via Giovanni Maria Lampugnani, 77, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.618568,
+      "lng": 9.21837
+    },
+    "place_id": "ChIJPUxijRC8hkcReYKRz95h5G0"
+  },
+  "via ortigara n.16": {
+    "formatted_address": "Via Ortigara, 16, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6116089,
+      "lng": 9.207711699999999
+    },
+    "place_id": "EihWaWEgT3J0aWdhcmEsIDE2LCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "viale dell'industria n.5": {
+    "formatted_address": "20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6189486,
+      "lng": 9.198744
+    },
+    "place_id": "ChIJm3FsdCO8hkcRgM0fgAV4Bhw"
+  },
+  "via tripoli n.13": {
+    "formatted_address": "Via Tripoli, 13, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61621700000001,
+      "lng": 9.205816
+    },
+    "place_id": "ChIJ81iVCCO8hkcRnIWR5HRd-bE"
+  },
+  "via serao n.103": {
+    "formatted_address": "Via Matilde Serao, 103, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61493189999999,
+      "lng": 9.190678799999999
+    },
+    "place_id": "Ei5WaWEgTWF0aWxkZSBTZXJhbywgMTAzLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via milano n.130": {
+    "formatted_address": "Via Milano, 130, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.612058,
+      "lng": 9.2014038
+    },
+    "place_id": "ChIJT8h52ya8hkcRItifrQFt_gQ"
+  },
+  "via bozzi a. n.26": {
+    "formatted_address": "Via Aldo Bozzi, 26, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6078205,
+      "lng": 9.1794078
+    },
+    "place_id": "ChIJMf4t6X6-hkcRFkIRL-MKpS0"
+  },
+  "via degli artigiani n.16": {
+    "formatted_address": "Viale degli Artigiani, 16, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.601982,
+      "lng": 9.201967999999999
+    },
+    "place_id": "ChIJ0Talqpm-hkcR3vL94Hmj3NU"
+  },
+  "via parini n.19": {
+    "formatted_address": "Via G. Parini, 19, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6122028,
+      "lng": 9.1990885
+    },
+    "place_id": "EilWaWEgRy4gUGFyaW5pLCAxOSwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via san martino n.15": {
+    "formatted_address": "Via S. Martino, 15, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.624878,
+      "lng": 9.192295999999999
+    },
+    "place_id": "ChIJV9qkZDS8hkcR8Kw5HiGZyMs"
+  },
+  "viale sabotino n.87": {
+    "formatted_address": "Viale Sabotino, 87, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.60725,
+      "lng": 9.191841
+    },
+    "place_id": "ChIJf2l2qYO-hkcRiKuqioRfak0"
+  },
+  "via degli artigiani n.22": {
+    "formatted_address": "Viale degli Artigiani, 22, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6017439,
+      "lng": 9.202748
+    },
+    "place_id": "ChIJe2zBWZi-hkcREn68NZOkkQM"
+  },
+  "via sturzo don luigi n.21": {
+    "formatted_address": "Via Don Luigi Sturzo, 21, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.606924,
+      "lng": 9.1812159
+    },
+    "place_id": "ChIJN33Gbn6-hkcR-1viUOOfM_4"
+  },
+  "via garibaldi n.306": {
+    "formatted_address": "Via Giuseppe Garibaldi, 306, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.60673000000001,
+      "lng": 9.20271
+    },
+    "place_id": "ChIJW4l2WJ6-hkcRB3q2Boia93U"
+  },
+  "via forlanini n.67": {
+    "formatted_address": "Via Carlo Forlanini, 67, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6087697,
+      "lng": 9.2207507
+    },
+    "place_id": "Ei9WaWEgQ2FybG8gRm9ybGFuaW5pLCA2NywgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via villoresi n.23": {
+    "formatted_address": "Via Don Antonio Villoresi, 23, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.60484899999999,
+      "lng": 9.199847
+    },
+    "place_id": "ChIJ2x2CAZy-hkcRKde5K6Wpzbo"
+  },
+  "via sturzo don luigi n.30": {
+    "formatted_address": "Via Don Luigi Sturzo, 30, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.607284,
+      "lng": 9.1832429
+    },
+    "place_id": "ChIJbZOEIH6-hkcRaVtEfSBf6UU"
+  },
+  "via bozzi a. n.8": {
+    "formatted_address": "Via Aldo Bozzi, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6072233,
+      "lng": 9.176761599999999
+    },
+    "place_id": "ChIJfTYTT3m-hkcRxUIdZpOwsCw"
+  },
+  "via rossini n.130": {
+    "formatted_address": "Via Gioacchino Rossini, 130, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.610807,
+      "lng": 9.221411999999999
+    },
+    "place_id": "ChIJf8FDEQO8hkcRfslBe1HJYls"
+  },
+  "via milano n.351": {
+    "formatted_address": "Via Milano, 351, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6278914,
+      "lng": 9.2060789
+    },
+    "place_id": "ChIJPzH4X0e8hkcRQ62ZcyAmaOQ"
+  },
+  "via due palme n.62": {
+    "formatted_address": "Via Due Palme, 62, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.632395,
+      "lng": 9.212057
+    },
+    "place_id": "ChIJwQh1K0K8hkcR19nlZHJfqrY"
+  },
+  "via per cesano n.27": {
+    "formatted_address": "Via per Cesano Maderno, 27, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6234575,
+      "lng": 9.1954809
+    },
+    "place_id": "ChIJkebOSDG8hkcRhU8lRAfjdCM"
+  },
+  "via filippo da desio n.42": {
+    "formatted_address": "Via Filippo da Desio, 42, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6242611,
+      "lng": 9.2189304
+    },
+    "place_id": "ChIJzcAbnRO8hkcR9SW1knI_yhI"
+  },
+  "via agnesi n.172": {
+    "formatted_address": "Via Gaetana Agnesi, 172, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.610859,
+      "lng": 9.189484
+    },
+    "place_id": "ChIJJSZsECq8hkcRnTJTcHBYgW4"
+  },
+  "via degli artigiani n.1": {
+    "formatted_address": "Viale degli Artigiani, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6039241,
+      "lng": 9.2037786
+    },
+    "place_id": "ChIJu3dtzpi-hkcRWA1TNP-GV0g"
+  },
+  "via novati n.6": {
+    "formatted_address": "Via Enrico Novati, 6, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.605735,
+      "lng": 9.215332
+    },
+    "place_id": "ChIJWYmlrKe-hkcRTPhR1v8aqGM"
+  },
+  "via degli artigiani n.13": {
+    "formatted_address": "Viale degli Artigiani, 13, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.60307299999999,
+      "lng": 9.203676
+    },
+    "place_id": "ChIJxx0qwJi-hkcREOwGKU4XnRk"
+  },
+  "via ferrari n.4": {
+    "formatted_address": "Via Enzo Ferrari, 4, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6074606,
+      "lng": 9.182131
+    },
+    "place_id": "ChIJoUglO36-hkcRr98okbS4xPM"
+  },
+  "via rossini n.114": {
+    "formatted_address": "Via Gioacchino Rossini, 114, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6100579,
+      "lng": 9.2183101
+    },
+    "place_id": "ChIJC90FJx28hkcR-k4m5x8sbhM"
+  },
+  "via del commercio": {
+    "formatted_address": "Via del Commercio, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6095541,
+      "lng": 9.2220827
+    },
+    "place_id": "ChIJdaZM_AK8hkcRJwmB5Jv2Cmo"
+  },
+  "via milano": {
+    "formatted_address": "Via Milano, 20832 MB, Italia",
+    "location": {
+      "lat": 45.6201113,
+      "lng": 9.199592599999999
+    },
+    "place_id": "ChIJH837tDm8hkcRrR9bJepB73I"
+  },
+  "via monte santo n.7": {
+    "formatted_address": "Via Monte Santo, 7, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6261129,
+      "lng": 9.2061689
+    },
+    "place_id": "ChIJxcFWxTi8hkcRucEEUWHVVfE"
+  },
+  "via mascagni n.86": {
+    "formatted_address": "Via Pietro Mascagni, 86, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6077276,
+      "lng": 9.217931
+    },
+    "place_id": "ChIJB-eDUR28hkcRq69DlI9qiDc"
+  },
+  "via agnesi n.145": {
+    "formatted_address": "Via Gaetana Agnesi, 145, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.611232,
+      "lng": 9.192029
+    },
+    "place_id": "ChIJQ9Ohvym8hkcRN1Xtxr6jbmE"
+  },
+  "via brennero n.29": {
+    "formatted_address": "Via Brennero, 29, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.625591,
+      "lng": 9.208912999999999
+    },
+    "place_id": "ChIJbTxRGz-8hkcRby7rWmnUN0w"
+  },
+  "via maestri del lavoro n.7": {
+    "formatted_address": "Via Maestri del Lavoro, 7, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6034654,
+      "lng": 9.217349
+    },
+    "place_id": "EjFWaWEgTWFlc3RyaSBkZWwgTGF2b3JvLCA3LCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via nizza n.8": {
+    "formatted_address": "Via Nizza, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.623938,
+      "lng": 9.196602
+    },
+    "place_id": "ChIJHdw4zTa8hkcR3AzNzo2f-nU"
+  },
+  "via agnesi n.251": {
+    "formatted_address": "Via Gaetana Agnesi, 251, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6095899,
+      "lng": 9.183359099999999
+    },
+    "place_id": "Ei9WaWEgR2FldGFuYSBBZ25lc2ksIDI1MSwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via bozzi a. n.24": {
+    "formatted_address": "Via Aldo Bozzi, 24, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6076914,
+      "lng": 9.1791039
+    },
+    "place_id": "ChIJrRD56X6-hkcRIiIRmlIBvXE"
+  },
+  "via rossini n.128/t": {
+    "formatted_address": "Via Gioacchino Rossini, 128, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.610538,
+      "lng": 9.220473
+    },
+    "place_id": "ChIJm3eaJAO8hkcRyozii117a1Y"
+  },
+  "via bozzi a. n.12": {
+    "formatted_address": "Via Aldo Bozzi, 12, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6073923,
+      "lng": 9.1774566
+    },
+    "place_id": "ChIJJ1ksS3m-hkcRNCcsS7M-Q1A"
+  },
+  "via maestri del lavoro n.28": {
+    "formatted_address": "Via Maestri del Lavoro, 28, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6034619,
+      "lng": 9.2173389
+    },
+    "place_id": "EjJWaWEgTWFlc3RyaSBkZWwgTGF2b3JvLCAyOCwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via milano n.379": {
+    "formatted_address": "Via Milano, 379, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6308856,
+      "lng": 9.2043954
+    },
+    "place_id": "ChIJv0pyREa8hkcR90ooYYaNYEE"
+  },
+  "via manzoni n.2": {
+    "formatted_address": "Via Alessandro Manzoni, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61186,
+      "lng": 9.205091
+    },
+    "place_id": "ChIJ02naByG8hkcRbkCtynfntYU"
+  },
+  "via caravaggio n.26/t": {
+    "formatted_address": "Via Caravaggio, 26, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6056592,
+      "lng": 9.2136852
+    },
+    "place_id": "ChIJ5QgHWJ--hkcRpTu1dXQj7yY"
+  },
+  "via mascagni n.85": {
+    "formatted_address": "Via Pietro Mascagni, 85, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6061528,
+      "lng": 9.2200461
+    },
+    "place_id": "ChIJW-blXqi-hkcREvN_Q8b5nfU"
+  },
+  "via cavalieri di vittorio veneto n.9": {
+    "formatted_address": "Via Cavalieri di Vittorio Veneto, 9, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617527,
+      "lng": 9.216449599999999
+    },
+    "place_id": "ChIJv8EmqBC8hkcRs7JbiP3FpSg"
+  },
+  "via agnesi n.272": {
+    "formatted_address": "Via Gaetana Agnesi, 272, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6095899,
+      "lng": 9.183359099999999
+    },
+    "place_id": "Ei9WaWEgR2FldGFuYSBBZ25lc2ksIDI3MiwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via lavoratori autobian n.1 int.2": {
+    "formatted_address": "Via Lavoratori Autobianchi, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.626341,
+      "lng": 9.213913
+    },
+    "place_id": "ChIJsUf0DkC8hkcRkjAU5no2j0c"
+  },
+  "via molinara n.1": {
+    "formatted_address": "Via Molinara, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.623261,
+      "lng": 9.218380999999999
+    },
+    "place_id": "ChIJoTi78hO8hkcRqLNDGLmL2NI"
+  },
+  "via novati n.7": {
+    "formatted_address": "Via Enrico Novati, 7, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.60586,
+      "lng": 9.2151479
+    },
+    "place_id": "ChIJn3__qqe-hkcRVNOGlk08Ay8"
+  },
+  "via novati n.2": {
+    "formatted_address": "Via Enrico Novati, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.605001,
+      "lng": 9.215743
+    },
+    "place_id": "ChIJGV3oRaa-hkcRphO5gnZGCSk"
+  },
+  "via lavoratori autobian n.143 int.12": {
+    "formatted_address": "Via Lavoratori Autobianchi, 1 Int 12/c, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62578999999999,
+      "lng": 9.214749399999999
+    },
+    "place_id": "ChIJndwTFxW8hkcRxMEqnYFgH08"
+  },
+  "via rossini n.139/t": {
+    "formatted_address": "Via Gioacchino Rossini, 139, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.610996,
+      "lng": 9.22185
+    },
+    "place_id": "ChIJ8T9zDQO8hkcRma7khXz4_xo"
+  },
+  "via lavoratori autobian n.139": {
+    "formatted_address": "Via Lavoratori Autobianchi, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6270544,
+      "lng": 9.211954799999999
+    },
+    "place_id": "ChIJNU83bEC8hkcRjfWaGMLD6YA"
+  },
+  "via lavoratori autobian n.89": {
+    "formatted_address": "Via Lavoratori Autobianchi, 89, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62632259999999,
+      "lng": 9.2123147
+    },
+    "place_id": "EjZWaWEgTGF2b3JhdG9yaSBBdXRvYmlhbmNoaSwgODksIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via lavoratori autobian n.1 int.1": {
+    "formatted_address": "Via Lavoratori Autobianchi, 1 Int 12/c, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62578999999999,
+      "lng": 9.214749399999999
+    },
+    "place_id": "ChIJndwTFxW8hkcRxMEqnYFgH08"
+  },
+  "via lavoratori autobian n.67 int.1": {
+    "formatted_address": "Via Lavoratori Autobianchi, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.626341,
+      "lng": 9.213913
+    },
+    "place_id": "ChIJsUf0DkC8hkcRkjAU5no2j0c"
+  },
+  "viale dell'industria n.12": {
+    "formatted_address": "Via dell'Industria, 12, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6064278,
+      "lng": 9.175459
+    },
+    "place_id": "ChIJpdf04Xu-hkcRsqntuxvpLkw"
+  },
+  "via lavoratori autobian n.2/t": {
+    "formatted_address": "Via Lavoratori Autobianchi, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62632259999999,
+      "lng": 9.2123147
+    },
+    "place_id": "EjVWaWEgTGF2b3JhdG9yaSBBdXRvYmlhbmNoaSwgMiwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via oslavia n.76": {
+    "formatted_address": "Via Oslavia, 76, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.603473,
+      "lng": 9.2073129
+    },
+    "place_id": "ChIJR1WQJKK-hkcRvP0dVDEXexs"
+  },
+  "via lavoratori autobian n.1/14": {
+    "formatted_address": "Via Lavoratori Autobianchi, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.626341,
+      "lng": 9.213913
+    },
+    "place_id": "ChIJsUf0DkC8hkcRkjAU5no2j0c"
+  },
+  "via oslavia n.94": {
+    "formatted_address": "Via Oslavia, 94, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.60227,
+      "lng": 9.20776
+    },
+    "place_id": "ChIJI0apTaK-hkcRmRY8bBIbJVI"
+  },
+  "via leoncavallo n.58/a": {
+    "formatted_address": "Via Ruggero Leoncavallo, 58, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6022667,
+      "lng": 9.2195647
+    },
+    "place_id": "ChIJq2y9J6--hkcRRg7iCTg_INc"
+  },
+  "via vicinale dei prati": {
+    "formatted_address": "20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6189486,
+      "lng": 9.198744
+    },
+    "place_id": "ChIJm3FsdCO8hkcRgM0fgAV4Bhw"
+  },
+  "via vicinale per muggio' n.1": {
+    "formatted_address": "Via Vicinale S. Carlo, 1, 20832 Seregno MB, Italia",
+    "location": {
+      "lat": 45.6328861,
+      "lng": 9.1883732
+    },
+    "place_id": "EjJWaWEgVmljaW5hbGUgUy4gQ2FybG8sIDEsIDIwODMyIFNlcmVnbm8gTUIsIEl0YWxpYQ"
+  },
+  "via lavoratori autobian n.22/f": {
+    "formatted_address": "Via Lavoratori Autobianchi, 22, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62632259999999,
+      "lng": 9.2123147
+    },
+    "place_id": "EjZWaWEgTGF2b3JhdG9yaSBBdXRvYmlhbmNoaSwgMjIsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via lavoratori autobian": {
+    "formatted_address": "Via Lavoratori Autobianchi, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6270544,
+      "lng": 9.211954799999999
+    },
+    "place_id": "ChIJNU83bEC8hkcRjfWaGMLD6YA"
+  },
+  "via delle rose n.10": {
+    "formatted_address": "Via Santa Paola di Rosa, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6287019,
+      "lng": 9.199719
+    },
+    "place_id": "ChIJGbH_JUi8hkcRjz6fdjYzXSc"
+  },
+  "via iv novembre n.13": {
+    "formatted_address": "Via IV Novembre, 13, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.611469,
+      "lng": 9.206534999999999
+    },
+    "place_id": "ChIJ3f39tSG8hkcRH11k6eBQvUs"
+  },
+  "via serao n.90": {
+    "formatted_address": "Via Matilde Serao, 90, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6150087,
+      "lng": 9.1918326
+    },
+    "place_id": "Ei1WaWEgTWF0aWxkZSBTZXJhbywgOTAsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via iv novembre n.1": {
+    "formatted_address": "Via IV Novembre, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.612149,
+      "lng": 9.206253
+    },
+    "place_id": "ChIJVzVhvCG8hkcR8Gj-JW2B2Fs"
+  },
+  "via due palme n.48/b": {
+    "formatted_address": "Via Due Palme, 48B, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.631593,
+      "lng": 9.211986
+    },
+    "place_id": "ChIJkQZWg0G8hkcRw0kq6pjFEy4"
+  },
+  "via bozzi a. n.2": {
+    "formatted_address": "Via Aldo Bozzi, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.607039,
+      "lng": 9.176278
+    },
+    "place_id": "ChIJx-pQW3m-hkcRN7woEqtQZvc"
+  },
+  "via carcano n.11": {
+    "formatted_address": "Via Filippo Carcano, 11, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.614203,
+      "lng": 9.206657
+    },
+    "place_id": "ChIJ_1ISMCK8hkcRFZwZkf6W2YY"
+  },
+  "via due palme n.44": {
+    "formatted_address": "Via Due Palme, 44, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6307991,
+      "lng": 9.2118948
+    },
+    "place_id": "ChIJg8C6o0G8hkcR1fLx3CoW4tY"
+  },
+  "via monte rosa n.50": {
+    "formatted_address": "Via Monte Rosa, 50, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61801670000001,
+      "lng": 9.1875731
+    },
+    "place_id": "ChIJeyldJS28hkcRvbsdZQWhaNg"
+  },
+  "via de santis n.5": {
+    "formatted_address": "Via de Sanctis, 5, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.63109799999999,
+      "lng": 9.205641
+    },
+    "place_id": "ChIJsWMk9ka8hkcRzubIVZqf7BQ"
+  },
+  "via sturzo don luigi n.11": {
+    "formatted_address": "Via Don Luigi Sturzo, 11, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.606489,
+      "lng": 9.179178
+    },
+    "place_id": "ChIJ996JnH6-hkcRrhQVvmX-YZw"
+  },
+  "via lucinico n.9": {
+    "formatted_address": "Via Lucinico, 9, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.633562,
+      "lng": 9.192074999999999
+    },
+    "place_id": "ChIJ0es9VEu8hkcRv8AmJyaTn14"
+  },
+  "via sturzo don luigi n.23": {
+    "formatted_address": "Via Don Luigi Sturzo, 23, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.60698800000001,
+      "lng": 9.181541
+    },
+    "place_id": "ChIJG6Z3a36-hkcRfx57Aehh3jg"
+  },
+  "piazza giotto n.4": {
+    "formatted_address": "Piazza Giotto, 4A, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.621252,
+      "lng": 9.226346999999999
+    },
+    "place_id": "ChIJ93Sigw68hkcRSeJOlToegC0"
+  },
+  "via degli artigiani n.29": {
+    "formatted_address": "Viale degli Artigiani, 29, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.601706,
+      "lng": 9.205357
+    },
+    "place_id": "ChIJjVVlh6K-hkcRoURfJcSAx9g"
+  },
+  "via degli artigiani n.5": {
+    "formatted_address": "Viale degli Artigiani, 5, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.603561,
+      "lng": 9.203555
+    },
+    "place_id": "ChIJsaLIxZi-hkcRfzo8dBgTkAg"
+  },
+  "via sturzo don luigi n.10": {
+    "formatted_address": "Via Don Luigi Sturzo, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.606563,
+      "lng": 9.17985
+    },
+    "place_id": "ChIJl47qhn6-hkcRVCAfwcMJx-E"
+  },
+  "via brennero n.41": {
+    "formatted_address": "Via Brennero, 41, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6257879,
+      "lng": 9.2098546
+    },
+    "place_id": "EihWaWEgQnJlbm5lcm8sIDQxLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via de luca n.9": {
+    "formatted_address": "Via Antonio de Luca, 9, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62125,
+      "lng": 9.231906
+    },
+    "place_id": "ChIJuxaYKwq8hkcRF9PRswMIxRU"
+  },
+  "via bozzi a.": {
+    "formatted_address": "Via Aldo Bozzi, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6078167,
+      "lng": 9.1791204
+    },
+    "place_id": "ChIJfZTE6X6-hkcRUyP9UUQpAH0"
+  },
+  "via briani n.25": {
+    "formatted_address": "Via Luigi Briani, 25, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62520670000001,
+      "lng": 9.2290233
+    },
+    "place_id": "ChIJ1a5-uwy8hkcRMrOnG8H4HMA"
+  },
+  "via sturzo don luigi n.13": {
+    "formatted_address": "Via Don Luigi Sturzo, 13, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.606523,
+      "lng": 9.179389
+    },
+    "place_id": "ChIJNQqqhH6-hkcR0GevGx8h-54"
+  },
+  "via volta n.59": {
+    "formatted_address": "Via Alessandro Volta, 59, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.623348,
+      "lng": 9.211824
+    },
+    "place_id": "ChIJd25vHT68hkcRqhiM0p4kowg"
+  },
+  "via buonarroti n.4": {
+    "formatted_address": "Via Michelangelo Buonarroti, 4, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61370400000001,
+      "lng": 9.202105999999999
+    },
+    "place_id": "ChIJWWA8pia8hkcR3Ch2ELbWXWc"
+  },
+  "via villoresi n.44": {
+    "formatted_address": "Via Don Antonio Villoresi, 44, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6048365,
+      "lng": 9.1994609
+    },
+    "place_id": "EjVWaWEgRG9uIEFudG9uaW8gVmlsbG9yZXNpLCA0NCwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via trieste n.20": {
+    "formatted_address": "Via Trieste, 20, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6099741,
+      "lng": 9.2027473
+    },
+    "place_id": "ChIJK4T8uyC8hkcRFpqMTcHkhf8"
+  },
+  "via boltraffio n.13": {
+    "formatted_address": "Via Boltraffio, 13, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6260369,
+      "lng": 9.23292
+    },
+    "place_id": "ChIJDVul1nS8hkcR3Ej81iWjt2c"
+  },
+  "via degli artigiani n.8": {
+    "formatted_address": "Viale degli Artigiani, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.602936,
+      "lng": 9.203623
+    },
+    "place_id": "ChIJR_r-6pi-hkcRLWuOg9eUBac"
+  },
+  "via trieste n.7": {
+    "formatted_address": "Via Trieste, 7, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.610099,
+      "lng": 9.202812999999999
+    },
+    "place_id": "ChIJBXktuSC8hkcRWCPcUW2vCBE"
+  },
+  "via degli artigiani n.7": {
+    "formatted_address": "Viale degli Artigiani, 7, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.603427,
+      "lng": 9.203574999999999
+    },
+    "place_id": "ChIJZ8odxJi-hkcRAgJR5OuB4FI"
+  },
+  "via novati n.9": {
+    "formatted_address": "Via Enrico Novati, 9, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6057897,
+      "lng": 9.2152452
+    },
+    "place_id": "EixWaWEgRW5yaWNvIE5vdmF0aSwgOSwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via dante n.55": {
+    "formatted_address": "Via Dante Alighieri, 55, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6244343,
+      "lng": 9.205727
+    },
+    "place_id": "ChIJYYmyNzm8hkcRWA5COCe3R88"
+  },
+  "via pio xi n.17/b": {
+    "formatted_address": "Via Pio XI, 17B, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616694,
+      "lng": 9.210329999999999
+    },
+    "place_id": "ChIJz2fxchi8hkcRkKkcCV_8lzk"
+  },
+  "via don bonzi n.20": {
+    "formatted_address": "Via Don Mauro Bonzi, 20, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6249587,
+      "lng": 9.2295342
+    },
+    "place_id": "ChIJjRk5ogy8hkcR_9tNXtsG1Sw"
+  },
+  "via fiume n.24": {
+    "formatted_address": "Via Fiume, 24, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6186091,
+      "lng": 9.201136800000002
+    },
+    "place_id": "ChIJf9mLLCW8hkcR-c3PV-VnIw4"
+  },
+  "via edison n.12/t": {
+    "formatted_address": "Via Edison Tommaso, 12, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61727,
+      "lng": 9.21954
+    },
+    "place_id": "ChIJe1rYdxC8hkcRHG0iO5E09Jk"
+  },
+  "via degli artigiani n.44": {
+    "formatted_address": "Viale degli Artigiani, 44, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.601565,
+      "lng": 9.205156
+    },
+    "place_id": "ChIJzTMygaK-hkcRxxM0CSeK4Xg"
+  },
+  "via novati n.4": {
+    "formatted_address": "Via Enrico Novati, 4, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.605313,
+      "lng": 9.215557
+    },
+    "place_id": "ChIJA8UYTqa-hkcRKE-cLCnCWwQ"
+  },
+  "via sturzo don luigi n.19": {
+    "formatted_address": "Via Don Luigi Sturzo, 19, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.606834,
+      "lng": 9.180771
+    },
+    "place_id": "ChIJ04wDZX6-hkcRD-OepJIYa0k"
+  },
+  "via brambilla n.16/t": {
+    "formatted_address": "Via Giovanni Brambilla, 16, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.619134,
+      "lng": 9.217907
+    },
+    "place_id": "ChIJZxkT6BC8hkcRp4yKRXkOtM0"
+  },
+  "via mulinello n.28/t": {
+    "formatted_address": "Via Mulinello, 28, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6319792,
+      "lng": 9.178383
+    },
+    "place_id": "ChIJ7agQNri9hkcRCHnexnueqjo"
+  },
+  "via carcano n.66/t": {
+    "formatted_address": "Via Filippo Carcano, 66, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.614003,
+      "lng": 9.2096079
+    },
+    "place_id": "ChIJ6XBioxi8hkcR9fq5r-rCCcQ"
+  },
+  "via sturzo don luigi n.31": {
+    "formatted_address": "Via Sturzo Don Luigi, 31, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.60742,
+      "lng": 9.18372
+    },
+    "place_id": "ChIJ8yHym4C-hkcRiaU5-waAZLg"
+  },
+  "via matteotti n.53/t": {
+    "formatted_address": "Via Giacomo Matteotti, 53, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6167337,
+      "lng": 9.2042656
+    },
+    "place_id": "ChIJDUJ-ZCO8hkcRx_OcltI8grM"
+  },
+  "via volta n.81/t": {
+    "formatted_address": "Via Alessandro Volta, 81, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62410300000001,
+      "lng": 9.211609
+    },
+    "place_id": "ChIJPYqZIz68hkcRNWgAa1NdawI"
+  },
+  "via lavoratori autobian n.73/a int.1": {
+    "formatted_address": "Via Lavoratori Autobianchi, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.626341,
+      "lng": 9.213913
+    },
+    "place_id": "ChIJsUf0DkC8hkcRkjAU5no2j0c"
+  },
+  "via lavoratori autobian n.22/b": {
+    "formatted_address": "Via Lavoratori Autobianchi, 22, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62632259999999,
+      "lng": 9.2123147
+    },
+    "place_id": "EjZWaWEgTGF2b3JhdG9yaSBBdXRvYmlhbmNoaSwgMjIsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via togliatti n.30": {
+    "formatted_address": "20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6189486,
+      "lng": 9.198744
+    },
+    "place_id": "ChIJm3FsdCO8hkcRgM0fgAV4Bhw"
+  },
+  "via per seregno n.73": {
+    "formatted_address": "Via per Seregno, 73, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6246409,
+      "lng": 9.230865
+    },
+    "place_id": "ChIJ7xroaQu8hkcRZCH911IOZHk"
+  },
+  "via prati n.25": {
+    "formatted_address": "Via Prati, 25, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6134759,
+      "lng": 9.2129514
+    },
+    "place_id": "ChIJAQ0Wyx68hkcRNiZfhsWqFaM"
+  },
+  "via lavoratori autobian n.21 int.1": {
+    "formatted_address": "Via Lavoratori Autobianchi, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.626341,
+      "lng": 9.213913
+    },
+    "place_id": "ChIJsUf0DkC8hkcRkjAU5no2j0c"
+  },
+  "via de luca n.17/t": {
+    "formatted_address": "Via Antonio de Luca, 17, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6211291,
+      "lng": 9.2315832
+    },
+    "place_id": "ChIJv_3o1Au8hkcRow0rOiSTHDE"
+  },
+  "via benedetto croce n.4 int.3": {
+    "formatted_address": "Via Benedetto Croce, 4, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.604987,
+      "lng": 9.199591
+    },
+    "place_id": "ChIJX4pDBJy-hkcRkLY7e5_zXyk"
+  },
+  "via sturzo don luigi n.38": {
+    "formatted_address": "Via Don Luigi Sturzo, 38, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6074166,
+      "lng": 9.1839991
+    },
+    "place_id": "ChIJn_pomoC-hkcREyp20MHEG00"
+  },
+  "via maestri del lavoro n.1": {
+    "formatted_address": "Via Maestri del Lavoro, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6034654,
+      "lng": 9.217349
+    },
+    "place_id": "EjFWaWEgTWFlc3RyaSBkZWwgTGF2b3JvLCAxLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via f.lli cervi n.49": {
+    "formatted_address": "20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6189486,
+      "lng": 9.198744
+    },
+    "place_id": "ChIJm3FsdCO8hkcRgM0fgAV4Bhw"
+  },
+  "via bozzi a. n.30": {
+    "formatted_address": "Via Aldo Bozzi, 30, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.608078,
+      "lng": 9.180491
+    },
+    "place_id": "ChIJG9f1-H6-hkcRcyk3212NWys"
+  },
+  "via pozzo antico n.41": {
+    "formatted_address": "Via Pozzo Antico, 41, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.613649,
+      "lng": 9.209427999999999
+    },
+    "place_id": "ChIJu-gErhi8hkcRq-Mr2aaYGXk"
+  },
+  "via monte rosa n.48": {
+    "formatted_address": "Via Monte Rosa, 48, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61798659999999,
+      "lng": 9.1871206
+    },
+    "place_id": "ChIJTyl7Li28hkcR7CQtGtDyR88"
+  },
+  "via lampugnani n.73": {
+    "formatted_address": "Via Giovanni Maria Lampugnani, 73, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6183638,
+      "lng": 9.2172476
+    },
+    "place_id": "ChIJueccvBC8hkcRGWFms1lF0T4"
+  },
+  "via del commercio n.2": {
+    "formatted_address": "Via del Commercio, 2, 20832 Lissone MB, Italia",
+    "location": {
+      "lat": 45.609266,
+      "lng": 9.2214482
+    },
+    "place_id": "ChIJVQh78AK8hkcRNaOo5DZGFEs"
+  },
+  "via brescia n.42": {
+    "formatted_address": "Via Brescia, 42, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.63014099999999,
+      "lng": 9.20807
+    },
+    "place_id": "ChIJQ3V61Ua8hkcRdSbWGXT3uEs"
+  },
+  "via dante n.41": {
+    "formatted_address": "Via Dante Alighieri, 41, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.623705,
+      "lng": 9.206114
+    },
+    "place_id": "ChIJw4mpUjm8hkcRs-FhNMechRY"
+  },
+  "via per cesano n.152": {
+    "formatted_address": "Via per Cesano Maderno, 152, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62533,
+      "lng": 9.186817999999999
+    },
+    "place_id": "ChIJ8V1rcMu9hkcRAHnv7LbPjgI"
+  },
+  "via pallavicini n.42/b": {
+    "formatted_address": "Via Giorgio Pallavicini, 42B, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.618692,
+      "lng": 9.197600999999999
+    },
+    "place_id": "ChIJ8Tca5C-8hkcRivX_iTxEROo"
+  },
+  "via pio xi n.2": {
+    "formatted_address": "Via Pio XI, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6168159,
+      "lng": 9.2092019
+    },
+    "place_id": "ChIJg5pYmCK8hkcR9Dut7YW-N9Y"
+  },
+  "via per seregno n.49 int.2": {
+    "formatted_address": "Via per Seregno, 49, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.623939,
+      "lng": 9.2310824
+    },
+    "place_id": "EitWaWEgcGVyIFNlcmVnbm8sIDQ5LCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via milano n.365": {
+    "formatted_address": "Via Milano, 365, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.630001,
+      "lng": 9.205205
+    },
+    "place_id": "ChIJHf7vqUe8hkcRdz6rCKN4R1A"
+  },
+  "via lombardia n.10": {
+    "formatted_address": "Via Lombardia, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.620065,
+      "lng": 9.2107409
+    },
+    "place_id": "EilWaWEgTG9tYmFyZGlhLCAxMCwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via gabellini n.20": {
+    "formatted_address": "Via Alberto Gabellini, 20, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6226429,
+      "lng": 9.206676
+    },
+    "place_id": "ChIJVdtUGjy8hkcRpsP20GdkXqM"
+  },
+  "via brennero n.10": {
+    "formatted_address": "Via Brennero, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.625875,
+      "lng": 9.210656
+    },
+    "place_id": "ChIJnwgCuz-8hkcRB9nIYA-Lr00"
+  },
+  "via milano n.19": {
+    "formatted_address": "Via Milano, 19, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.60213,
+      "lng": 9.200941
+    },
+    "place_id": "ChIJu_AECpm-hkcR1ipsMEhXh5k"
+  },
+  "via milano n.199": {
+    "formatted_address": "Via Milano, 199, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6188964,
+      "lng": 9.1996185
+    },
+    "place_id": "ChIJ9RitTCW8hkcRDWZXiC_ARFY"
+  },
+  "via garibaldi n.181": {
+    "formatted_address": "Via Giuseppe Garibaldi, 181, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.612572,
+      "lng": 9.205195999999999
+    },
+    "place_id": "ChIJEUjsdCG8hkcRGofKHq4X2h4"
+  },
+  "via milano n.355": {
+    "formatted_address": "Via Milano, 355, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.628538,
+      "lng": 9.205791999999999
+    },
+    "place_id": "ChIJEzJdb0e8hkcRIXjBy9Q0Kxs"
+  },
+  "via garibaldi n.144": {
+    "formatted_address": "Via Giuseppe Garibaldi, 144, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6128039,
+      "lng": 9.205413
+    },
+    "place_id": "ChIJb6FudiG8hkcR2VcjXT7edfs"
+  },
+  "via manzoni n.45": {
+    "formatted_address": "Via Alessandro Manzoni, 45, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6126977,
+      "lng": 9.2076881
+    },
+    "place_id": "ChIJjdi95SG8hkcRwZCpUu23kSY"
+  },
+  "via forlanini": {
+    "formatted_address": "Via Carlo Forlanini, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6143516,
+      "lng": 9.2196612
+    },
+    "place_id": "ChIJc_KhFRu8hkcRZ7PxLiokwKk"
+  },
+  "via pio xi n.21": {
+    "formatted_address": "Via Pio XI, 21, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616879,
+      "lng": 9.210353999999999
+    },
+    "place_id": "ChIJWbkjDRi8hkcRjO34RmGlUc8"
+  },
+  "corso italia n.79": {
+    "formatted_address": "Corso Italia, 79, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6208241,
+      "lng": 9.2084697
+    },
+    "place_id": "EihDb3JzbyBJdGFsaWEsIDc5LCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via lavoratori autobian n.5 int.1": {
+    "formatted_address": "Via Lavoratori Autobianchi, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.626341,
+      "lng": 9.213913
+    },
+    "place_id": "ChIJsUf0DkC8hkcRkjAU5no2j0c"
+  },
+  "via garibaldi n.2": {
+    "formatted_address": "Via Giuseppe Garibaldi, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6169191,
+      "lng": 9.2070913
+    },
+    "place_id": "EjFWaWEgR2l1c2VwcGUgR2FyaWJhbGRpLCAyLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via degli artigiani n.2": {
+    "formatted_address": "Viale degli Artigiani, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6037565,
+      "lng": 9.2034903
+    },
+    "place_id": "ChIJeTafz5i-hkcRck1J8XuwmQ4"
+  },
+  "corso italia n.187": {
+    "formatted_address": "Corso Italia, 187, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.625264,
+      "lng": 9.207142
+    },
+    "place_id": "ChIJ9-T31j68hkcRrlDN8n6Jhgw"
+  },
+  "corso italia n.137/t": {
+    "formatted_address": "Corso Italia, 137, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62260999999999,
+      "lng": 9.208331
+    },
+    "place_id": "ChIJi_-oLjy8hkcR-n1mNMPg_EM"
+  },
+  "via san vincenzo n.22": {
+    "formatted_address": "Via S. Vincenzo Dè Paoli, 22, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6040404,
+      "lng": 9.2001867
+    },
+    "place_id": "ChIJ48rrUJm-hkcR4czm8pM70xc"
+  },
+  "via villoresi n.67": {
+    "formatted_address": "Via Don Antonio Villoresi, 67, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6045749,
+      "lng": 9.198641
+    },
+    "place_id": "ChIJLWAJ9Zu-hkcRLkpumzc_Xfk"
+  },
+  "via garibaldi n.277": {
+    "formatted_address": "Via Giuseppe Garibaldi, 277, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.60865099999999,
+      "lng": 9.203420999999999
+    },
+    "place_id": "ChIJK5qOJZ6-hkcRew0-_TbMUEY"
+  },
+  "via lampugnani n.119": {
+    "formatted_address": "Via Giovanni Maria Lampugnani, 119, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6187209,
+      "lng": 9.2198937
+    },
+    "place_id": "EjpWaWEgR2lvdmFubmkgTWFyaWEgTGFtcHVnbmFuaSwgMTE5LCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via milano n.363": {
+    "formatted_address": "Via Milano, 363, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6300037,
+      "lng": 9.205235
+    },
+    "place_id": "EidWaWEgTWlsYW5vLCAzNjMsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via grandi n.37": {
+    "formatted_address": "Via Achille Grandi, 37, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.615055,
+      "lng": 9.2091429
+    },
+    "place_id": "ChIJu_XndyK8hkcRH2h6rroanEk"
+  },
+  "via per cesano n.148": {
+    "formatted_address": "Via per Cesano Maderno, 148, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.625206,
+      "lng": 9.188229
+    },
+    "place_id": "ChIJMws5Rcu9hkcROGR3HSft_8E"
+  },
+  "via matteotti n.80": {
+    "formatted_address": "Via Giacomo Matteotti, 80, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616373,
+      "lng": 9.2007049
+    },
+    "place_id": "ChIJA5qaqiW8hkcRic_UBCFs_2g"
+  },
+  "via custoza n.12": {
+    "formatted_address": "Via Custoza, 12, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.622207,
+      "lng": 9.181519
+    },
+    "place_id": "ChIJ_bXKes69hkcRnwKV62JAN7I"
+  },
+  "via garibaldi n.100": {
+    "formatted_address": "Via Giuseppe Garibaldi, 100, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.613522,
+      "lng": 9.205528
+    },
+    "place_id": "ChIJbbdafiG8hkcRRjYvXft42x4"
+  },
+  "via grandi n.10": {
+    "formatted_address": "Via Achille Grandi, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6148476,
+      "lng": 9.2072938
+    },
+    "place_id": "ChIJ_Z1XQSK8hkcRKIFiAvTuzz4"
+  },
+  "via pozzo antico n.5": {
+    "formatted_address": "Via Pozzo Antico, 5, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616416,
+      "lng": 9.2079
+    },
+    "place_id": "ChIJi5918iK8hkcR-qA0WnDpCOw"
+  },
+  "via borghetto ang. via milano": {
+    "formatted_address": "Via Milano, 20832 MB, Italia",
+    "location": {
+      "lat": 45.6201113,
+      "lng": 9.199592599999999
+    },
+    "place_id": "ChIJH837tDm8hkcRrR9bJepB73I"
+  },
+  "corso italia n.14": {
+    "formatted_address": "Corso Italia, 14, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617916,
+      "lng": 9.207524
+    },
+    "place_id": "ChIJr5Wu1iK8hkcRyk8YfVeE7To"
+  },
+  "via milano n.122": {
+    "formatted_address": "Via Milano, 122, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61127700000001,
+      "lng": 9.201532
+    },
+    "place_id": "ChIJ67gsLye8hkcR71j7jroT-Vc"
+  },
+  "via matteotti n.68": {
+    "formatted_address": "Via Giacomo Matteotti, 68, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61664409999999,
+      "lng": 9.2027226
+    },
+    "place_id": "ChIJFzZvjyS8hkcRFNBxmieXmGQ"
+  },
+  "piazza conciliazione n.3": {
+    "formatted_address": "Piazza Conciliazione, 3, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61737,
+      "lng": 9.20754
+    },
+    "place_id": "ChIJP5-D2yK8hkcRhPtN_pJjVcE"
+  },
+  "corso italia n.49": {
+    "formatted_address": "Corso Italia, 49, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6182639,
+      "lng": 9.2074379
+    },
+    "place_id": "ChIJwfvRKj28hkcRokDDnn14MWU"
+  },
+  "via xxv aprile n.1": {
+    "formatted_address": "Via XXV Aprile, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6181857,
+      "lng": 9.216425599999999
+    },
+    "place_id": "ChIJP2H0sRC8hkcRznRdRhGnPdY"
+  },
+  "via grandi n.37/h": {
+    "formatted_address": "Via Achille Grandi, 37, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.615055,
+      "lng": 9.2091429
+    },
+    "place_id": "ChIJu_XndyK8hkcRH2h6rroanEk"
+  },
+  "via garibaldi n.216": {
+    "formatted_address": "Via Giuseppe Garibaldi, 216, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.610566,
+      "lng": 9.204144
+    },
+    "place_id": "ChIJ3UzB8SC8hkcR9L5kx7ZynyQ"
+  },
+  "via tonale n.45": {
+    "formatted_address": "Via Tonale, 45, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61866999999999,
+      "lng": 9.18895
+    },
+    "place_id": "ChIJN_f8bC28hkcRF_QGhBwxUVM"
+  },
+  "corso italia n.95": {
+    "formatted_address": "Corso Italia, 95, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.621056,
+      "lng": 9.208658999999999
+    },
+    "place_id": "ChIJ9XoVrj28hkcRCEgCeFcmWuI"
+  },
+  "via foscolo n.31": {
+    "formatted_address": "Via Ugo Foscolo, 31, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61324399999999,
+      "lng": 9.204061
+    },
+    "place_id": "ChIJ2asZXSG8hkcRN34Ktss9Lkg"
+  },
+  "corso italia n.13": {
+    "formatted_address": "Corso Italia, 13, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6175674,
+      "lng": 9.2072261
+    },
+    "place_id": "ChIJXV-y2SK8hkcR9Sv4cfCb6CM"
+  },
+  "via forlanini n.42": {
+    "formatted_address": "Via Carlo Forlanini, 42, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617847,
+      "lng": 9.2179
+    },
+    "place_id": "ChIJrz1NmhC8hkcRyret5wtQk-8"
+  },
+  "via pallavicini": {
+    "formatted_address": "Via Giorgio Pallavicini, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6200281,
+      "lng": 9.197225399999999
+    },
+    "place_id": "ChIJEaIERzC8hkcR62tBTqSVG50"
+  },
+  "via pallavicini n.30": {
+    "formatted_address": "Via Giorgio Pallavicini, 30, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6178936,
+      "lng": 9.1978145
+    },
+    "place_id": "ChIJN1BJjS-8hkcRlfq-OWHpJ1w"
+  },
+  "via garibaldi n.107": {
+    "formatted_address": "Via Giuseppe Garibaldi, 107, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61448,
+      "lng": 9.205983999999999
+    },
+    "place_id": "ChIJdcWhzCO8hkcRvJrbPftEkH8"
+  },
+  "via volta n.91/a": {
+    "formatted_address": "Via Alessandro Volta, 91a, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6247046,
+      "lng": 9.2113262
+    },
+    "place_id": "ChIJbUlrMT68hkcRUYIaO8EjC70"
+  },
+  "via garibaldi n.71": {
+    "formatted_address": "Via Giuseppe Garibaldi, 71, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6154466,
+      "lng": 9.2064642
+    },
+    "place_id": "EjJWaWEgR2l1c2VwcGUgR2FyaWJhbGRpLCA3MSwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "corso italia n.25": {
+    "formatted_address": "Corso Italia, 25, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6177769,
+      "lng": 9.207372
+    },
+    "place_id": "ChIJcy8b1yK8hkcRoOQ0tyFo5mk"
+  },
+  "via guarenti n.9": {
+    "formatted_address": "Via Davide Guarenti, 9, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6194509,
+      "lng": 9.213749
+    },
+    "place_id": "Ei5WaWEgRGF2aWRlIEd1YXJlbnRpLCA5LCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "corso italia n.3": {
+    "formatted_address": "Corso Italia, 3, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61741929999999,
+      "lng": 9.207148000000002
+    },
+    "place_id": "ChIJN1_N3iK8hkcRp0sUtQNrw2k"
+  },
+  "via san giovanni bosco n.8": {
+    "formatted_address": "Via San Giovanni Bosco, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.628871,
+      "lng": 9.197084
+    },
+    "place_id": "EjFWaWEgU2FuIEdpb3Zhbm5pIEJvc2NvLCA4LCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via damiano chiesa n.3/t": {
+    "formatted_address": "Via Damiano Chiesa, 3, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6178982,
+      "lng": 9.216719699999999
+    },
+    "place_id": "ChIJWRKPpRC8hkcRu62CDREdApw"
+  },
+  "via forlanini n.32": {
+    "formatted_address": "Via Carlo Forlanini, 32, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6181265,
+      "lng": 9.217791799999999
+    },
+    "place_id": "Ei9WaWEgQ2FybG8gRm9ybGFuaW5pLCAzMiwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via lampugnani n.3/5": {
+    "formatted_address": "Via Giovanni Maria Lampugnani, 5, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61745190000001,
+      "lng": 9.2150295
+    },
+    "place_id": "ChIJPYhoJRi8hkcRzYdZURR_riI"
+  },
+  "via xxiv maggio n.10": {
+    "formatted_address": "Via XXIV Maggio, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6179371,
+      "lng": 9.207875399999999
+    },
+    "place_id": "EitWaWEgWFhJViBNYWdnaW8sIDEwLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via leoncavallo n.1": {
+    "formatted_address": "Via Ruggero Leoncavallo, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6032775,
+      "lng": 9.219199999999999
+    },
+    "place_id": "EjJWaWEgUnVnZ2VybyBMZW9uY2F2YWxsbywgMSwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via bengasi n.8": {
+    "formatted_address": "Via Bengasi, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61196,
+      "lng": 9.20337
+    },
+    "place_id": "ChIJE_-8JCG8hkcRclFaJN0u61w"
+  },
+  "via tagliabue n.36": {
+    "formatted_address": "Via Umberto Tagliabue, 36, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.619972,
+      "lng": 9.217704
+    },
+    "place_id": "ChIJd4TRJhG8hkcRIzxHt5Pf-pE"
+  },
+  "via bramante n.15": {
+    "formatted_address": "Via Bramante da Urbano, 15C, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62144199999999,
+      "lng": 9.225389
+    },
+    "place_id": "ChIJp_DveA68hkcRH8QGVbWnox4"
+  },
+  "piazza conciliazione": {
+    "formatted_address": "Piazza Conciliazione, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61736699999999,
+      "lng": 9.207899
+    },
+    "place_id": "ChIJEyR62yK8hkcR-OBxYKu_AIg"
+  },
+  "via matteotti n.48": {
+    "formatted_address": "Via Giacomo Matteotti, 48, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616799,
+      "lng": 9.20478
+    },
+    "place_id": "ChIJYeeubyO8hkcRWsqSLBi1GVc"
+  },
+  "via lampugnani n.52": {
+    "formatted_address": "Via Giovanni Maria Lampugnani, 52, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6178213,
+      "lng": 9.214209499999999
+    },
+    "place_id": "ChIJcYsTYRe8hkcRpoo6IGBTKxA"
+  },
+  "via matteotti n.73": {
+    "formatted_address": "Via Giacomo Matteotti, 73, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61658,
+      "lng": 9.203507
+    },
+    "place_id": "ChIJHyqOgyS8hkcRjzLV_TZ6ajY"
+  },
+  "via garibaldi n.134": {
+    "formatted_address": "Via Giuseppe Garibaldi, 134, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.613127,
+      "lng": 9.20529
+    },
+    "place_id": "ChIJzYL0eSG8hkcRJFy4Ve7fW3Q"
+  },
+  "corso italia n.189": {
+    "formatted_address": "Corso Italia, 189, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.625287,
+      "lng": 9.207125
+    },
+    "place_id": "ChIJ3Rhc1j68hkcR3Oc6gAzieWI"
+  },
+  "via lampugnani n.51": {
+    "formatted_address": "Via Giovanni Maria Lampugnani, 51, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6179277,
+      "lng": 9.213853
+    },
+    "place_id": "ChIJh3UQYxe8hkcR9FQAY4ckORo"
+  },
+  "via de gasperi n.11/a": {
+    "formatted_address": "Via Alcide de Gasperi, 11, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.627938,
+      "lng": 9.2016417
+    },
+    "place_id": "EjFWaWEgQWxjaWRlIGRlIEdhc3BlcmksIDExLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via portichetto n.9": {
+    "formatted_address": "Via Portichetto, 9, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617106,
+      "lng": 9.209726000000002
+    },
+    "place_id": "ChIJzZnDoCK8hkcRJFjnizS-0vk"
+  },
+  "corso italia n.35": {
+    "formatted_address": "Corso Italia, 35, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617931,
+      "lng": 9.207324
+    },
+    "place_id": "ChIJdZFw1iK8hkcRhVe_MgRb0Eg"
+  },
+  "via forlanini n.71": {
+    "formatted_address": "Via Carlo Forlanini, 71, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.613104,
+      "lng": 9.220602
+    },
+    "place_id": "ChIJdbcmsgS8hkcRAljiXC-skSM"
+  },
+  "via per seregno n.30 n.30": {
+    "formatted_address": "Via per Seregno, 30, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6226432,
+      "lng": 9.2320719
+    },
+    "place_id": "ChIJHWcnswu8hkcRoYhCiPCdFTw"
+  },
+  "via garibaldi n.224 n.224": {
+    "formatted_address": "Via Giuseppe Garibaldi, 224, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.610363,
+      "lng": 9.204452999999999
+    },
+    "place_id": "ChIJYVFq9CC8hkcRY3AJp47wikM"
+  },
+  "str baraggiola n.10 n.10": {
+    "formatted_address": "Strada Comunale Baraggiola, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6157933,
+      "lng": 9.2256054
+    },
+    "place_id": "ChIJXzI-6wW8hkcRxqyQ3K-TW1k"
+  },
+  "via gabellini n.32 n.32": {
+    "formatted_address": "Via Alberto Gabellini, 32, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.622452,
+      "lng": 9.205302
+    },
+    "place_id": "ChIJ8UHZ8Du8hkcRxqtWByLBfAU"
+  },
+  "via rossini n.102 n.102": {
+    "formatted_address": "Via Gioacchino Rossini, 102, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6096718,
+      "lng": 9.2168181
+    },
+    "place_id": "ChIJZ4t2Dx28hkcR5sVysAdFr3E"
+  },
+  "corso italia n.65 n.65": {
+    "formatted_address": "Corso Italia, 65, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6195941,
+      "lng": 9.2077759
+    },
+    "place_id": "ChIJ4c_2Hj28hkcRbGKHcWcRrN8"
+  },
+  "via xxiv maggio n.11 n.11": {
+    "formatted_address": "Via XXIV Maggio, 11, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617987,
+      "lng": 9.2078209
+    },
+    "place_id": "ChIJvb040iK8hkcRz_25m7C0f6s"
+  },
+  "via mulinello n.28 n.28": {
+    "formatted_address": "Via Mulinello, 28, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6319792,
+      "lng": 9.178383
+    },
+    "place_id": "ChIJ7agQNri9hkcRCHnexnueqjo"
+  },
+  "via lavoratori autobian n.1 n.1": {
+    "formatted_address": "Via Lavoratori Autobianchi, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.626341,
+      "lng": 9.213913
+    },
+    "place_id": "ChIJsUf0DkC8hkcRkjAU5no2j0c"
+  },
+  "via degli artigiani n.12 n.12": {
+    "formatted_address": "Viale degli Artigiani, 12, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6021617,
+      "lng": 9.2033501
+    },
+    "place_id": "ChIJd8-F9Ji-hkcRl_vgh_GaaEM"
+  },
+  "via tripoli n.28 int.28 n.28 int.28": {
+    "formatted_address": "Via Tripoli, 28, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6161283,
+      "lng": 9.204548599999999
+    },
+    "place_id": "EidWaWEgVHJpcG9saSwgMjgsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via matteotti n.18 n.18": {
+    "formatted_address": "Via Giacomo Matteotti, 18, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6174323,
+      "lng": 9.2059778
+    },
+    "place_id": "ChIJ52kKPSO8hkcREQYHE5p1zRw"
+  },
+  "via maestri del lavoro n.3 n.3": {
+    "formatted_address": "Via Maestri del Lavoro, 3, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6034654,
+      "lng": 9.217349
+    },
+    "place_id": "EjFWaWEgTWFlc3RyaSBkZWwgTGF2b3JvLCAzLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via zanella n.23 n.23": {
+    "formatted_address": "Via Giacomo Zanella, 23, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6171982,
+      "lng": 9.2194284
+    },
+    "place_id": "ChIJpbM-mhq8hkcR_tZNH1AeGKY"
+  },
+  "via nuova valassina n.44 n.44": {
+    "formatted_address": "Via Nuova Valassina, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61583299999999,
+      "lng": 9.2240798
+    },
+    "place_id": "ChIJK8yKgGq5hkcRKa4NzFN83u0"
+  },
+  "via ferrari n.5/t n.5/t": {
+    "formatted_address": "Via Enzo Ferrari, 5, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6083493,
+      "lng": 9.1827844
+    },
+    "place_id": "ChIJx8JJzX--hkcRJUFjevOJpWc"
+  },
+  "via lavoratori autobian n.2 n.2": {
+    "formatted_address": "Via Lavoratori Autobianchi, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62632259999999,
+      "lng": 9.2123147
+    },
+    "place_id": "EjVWaWEgTGF2b3JhdG9yaSBBdXRvYmlhbmNoaSwgMiwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via lavoratori autobian n.143 int.12 n.143 int.12": {
+    "formatted_address": "Via Lavoratori Autobianchi, 1 Int 12/c, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62578999999999,
+      "lng": 9.214749399999999
+    },
+    "place_id": "ChIJndwTFxW8hkcRxMEqnYFgH08"
+  },
+  "via mazzini ": {
+    "formatted_address": "Via Giuseppe Mazzini, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6286279,
+      "lng": 9.1976932
+    },
+    "place_id": "ChIJrdBVjEm8hkcRwDOs_-Xav00"
+  },
+  "via degli artigiani n.11 n.11": {
+    "formatted_address": "Viale degli Artigiani, 11, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.603247,
+      "lng": 9.20363
+    },
+    "place_id": "ChIJH_YMwZi-hkcRt8BbfQD1Pmk"
+  },
+  "via dolomiti n.40 n.40": {
+    "formatted_address": "Via Dolomiti, 40, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6206477,
+      "lng": 9.187283299999999
+    },
+    "place_id": "EihWaWEgRG9sb21pdGksIDQwLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via garibaldi n.172 n.172": {
+    "formatted_address": "Via Giuseppe Garibaldi, 172, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.612118,
+      "lng": 9.205218
+    },
+    "place_id": "ChIJwaXsCSG8hkcRzjsl7yLw7Fs"
+  },
+  "via galvani n.32 n.32": {
+    "formatted_address": "Via Luigi Galvani, 32, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6134259,
+      "lng": 9.207518
+    },
+    "place_id": "ChIJOZjl9SG8hkcRlm4Mts2O1hY"
+  },
+  "via matteotti n.10 n.10": {
+    "formatted_address": "Via Giacomo Matteotti, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617447,
+      "lng": 9.206534
+    },
+    "place_id": "ChIJzbxwJCO8hkcRUsjrgYiL6wc"
+  },
+  "via lavoratori autobian ": {
+    "formatted_address": "Via Lavoratori Autobianchi, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6270544,
+      "lng": 9.211954799999999
+    },
+    "place_id": "ChIJNU83bEC8hkcRjfWaGMLD6YA"
+  },
+  "via tagliabue n.220 n.220": {
+    "formatted_address": "Via Umberto Tagliabue, 220, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6231334,
+      "lng": 9.231221399999999
+    },
+    "place_id": "EjJWaWEgVW1iZXJ0byBUYWdsaWFidWUsIDIyMCwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via filippo da desio n.49 n.49": {
+    "formatted_address": "Via Filippo da Desio, 49, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6243,
+      "lng": 9.21889
+    },
+    "place_id": "ChIJa7zjnBO8hkcRu8GOH-XoHds"
+  },
+  "via garibaldi n.8 n.8": {
+    "formatted_address": "Via Giuseppe Garibaldi, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616311,
+      "lng": 9.206833
+    },
+    "place_id": "ChIJmbOz_SK8hkcRKgWp7Vd-RX4"
+  },
+  "via pozzo antico n.2 n.24": {
+    "formatted_address": "Via Pozzo Antico, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616815,
+      "lng": 9.2074839
+    },
+    "place_id": "ChIJg08U5iK8hkcRl9aBDDkdepw"
+  },
+  "via einstein n.27 n.27": {
+    "formatted_address": "Via Albert Einstein, 27, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6238079,
+      "lng": 9.2023689
+    },
+    "place_id": "ChIJx40Zjzm8hkcRA5XJQK_k1Cc"
+  },
+  "via agnesi n.145 n.145": {
+    "formatted_address": "Via Gaetana Agnesi, 145, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.611232,
+      "lng": 9.192029
+    },
+    "place_id": "ChIJQ9Ohvym8hkcRN1Xtxr6jbmE"
+  },
+  "via diaz n.12 n.12": {
+    "formatted_address": "Via Armando Diaz, 12, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61947199999999,
+      "lng": 9.206661
+    },
+    "place_id": "ChIJu4MOwjy8hkcRF15qQVLqnuE"
+  },
+  "via volta n.100 n.100": {
+    "formatted_address": "Via Alessandro Volta, 100, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6246963,
+      "lng": 9.211446
+    },
+    "place_id": "EjFWaWEgQWxlc3NhbmRybyBWb2x0YSwgMTAwLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via lavoratori autobian n.36/a n.36/a": {
+    "formatted_address": "Via Lavoratori Autobianchi, 36, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62632259999999,
+      "lng": 9.2123147
+    },
+    "place_id": "EjZWaWEgTGF2b3JhdG9yaSBBdXRvYmlhbmNoaSwgMzYsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "viale stazione n.15 n.15": {
+    "formatted_address": "Viale Stazione, 15, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.619845,
+      "lng": 9.216859999999999
+    },
+    "place_id": "ChIJp16L1RC8hkcRsOPH-AYA0lU"
+  },
+  "via g.rossa n.15 n.15": {
+    "formatted_address": "Via G. Rossa, 15, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.631912,
+      "lng": 9.207794999999999
+    },
+    "place_id": "ChIJBVI1u0a8hkcRNLAi8FOFFBs"
+  },
+  "via lombardia n.5 n.5": {
+    "formatted_address": "Via Lombardia, 5, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62025999999999,
+      "lng": 9.211095
+    },
+    "place_id": "ChIJp2rd1Be8hkcRMJoBGa87UjQ"
+  },
+  "via parini n.10 n.10": {
+    "formatted_address": "Via G. Parini, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6115039,
+      "lng": 9.199225
+    },
+    "place_id": "ChIJc4cFqie8hkcRbOucyuoT1ts"
+  },
+  "viale rimembranze n.1/b n.1/b": {
+    "formatted_address": "Viale Rimembranze, 1B, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.619757,
+      "lng": 9.206139
+    },
+    "place_id": "ChIJy2T1lDy8hkcRgk9lZXrUUnc"
+  },
+  "via del commercio n.14 n.14": {
+    "formatted_address": "Via del Commercio, 14, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61043799999999,
+      "lng": 9.222564
+    },
+    "place_id": "ChIJZy-aqAO8hkcRc3JlUuZUR-o"
+  },
+  "via milano n.24 n.24": {
+    "formatted_address": "Via Milano, 24, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6034441,
+      "lng": 9.2020203
+    },
+    "place_id": "ChIJq9w1PZm-hkcRrMOXltH_o1I"
+  },
+  "via don luigi sturzo n.6 n.6": {
+    "formatted_address": "Via Don Luigi Sturzo, 6, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6064,
+      "lng": 9.1791699
+    },
+    "place_id": "ChIJj37-nH6-hkcRWdk_XPeqrRc"
+  },
+  "via ferravilla n.70 n.70": {
+    "formatted_address": "Via Edoardo Ferravilla, 70, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61691,
+      "lng": 9.192137
+    },
+    "place_id": "ChIJ3ZRCKiy8hkcRq9rhA-3RgVk"
+  },
+  "via diaz n.14/b n.14/b": {
+    "formatted_address": "Via Armando Diaz, 14, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61925799999999,
+      "lng": 9.205499999999999
+    },
+    "place_id": "ChIJi7Rcuzy8hkcRWFQpKGOKSKM"
+  },
+  "via garibaldi n.275 n.275": {
+    "formatted_address": "Via Giuseppe Garibaldi, 275, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6083052,
+      "lng": 9.203752399999999
+    },
+    "place_id": "ChIJpUKjLZ6-hkcRgk9N7T4LZHw"
+  },
+  "via brambilla n.7 n.7": {
+    "formatted_address": "Via Giovanni Brambilla, 7, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6190248,
+      "lng": 9.2169005
+    },
+    "place_id": "EjFWaWEgR2lvdmFubmkgQnJhbWJpbGxhLCA3LCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via milano n.152 n.152": {
+    "formatted_address": "Via Milano, 152, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6136431,
+      "lng": 9.201161299999999
+    },
+    "place_id": "ChIJgc8JnCa8hkcRyIkamiVMR8A"
+  },
+  "via garibaldi n.118 n.118": {
+    "formatted_address": "Via Giuseppe Garibaldi, 118, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.613589,
+      "lng": 9.205537
+    },
+    "place_id": "ChIJIXU7fiG8hkcRJ8yqJNARi8s"
+  },
+  "via l. einaudi n.9 n.9": {
+    "formatted_address": "Via Luigi Einaudi, 9, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6047965,
+      "lng": 9.2154591
+    },
+    "place_id": "EixWaWEgTHVpZ2kgRWluYXVkaSwgOSwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "corso italia n.3 n.3": {
+    "formatted_address": "Corso Italia, 3, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61741929999999,
+      "lng": 9.207148000000002
+    },
+    "place_id": "ChIJN1_N3iK8hkcRp0sUtQNrw2k"
+  },
+  "via milano n.33 n.33": {
+    "formatted_address": "Via Milano, 33, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62562,
+      "lng": 9.20361
+    },
+    "place_id": "ChIJl0YYqzm8hkcRyyGnp79p6cg"
+  },
+  "via garibaldi n.82 n.82": {
+    "formatted_address": "Via Giuseppe Garibaldi, 82, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6150539,
+      "lng": 9.206315499999999
+    },
+    "place_id": "EjJWaWEgR2l1c2VwcGUgR2FyaWJhbGRpLCA4MiwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via agnesi n.170 n.170": {
+    "formatted_address": "Via Gaetana Agnesi, 170, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6109319,
+      "lng": 9.1898088
+    },
+    "place_id": "ChIJe6quGyq8hkcRseBy0s8xXw4"
+  },
+  "via xxiv maggio n.10 n.10": {
+    "formatted_address": "Via XXIV Maggio, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6179371,
+      "lng": 9.207875399999999
+    },
+    "place_id": "EitWaWEgWFhJViBNYWdnaW8sIDEwLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "corso italia n.82 n.82": {
+    "formatted_address": "Corso Italia, 82, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6221067,
+      "lng": 9.208658
+    },
+    "place_id": "ChIJaX-AsT28hkcRy8mcxV2Jm60"
+  },
+  "via don bonzi n.32 n.32": {
+    "formatted_address": "Via Don Mauro Bonzi, 32, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.624711,
+      "lng": 9.228567
+    },
+    "place_id": "ChIJz7H9lAy8hkcRiUkdGJBI7EY"
+  },
+  "corso italia n.91 n.91": {
+    "formatted_address": "Corso Italia, 91, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62052,
+      "lng": 9.208247
+    },
+    "place_id": "ChIJ13WPAD28hkcR4r2iZO7CWOI"
+  },
+  "via xxiv maggio n.3 n.3": {
+    "formatted_address": "Via XXIV Maggio, 3, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.617621,
+      "lng": 9.207875
+    },
+    "place_id": "ChIJ86T3zyK8hkcRxrAy2ZTSd0g"
+  },
+  "corso italia n.113 n.113": {
+    "formatted_address": "Corso Italia, 113, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.621549,
+      "lng": 9.208694999999999
+    },
+    "place_id": "ChIJhdQttD28hkcRmr8NLss6Ux0"
+  },
+  "via garibaldi n.265 n.265": {
+    "formatted_address": "Via Giuseppe Garibaldi, 265, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.609133,
+      "lng": 9.203866
+    },
+    "place_id": "ChIJs2xJgiC8hkcRfV-291jNikk"
+  },
+  "via diaz n.30 n.30": {
+    "formatted_address": "Via Armando Diaz, 30, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6189048,
+      "lng": 9.2018048
+    },
+    "place_id": "ChIJ60MEKzu8hkcRpNU95LSKtvA"
+  },
+  "via lombardia n.3 n.3": {
+    "formatted_address": "Via Lombardia, 3, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6201,
+      "lng": 9.210802
+    },
+    "place_id": "ChIJDZIcfj28hkcRgLp0Zpi_uHM"
+  },
+  "via pietro da desio n.20 n.20": {
+    "formatted_address": "Via Pietro Mascagni, 20, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6130727,
+      "lng": 9.215684
+    },
+    "place_id": "ChIJc3JU8xu8hkcR56NsM8qaNxk"
+  },
+  "via custoza n.12/14 n.12/14": {
+    "formatted_address": "Via Custoza, 12, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.622207,
+      "lng": 9.181519
+    },
+    "place_id": "ChIJ_bXKes69hkcRnwKV62JAN7I"
+  },
+  "via pallavicini n.8 n.8": {
+    "formatted_address": "Via Giorgio Pallavicini, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616734,
+      "lng": 9.198008
+    },
+    "place_id": "ChIJ1UZ3gC-8hkcRxiCzkak7YR8"
+  },
+  "via vercesi n.3 n.3": {
+    "formatted_address": "Via Galileo Vercesi, 3, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6124901,
+      "lng": 9.2088544
+    },
+    "place_id": "ChIJk1QRXB-8hkcR00SpfwIlGfU"
+  },
+  "via carducci n.7 n.7": {
+    "formatted_address": "Via Giosuè Carducci, 7, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.622418,
+      "lng": 9.21171
+    },
+    "place_id": "ChIJzweaARa8hkcRoMGJX5wZPTg"
+  },
+  "via milano n.193 n.193": {
+    "formatted_address": "Via Milano, 193, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61793,
+      "lng": 9.199589
+    },
+    "place_id": "ChIJKSxBQSW8hkcRp8eZDGdpgx8"
+  },
+  "via ferravilla n.66 n.66": {
+    "formatted_address": "Via Edoardo Ferravilla, 66, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6166975,
+      "lng": 9.1908937
+    },
+    "place_id": "EjJWaWEgRWRvYXJkbyBGZXJyYXZpbGxhLCA2NiwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via garibaldi n.86/c n.86/c": {
+    "formatted_address": "Via Giuseppe Garibaldi, 86C, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.614531,
+      "lng": 9.206107
+    },
+    "place_id": "ChIJC8azNCK8hkcRk4m6y_E5mE0"
+  },
+  "via garibaldi n.7 n.7": {
+    "formatted_address": "Via Giuseppe Garibaldi, 7, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6167439,
+      "lng": 9.2071259
+    },
+    "place_id": "ChIJSy1x5CK8hkcRNI9AhGgcf3U"
+  },
+  "via san pietro n.32 n.32": {
+    "formatted_address": "Via S. Pietro, 32, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6197064,
+      "lng": 9.2102124
+    },
+    "place_id": "ChIJ45L3ZD28hkcR9gAV5gP1caQ"
+  },
+  "piazza don giussani n.2 n.2": {
+    "formatted_address": "Piazza Don Giussani, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.620731,
+      "lng": 9.209582
+    },
+    "place_id": "ChIJhahWnz28hkcRWo1i2o-wLWo"
+  },
+  "via garibaldi n.165 n.165": {
+    "formatted_address": "Via Giuseppe Garibaldi, 165, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.612899,
+      "lng": 9.205335999999999
+    },
+    "place_id": "ChIJJSL9diG8hkcRtiWc2OghTCs"
+  },
+  "via de gasperi n.13 n.13": {
+    "formatted_address": "Via Alcide de Gasperi, 13, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6280484,
+      "lng": 9.201606199999999
+    },
+    "place_id": "EjFWaWEgQWxjaWRlIGRlIEdhc3BlcmksIDEzLCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via di vittorio n.29 n.29": {
+    "formatted_address": "Via Giuseppe di Vittorio, 29, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.619317,
+      "lng": 9.193792
+    },
+    "place_id": "ChIJjZhaHS68hkcRE62QAsVjCt0"
+  },
+  "via per cesano n.148 n.148": {
+    "formatted_address": "Via per Cesano Maderno, 148, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.625206,
+      "lng": 9.188229
+    },
+    "place_id": "ChIJMws5Rcu9hkcROGR3HSft_8E"
+  },
+  "via garibaldi n.66 n.66": {
+    "formatted_address": "Via Giuseppe Garibaldi, 66, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61548639999999,
+      "lng": 9.2064784
+    },
+    "place_id": "EjJWaWEgR2l1c2VwcGUgR2FyaWJhbGRpLCA2NiwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via mons. cattaneo n.8 n.8": {
+    "formatted_address": "Via Monsignor Celestino Cattaneo, 8, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6173013,
+      "lng": 9.205588700000002
+    },
+    "place_id": "EjtWaWEgTW9uc2lnbm9yIENlbGVzdGlubyBDYXR0YW5lbywgOCwgMjA4MzIgRGVzaW8gTUIsIEl0YWxpYQ"
+  },
+  "via garibaldi n.177 n.177": {
+    "formatted_address": "Via Giuseppe Garibaldi, 177, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.612647,
+      "lng": 9.2052289
+    },
+    "place_id": "ChIJ8XlbdCG8hkcROhqV1GEN9TU"
+  },
+  "via d'adda n.3 n.3": {
+    "formatted_address": "Via Cesare D'Adda, 3, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616676,
+      "lng": 9.205492
+    },
+    "place_id": "ChIJjcqLEiO8hkcRZsJvwTsjVDg"
+  },
+  "via trezzi n.1 n.1": {
+    "formatted_address": "Via Pompeo Trezzi, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61654,
+      "lng": 9.20325
+    },
+    "place_id": "ChIJ3ZPNhSS8hkcR47r3FUwqzyo"
+  },
+  "via degli artigiani n.38 n.38": {
+    "formatted_address": "Viale degli Artigiani, 38, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.601585,
+      "lng": 9.204723999999999
+    },
+    "place_id": "ChIJfcoUf5i-hkcRlMH6Zty6S_Y"
+  },
+  "via milano n.215/a n.215/a": {
+    "formatted_address": "Via Milano, 215, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6196819,
+      "lng": 9.1995433
+    },
+    "place_id": "ChIJD6cQsDq8hkcRgjekM7MZ0No"
+  },
+  "via binzago n.24 n.24": {
+    "formatted_address": "Via per Binzago, 24, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6237441,
+      "lng": 9.1897351
+    },
+    "place_id": "ChIJ1V2abzO8hkcRlY_w-ugj8fk"
+  },
+  "via pio xi n.48 n.48": {
+    "formatted_address": "Via Pio XI, 48, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616984,
+      "lng": 9.211103999999999
+    },
+    "place_id": "ChIJc2jKFRi8hkcRQRriTCWFy3s"
+  },
+  "via tonale n.45 n.45": {
+    "formatted_address": "Via Tonale, 45, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61866999999999,
+      "lng": 9.18895
+    },
+    "place_id": "ChIJN_f8bC28hkcRF_QGhBwxUVM"
+  },
+  "via tripoli n.21 n.21": {
+    "formatted_address": "Via Tripoli, 21, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6162251,
+      "lng": 9.205655199999999
+    },
+    "place_id": "ChIJn3UWCSO8hkcRAOJnn1jD6uM"
+  },
+  "via tagliabue n.121 n.121": {
+    "formatted_address": "Via Umberto Tagliabue, 121, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.622757,
+      "lng": 9.228138999999999
+    },
+    "place_id": "ChIJM7_1awy8hkcRJdCZvC8537w"
+  },
+  "via partigiani d'italia n.34 n.34": {
+    "formatted_address": "Via Partigiani d'Italia, 34, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61310599999999,
+      "lng": 9.21444
+    },
+    "place_id": "ChIJ2Q8l_hu8hkcReRIVECjoj3I"
+  },
+  "via tripoli n.47 n.47": {
+    "formatted_address": "Via Tripoli, 47, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61603299999999,
+      "lng": 9.204566999999999
+    },
+    "place_id": "ChIJKyWenSO8hkcRWYHtnfUgBjI"
+  },
+  "via garibaldi n.42 n.42": {
+    "formatted_address": "Via Giuseppe Garibaldi, 42, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61560799999999,
+      "lng": 9.206413
+    },
+    "place_id": "ChIJ3fCxrCO8hkcRqLXBRoHxPFg"
+  },
+  "via volta n.28/a n.28/a": {
+    "formatted_address": "Via Alessandro Volta, 28A, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61912100000001,
+      "lng": 9.213467999999999
+    },
+    "place_id": "ChIJfRd7Che8hkcRsPfs-6lqrRs"
+  },
+  "via gabellini n.6/r n.6/r": {
+    "formatted_address": "Via Alberto Gabellini, 6, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6227648,
+      "lng": 9.2074909
+    },
+    "place_id": "ChIJPWxuITy8hkcR6banp9urn2c"
+  },
+  "via prati ": {
+    "formatted_address": "Via Prati, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61280259999999,
+      "lng": 9.2127486
+    },
+    "place_id": "ChIJXTWoth68hkcRUMQ_uZWKIGw"
+  },
+  "via lampugnani n.55 n.55": {
+    "formatted_address": "Via Giovanni Maria Lampugnani, 55, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61809299999999,
+      "lng": 9.2153069
+    },
+    "place_id": "ChIJI2h3UBe8hkcRUxG8QVBL2uM"
+  },
+  "via garibaldi n.157 n.157": {
+    "formatted_address": "Via Giuseppe Garibaldi, 157, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61299469999999,
+      "lng": 9.2054525
+    },
+    "place_id": "ChIJLWwTdyG8hkcRLhp-xS3PnAM"
+  },
+  "via carcano n.44/b n.44/b": {
+    "formatted_address": "Via Filippo Carcano, 44B, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6140775,
+      "lng": 9.207886499999999
+    },
+    "place_id": "ChIJ3xknECK8hkcRvUUWx_ZJYkE"
+  },
+  "piazza giovanni xxiii ": {
+    "formatted_address": "Piazza Giovanni XXIII, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6255126,
+      "lng": 9.2024233
+    },
+    "place_id": "ChIJsZlZtjm8hkcRTFthgBP2aFs"
+  },
+  "via salgari n.7 n.7": {
+    "formatted_address": "Via Emilio Salgari, 7, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.623337,
+      "lng": 9.229552
+    },
+    "place_id": "ChIJnfTFgAu8hkcRLAnmKIz7zDI"
+  },
+  "via mazzini n.35 n.35": {
+    "formatted_address": "Via Giuseppe Mazzini, 35, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.62640589999999,
+      "lng": 9.1982847
+    },
+    "place_id": "EjBWaWEgR2l1c2VwcGUgTWF6emluaSwgMzUsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via stadio n.2 n.2": {
+    "formatted_address": "Via Stadio, 2, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.614349,
+      "lng": 9.199748999999999
+    },
+    "place_id": "ChIJr-671iW8hkcRAoiSrbq8UlM"
+  },
+  "via volta n.58 n.58": {
+    "formatted_address": "Via Alessandro Volta, 58, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.620628,
+      "lng": 9.212837
+    },
+    "place_id": "ChIJo7fVTha8hkcRVSubGTTTizY"
+  },
+  "via buozzi n.30 n.30": {
+    "formatted_address": "Via Bruno Buozzi, 30, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.620027,
+      "lng": 9.214013999999999
+    },
+    "place_id": "ChIJXwvrARe8hkcRLYPTLI-yJsk"
+  },
+  "piazza conciliazione n.10 n.10": {
+    "formatted_address": "Piazza Conciliazione, 10, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.616979,
+      "lng": 9.207844
+    },
+    "place_id": "ChIJlV3F6SK8hkcRjE794hA-bXY"
+  },
+  "via garibaldi n.5 n.5": {
+    "formatted_address": "Via Giuseppe Garibaldi, 5, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6167901,
+      "lng": 9.207028700000002
+    },
+    "place_id": "EjFWaWEgR2l1c2VwcGUgR2FyaWJhbGRpLCA1LCAyMDgzMiBEZXNpbyBNQiwgSXRhbGlh"
+  },
+  "via grandi n.6/a n.6/a": {
+    "formatted_address": "Via Achille Grandi, 6, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6148112,
+      "lng": 9.2070309
+    },
+    "place_id": "Ei1WaWEgQWNoaWxsZSBHcmFuZGksIDYsIDIwODMyIERlc2lvIE1CLCBJdGFsaWE"
+  },
+  "via mulinello ": {
+    "formatted_address": "20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6189486,
+      "lng": 9.198744
+    },
+    "place_id": "ChIJm3FsdCO8hkcRgM0fgAV4Bhw"
+  },
+  "via pio xi n.27 n.27": {
+    "formatted_address": "Via Pio XI, 27, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6169119,
+      "lng": 9.2107838
+    },
+    "place_id": "ChIJ5ZwMExi8hkcRy8P63aA4uHg"
+  },
+  "via per cesano n.1 n.1": {
+    "formatted_address": "Via per Cesano Maderno, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.622876,
+      "lng": 9.198347
+    },
+    "place_id": "ChIJlzPRxjC8hkcR2bWqvmQtQ4A"
+  },
+  "corso italia n.78 n.78": {
+    "formatted_address": "Corso Italia, 78, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.6210134,
+      "lng": 9.2087649
+    },
+    "place_id": "ChIJmXCxrz28hkcRhoQ5dvH1VN0"
+  },
+  "via lavoratori autobian n.1/19 n.1/19": {
+    "formatted_address": "Via Lavoratori Autobianchi, 1, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.626341,
+      "lng": 9.213913
+    },
+    "place_id": "ChIJsUf0DkC8hkcRkjAU5no2j0c"
+  },
+  "via bengasi n.1/b n.1/b": {
+    "formatted_address": "Via Bengasi, 1B, 20832 Desio MB, Italia",
+    "location": {
+      "lat": 45.61187899999999,
+      "lng": 9.204409
+    },
+    "place_id": "ChIJzzy-GiG8hkcRVOtwVaOnII8"
+  }
+}
