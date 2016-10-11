@@ -19,3 +19,5 @@
 
 # Ignore gems installed in local directory
 /vendor/bundle/
+
+.env
