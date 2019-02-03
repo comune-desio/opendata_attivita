@@ -5,7 +5,7 @@ cache:
   directories:
   - bundle
 rvm:
-  - 2.3.0
+  - 2.6.0
 before_script:
 - git config --global user.email "root@olisti.co"
 - git config --global user.name "Maurizio De Magnis"
